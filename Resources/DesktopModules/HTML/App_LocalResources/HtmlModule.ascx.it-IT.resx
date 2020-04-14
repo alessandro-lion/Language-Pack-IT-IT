@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Modifica Contenuto</value>
+  </data>
+  <data name="AddContent.Text">
+    <value xml:space="preserve">Clicca Qui Per Modificare il Tuo Contenuto</value>
+  </data>
+  <data name="AddContentFromActionMenu.Text">
+    <value xml:space="preserve">È necessario essere in Modalità di Modifica per inserire il contenuto. È possibile utilizzare il Modulo Action Menu o il Module Action Buttons per gestire il contenuto.</value>
+  </data>
+  <data name="AddContentFromToolBar.Text">
+    <value xml:space="preserve">Seleziona "Modifica Contenuto" dal Menu Azione Modifica (Icona Matita).</value>
+  </data>
+  <data name="Bold.ToolTip">
+    <value xml:space="preserve">Grassetto</value>
+  </data>
+  <data name="Cancel.ToolTip">
+    <value xml:space="preserve">Cancella</value>
+  </data>
+  <data name="CreateLink.ToolTip">
+    <value xml:space="preserve">Crea Link</value>
+  </data>
+  <data name="Edit.ToolTip">
+    <value xml:space="preserve">Modifica</value>
+  </data>
+  <data name="Indent.ToolTip">
+    <value xml:space="preserve">Aumenta Rientro</value>
+  </data>
+  <data name="Italic.ToolTip">
+    <value xml:space="preserve">Italico</value>
+  </data>
+  <data name="JustifyCenter.ToolTip">
+    <value xml:space="preserve">Giustifica al Centro</value>
+  </data>
+  <data name="JustifyLeft.ToolTip">
+    <value xml:space="preserve">Giustifica a Sinistra</value>
+  </data>
+  <data name="JustifyRight.ToolTip">
+    <value xml:space="preserve">Giustifica a Destra</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;p&gt;Il modulo di testo/HTML consente di inserire testo, RTF o codice HTML. Avete cinque modalità d'uso:&lt;/p&gt;
+&lt;OL&gt;
+&lt;li&gt;&lt;strong&gt;Testo Base / testo &lt;/strong&gt;: Visualizza testo semplice e  tag HTML. Il testo inserito su una nuova riga viene considerato come una interruzione di riga. Lo stile di testo è predefinito "Normal", come specificato nel foglio di stile.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Testo base/ HTML &lt;/strong&gt;: consente di visualizzare testo semplice nel formato HTML.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Testo base / Raw &lt;/strong&gt;: consente di visualizzare testo normale in formato HTML. Interruzioni di riga non vengono automaticamente preso in considerazione.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Testo base / HTML&lt;/strong&gt;: consente di incollare html da altrfonti esterne.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rich Text Editor / Design &lt;/strong&gt;: è un elaboratore testi completo o editor WYSIWYG (Quello che vedi è quello che ottieni) con funzionalità come iperlinks, link email, file manager, image manager, controllo sintattico, ecc.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In aggiunta il modulo supporta il versioning (tiene traccia delle versioni) e la gestione dei flussi. Nella Community Edition sono disponibili due modalità di flussi . Pubblicazione diretta e Salva Bozza.&lt;/p&gt;</value>
+  </data>
+  <data name="MyWork.Action">
+    <value xml:space="preserve">Il Mio Lavoro</value>
+  </data>
+  <data name="OrderedList.ToolTip">
+    <value xml:space="preserve">Elenco Ordinato</value>
+  </data>
+  <data name="Outdent.ToolTip">
+    <value xml:space="preserve">Riduci Rientro</value>
+  </data>
+  <data name="Save.ToolTip">
+    <value xml:space="preserve">Salva</value>
+  </data>
+  <data name="Underline.ToolTip">
+    <value xml:space="preserve">Sottolineato</value>
+  </data>
+  <data name="UnorderedList.ToolTip">
+    <value xml:space="preserve">Elenco Non Ordinato</value>
+  </data>
+  <data name="Workflow.Action">
+    <value xml:space="preserve">Flusso di Lavoro</value>
+  </data>
+</root>

@@ -1,0 +1,994 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ContentOptions.Action" xml:space="preserve">
+    <value>Visualizza Stato dello Scheduler</value>
+  </data>
+  <data name="ScheduleHistory.Action" xml:space="preserve">
+    <value>Visualizza Storico Scheduler</value>
+  </data>
+  <data name="plType.Text" xml:space="preserve">
+    <value>Nome Completo Classe e Assembly</value>
+  </data>
+  <data name="plEnabled.Text" xml:space="preserve">
+    <value>Abilita Scheduler</value>
+  </data>
+  <data name="plTimeLapse.Text" xml:space="preserve">
+    <value>Frequenza</value>
+  </data>
+  <data name="plTimeLapse.Help" xml:space="preserve">
+    <value>Imposta il periodo di tempo per determinare la frequenza con questa operazione verrà eseguita.</value>
+  </data>
+  <data name="Minutes.Text" xml:space="preserve">
+    <value>Minuti</value>
+  </data>
+  <data name="Days.Text" xml:space="preserve">
+    <value>Giorni</value>
+  </data>
+  <data name="Hours.Text" xml:space="preserve">
+    <value>Ore</value>
+  </data>
+  <data name="Weeks.Text" xml:space="preserve">
+    <value>Settimane</value>
+  </data>
+  <data name="Months.Text" xml:space="preserve">
+    <value>Mesi</value>
+  </data>
+  <data name="Years.Text" xml:space="preserve">
+    <value>Anni</value>
+  </data>
+  <data name="plRetryTimeLapse.Text" xml:space="preserve">
+    <value>Lasso di Tempo Nuovo Tentativo</value>
+  </data>
+  <data name="plRetryTimeLapse.Help" xml:space="preserve">
+    <value>Imposta il lasso di tempo per eseguire nuovamente questa attività in seguito ad un fallimento.</value>
+  </data>
+  <data name="plRetainHistoryNum.Text" xml:space="preserve">
+    <value>Conservare Storico Scheduler</value>
+  </data>
+  <data name="plRetainHistoryNum.Help" xml:space="preserve">
+    <value>Seleziona il numero di elementi da conservare nello storico dello scheduler.</value>
+  </data>
+  <data name="plAttachToEvent.Text" xml:space="preserve">
+    <value>Esegui su Evento</value>
+  </data>
+  <data name="plAttachToEvent.Help" xml:space="preserve">
+    <value>Seleziona "Avvia Applicazione" per eseguire questo evento quando inizia l'applicazione web. Si noti che gli eventi che funzionano in APPLICATION_END potrebbero non funzionare in modo affidabile su alcuni host.</value>
+  </data>
+  <data name="None.Text" xml:space="preserve">
+    <value>Nessuno</value>
+  </data>
+  <data name="All.Text" xml:space="preserve">
+    <value>Tutti</value>
+  </data>
+  <data name="APPLICATION_START.Text" xml:space="preserve">
+    <value>AVVIA_APPLICAZIONE</value>
+  </data>
+  <data name="plCatchUpEnabled.Text" xml:space="preserve">
+    <value>Riesegui Attività</value>
+  </data>
+  <data name="plCatchUpEnabled.Help" xml:space="preserve">
+    <value>Seleziona questa casella per eseguire questo evento una volta per ogni frequenza che persa durante eventuali tempi di inattività del server.</value>
+  </data>
+  <data name="plObjectDependencies.Text" xml:space="preserve">
+    <value>Dipendenze Oggetto</value>
+  </data>
+  <data name="plObjectDependencies.Help" xml:space="preserve">
+    <value>Inserire le tabelle o altri oggetti dai quali dipende questo evento. Per esempio. "Users,UsersOnline"</value>
+  </data>
+  <data name="UpdateSuccess.Text" xml:space="preserve">
+    <value>Le modifiche sono state salvate.</value>
+  </data>
+  <data name="DeleteSuccess.Text" xml:space="preserve">
+    <value>L'elemento pianificato è stato eliminato.</value>
+  </data>
+  <data name="DeleteError.Text" xml:space="preserve">
+    <value>Impossibile eliminare l'elemento pianificato. Per favore riprovare più tardi.</value>
+  </data>
+  <data name="ControlTitle_edit.Text" xml:space="preserve">
+    <value>Modifica Attività</value>
+  </data>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;About Scheduler&lt;/h1&gt;&lt;p&gt;Consente di pianificare le attività da eseguire ad intervalli specifici.&lt;/p&gt;</value>
+  </data>
+  <data name="plType.Help" xml:space="preserve">
+    <value>Questo è il nome completo della classe seguita dal nome assembly. Per esempio "DotNetNuke.Entities.Users.PurgeUsersOnline, DOTNETNUKE"</value>
+  </data>
+  <data name="plServers.Text" xml:space="preserve">
+    <value>Nome Server:</value>
+  </data>
+  <data name="plServers.Help" xml:space="preserve">
+    <value>Filtra attività pianificate per singolo server o scegli Tutte per visualizzare tutte le attività.</value>
+  </data>
+  <data name="Seconds.Text" xml:space="preserve">
+    <value>Secondi</value>
+  </data>
+  <data name="plEnabled.Help" xml:space="preserve">
+    <value>Seleziona questa casella per abilitare la pianificazione di questo job.</value>
+  </data>
+  <data name="plFriendlyName.Help" xml:space="preserve">
+    <value>Inserisci un nome per il job pianificato.</value>
+  </data>
+  <data name="plFriendlyName.Text" xml:space="preserve">
+    <value>Friendly Name</value>
+  </data>
+  <data name="cmdRun.Text" xml:space="preserve">
+    <value>Esegui Ora</value>
+  </data>
+  <data name="cmdDelete.Text" xml:space="preserve">
+    <value>Elimina</value>
+  </data>
+  <data name="RunNow.Text" xml:space="preserve">
+    <value>Elemento aggiunto allo scheduler per l'esecuzione immediata.</value>
+  </data>
+  <data name="TypeRequired.Text" xml:space="preserve">
+    <value>Il tipo di elemento dello scheduler è obbligatorio.</value>
+  </data>
+  <data name="TimeLapseValidator.ErrorMessage" xml:space="preserve">
+    <value>Il range di Frequenza va da 1 a 999999.</value>
+  </data>
+  <data name="TimeLapseRequired.ErrorMessage" xml:space="preserve">
+    <value>È necessario impostare il valore di Frequenza da 1 a 999999.</value>
+  </data>
+  <data name="RetryTimeLapseValidator.ErrorMessage" xml:space="preserve">
+    <value>Il range di Frequenza del nuovo tentativo va 1 a 999999.</value>
+  </data>
+  <data name="plScheduleStartDate.Text" xml:space="preserve">
+    <value>Data/Ora Inizio Scheduler</value>
+  </data>
+  <data name="plScheduleStartDate.Help" xml:space="preserve">
+    <value>Inserire la data/ora di inizio per il job pianificato. Nota: Se il server è giù quando è previsto lo scheduler o se altri job sono già in esecuzione, il job verrà eseguito non appena il server tornerà in linea.</value>
+  </data>
+  <data name="InvalidFrequencyAndRetry.Text" xml:space="preserve">
+    <value>I valori della frequenza e dei tentativi non sono validi perchè l'intervallo dei tentativi supera l'intervallo della frequenza.</value>
+  </data>
+  <data name="AddContent.Action" xml:space="preserve">
+    <value>Aggiungi Elemento Allo Scheduler</value>
+  </data>
+  <data name="Type.Header" xml:space="preserve">
+    <value>Tipo</value>
+  </data>
+  <data name="Enabled.Header" xml:space="preserve">
+    <value>ABILITATO</value>
+  </data>
+  <data name="Enabled.Label" xml:space="preserve">
+    <value>Abilitato</value>
+  </data>
+  <data name="Frequency.Header" xml:space="preserve">
+    <value>FREQUENZA</value>
+  </data>
+  <data name="RetryTimeLapse.Header" xml:space="preserve">
+    <value>LASSO DI TEMPO NUOVO TENTATIVO</value>
+  </data>
+  <data name="NextStart.Header" xml:space="preserve">
+    <value>Prossimo Avvio</value>
+  </data>
+  <data name="NextStart.Label" xml:space="preserve">
+    <value>Prossimo Avvio</value>
+  </data>
+  <data name="lnkHistory.Text" xml:space="preserve">
+    <value>Storico</value>
+  </data>
+  <data name="TimeLapsePrefix.Text" xml:space="preserve">
+    <value>Ogni</value>
+  </data>
+  <data name="Minute.Text" xml:space="preserve">
+    <value>Minuto</value>
+  </data>
+  <data name="Hour.Text" xml:space="preserve">
+    <value>Ora</value>
+  </data>
+  <data name="Day.Text" xml:space="preserve">
+    <value>Giorno</value>
+  </data>
+  <data name="n/a.Text" xml:space="preserve">
+    <value>n/d</value>
+  </data>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Pianifica</value>
+  </data>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Nome Attività</value>
+  </data>
+  <data name="History.Text" xml:space="preserve">
+    <value>Visualizza Storico</value>
+  </data>
+  <data name="Status.Text" xml:space="preserve">
+    <value>Visualizza Stato</value>
+  </data>
+  <data name="ViewLog.Header" xml:space="preserve">
+    <value>Registro Eventi</value>
+  </data>
+  <data name="plSchedulerMode.Text" xml:space="preserve">
+    <value>Modalità Scheduler:</value>
+  </data>
+  <data name="plSchedulerMode.Help" xml:space="preserve">
+    <value>Il Metodo Timer mantiene un thread separato per eseguire le attività pianificate mentre il processo di lavoro è in esecuzione. In alternativa, il Metodo Request esegue le attività quando vengono fatte richieste HTTP. È inoltre possibile disattivare la pianificazione selezionando Disabilita.</value>
+  </data>
+  <data name="Disabled.Text" xml:space="preserve">
+    <value>Disabilitato</value>
+  </data>
+  <data name="TimerMethod.Text" xml:space="preserve">
+    <value>Timer Method</value>
+  </data>
+  <data name="RequestMethod.Text" xml:space="preserve">
+    <value>Request Method</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Impostazioni</value>
+  </data>
+  <data name="plScheduleAppStartDelay.Text" xml:space="preserve">
+    <value>Ritardo Scheduler:</value>
+  </data>
+  <data name="plScheduleAppStartDelay.Help" xml:space="preserve">
+    <value>Numero di minuti che il sistema deve attendere prima di eseguire i job pianificati dopo un riavvio. L'impostazione predefinita è 1 min.</value>
+  </data>
+  <data name="ScheduleAppStartDelayValidation.Text" xml:space="preserve">
+    <value>Il valore deve essere in minuti.</value>
+  </data>
+  <data name="Started.Header" xml:space="preserve">
+    <value>Iniziato</value>
+  </data>
+  <data name="Ended.Header" xml:space="preserve">
+    <value>Terminato</value>
+  </data>
+  <data name="Duration.Header" xml:space="preserve">
+    <value>Durata (secondi)</value>
+  </data>
+  <data name="Succeeded.Header" xml:space="preserve">
+    <value>Eseguita con successo</value>
+  </data>
+  <data name="Start/End/Next Start.Header" xml:space="preserve">
+    <value>Avvio/Fine/Prossimo Avvio</value>
+  </data>
+  <data name="Notes.Header" xml:space="preserve">
+    <value>Note</value>
+  </data>
+  <data name="ControlTitle_history.Text" xml:space="preserve">
+    <value>Storico Attività</value>
+  </data>
+  <data name="Description.Header" xml:space="preserve">
+    <value>Descrizione</value>
+  </data>
+  <data name="Start.Header" xml:space="preserve">
+    <value>Avvio/Fine/Prossimo</value>
+  </data>
+  <data name="Server.Header" xml:space="preserve">
+    <value>Eseguito Sul Server</value>
+  </data>
+  <data name="lblStatusLabel.Text" xml:space="preserve">
+    <value>Stato:</value>
+  </data>
+  <data name="lblMaxThreadsLabel.Text" xml:space="preserve">
+    <value>Max Threads:</value>
+  </data>
+  <data name="lblActiveThreadsLabel.Text" xml:space="preserve">
+    <value>Attiva Threads:</value>
+  </data>
+  <data name="lblFreeThreadsLabel.Text" xml:space="preserve">
+    <value>Free Threads:</value>
+  </data>
+  <data name="lblCommand.Text" xml:space="preserve">
+    <value>Comando:</value>
+  </data>
+  <data name="lblProcessing.Text" xml:space="preserve">
+    <value>Elementi in Esecuzione</value>
+  </data>
+  <data name="ScheduleID.Header" xml:space="preserve">
+    <value>ID: </value>
+  </data>
+  <data name="ObjectDependencies.Header" xml:space="preserve">
+    <value>Dipendenze Oggetto:</value>
+  </data>
+  <data name="TriggeredBy.Header" xml:space="preserve">
+    <value>Eseguito Da: </value>
+  </data>
+  <data name="Thread.Header" xml:space="preserve">
+    <value>Thread: </value>
+  </data>
+  <data name="Servers.Header" xml:space="preserve">
+    <value>Server: </value>
+  </data>
+  <data name="lblQueue.Text" xml:space="preserve">
+    <value>Elementi in Coda</value>
+  </data>
+  <data name="Overdue.Header" xml:space="preserve">
+    <value>Ritardo (secondi): </value>
+  </data>
+  <data name="TimeRemaining.Header" xml:space="preserve">
+    <value>Tempo Rimanente: </value>
+  </data>
+  <data name="NoTasks.Text" xml:space="preserve">
+    <value>Non ci sono task in coda</value>
+  </data>
+  <data name="DisabledMessage.Text" xml:space="preserve">
+    <value>Lo Scheduler è attualmente disabilitato.</value>
+  </data>
+  <data name="ManuallyStopped.Text" xml:space="preserve">
+    <value>Arrestato manualmente dalla pagina di stato dello scheduler</value>
+  </data>
+  <data name="cmdStart.Text" xml:space="preserve">
+    <value>Avvia</value>
+  </data>
+  <data name="cmdStop.Text" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="cmdSave.Text" xml:space="preserve">
+    <value>Salva</value>
+  </data>
+  <data name="ControlTitle_status.Text" xml:space="preserve">
+    <value>Stato Scheduler</value>
+  </data>
+  <data name="Stop.Header" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="TabTaskQueue.Text" xml:space="preserve">
+    <value>CODA ATTIVITÀ</value>
+  </data>
+  <data name="TabScheduler.Text" xml:space="preserve">
+    <value>SCHEDULER</value>
+  </data>
+  <data name="TabHistory.Text" xml:space="preserve">
+    <value>STORICO</value>
+  </data>
+  <data name="TabHistoryTitle.Text" xml:space="preserve">
+    <value>Storico Scheduler</value>
+  </data>
+  <data name="HistoryModalTitle.Text" xml:space="preserve">
+    <value>Storico Attività: </value>
+  </data>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Cancella</value>
+  </data>
+  <data name="Update.Text" xml:space="preserve">
+    <value>Aggiorna</value>
+  </data>
+  <data name="NOT_SET.Text" xml:space="preserve">
+    <value>NON IMPOSTATO</value>
+  </data>
+  <data name="WAITING_FOR_OPEN_THREAD.Text" xml:space="preserve">
+    <value>IN ATTESA DI APERTURA THREAD</value>
+  </data>
+  <data name="RUNNING_EVENT_SCHEDULE.Text" xml:space="preserve">
+    <value>ESEGUI SCHEDULER EVENTO</value>
+  </data>
+  <data name="RUNNING_TIMER_SCHEDULE.Text" xml:space="preserve">
+    <value>ESEGUI SCHEDULER TIMER</value>
+  </data>
+  <data name="RUNNING_REQUEST_SCHEDULE.Text" xml:space="preserve">
+    <value>ESEGUI SCHEDULER REQUEST</value>
+  </data>
+  <data name="WAITING_FOR_REQUEST.Text" xml:space="preserve">
+    <value>IN ATTESA DELLA RICHIESTA</value>
+  </data>
+  <data name="SHUTTING_DOWN.Text" xml:space="preserve">
+    <value>CHIUDI</value>
+  </data>
+  <data name="STOPPED.Text" xml:space="preserve">
+    <value>FERMATO</value>
+  </data>
+  <data name="SchedulerUpdateSuccess.Text" xml:space="preserve">
+    <value>Scheduler aggiornato con successo.</value>
+  </data>
+  <data name="SchedulerUpdateError.Text" xml:space="preserve">
+    <value>Impossibile aggiornare lo scheduler. Si prega di riprovare più tardi.</value>
+  </data>
+  <data name="SchedulerStartSuccess.Text" xml:space="preserve">
+    <value>Scheduler avviato con successo.</value>
+  </data>
+  <data name="SchedulerStartError.Text" xml:space="preserve">
+    <value>Impossibile avviare lo scheduler. Si prega di riprovare più tardi.</value>
+  </data>
+  <data name="SchedulerStopSuccess.Text" xml:space="preserve">
+    <value>Scheduler fermato con successo.</value>
+  </data>
+  <data name="SchedulerStopError.Text" xml:space="preserve">
+    <value>Impossibile fermare lo scheduler. Si prega di riprovare più tardi.</value>
+  </data>
+  <data name="StartSchedule.Text" xml:space="preserve">
+    <value>Avvia Scheduler</value>
+  </data>
+  <data name="StopSchedule.Text" xml:space="preserve">
+    <value>Ferma Scheduler</value>
+  </data>
+  <data name="lblStartDelay.Text" xml:space="preserve">
+    <value>Ritardo Avvio Scheduler (min):</value>
+  </data>
+  <data name="processing.Text" xml:space="preserve">
+    <value>Esecuzione ...</value>
+  </data>
+  <data name="RunNowError.Text" xml:space="preserve">
+    <value>Impossibile aggiungere questo elemento allo scheduler. Si prega di riprovare più tardi.</value>
+  </data>
+  <data name="DescriptionColumn.Text" xml:space="preserve">
+    <value>DESCRIZIONE</value>
+  </data>
+  <data name="RanOnServerColumn.Text" xml:space="preserve">
+    <value>ESEGUI SUL SERVER</value>
+  </data>
+  <data name="DurationColumn.Text" xml:space="preserve">
+    <value>DURATA (SEC)</value>
+  </data>
+  <data name="SucceededColumn.Text" xml:space="preserve">
+    <value>ESEGUITA CON SUCCESSO</value>
+  </data>
+  <data name="StartEndColumn.Text" xml:space="preserve">
+    <value>AVVIO/FINE</value>
+  </data>
+  <data name="nav_TaskScheduler.Text" xml:space="preserve">
+    <value>Scheduler</value>
+  </data>
+  <data name="ScheduleItemUpdateSuccess.Text" xml:space="preserve">
+    <value>Elemento pianificato modificato con successo.</value>
+  </data>
+  <data name="ScheduleItemUpdateError.Text" xml:space="preserve">
+    <value>Non è possibile aggiornare l'elemento pianificato. Si prega di riprovare più tardi.</value>
+  </data>
+  <data name="ScheduleItemCreateSuccess.Text" xml:space="preserve">
+    <value>Elemento pianificato creato con successo.</value>
+  </data>
+  <data name="ScheduleItemCreateError.Text" xml:space="preserve">
+    <value>Impossibile creare l'elemento pianificato. Si prega di riprovare più tardi.</value>
+  </data>
+  <data name="ScheduleItemDeletedWarning.Text" xml:space="preserve">
+    <value>Sei sicuro di voler eliminare questo elemento pianificato?</value>
+  </data>
+  <data name="Yes.Text" xml:space="preserve">
+    <value>Si</value>
+  </data>
+  <data name="No.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="SettingsRestoreWarning.Text" xml:space="preserve">
+    <value>Sei sicuro di voler annullare le modifiche?</value>
+  </data>
+  <data name="ServerTime.Text" xml:space="preserve">
+    <value>Ora Server:</value>
+  </data>
+  <data name="cmdAddTask.Text" xml:space="preserve">
+    <value>Aggiungi Attività</value>
+  </data>
+  <data name="pageSizeOption.Text" xml:space="preserve">
+    <value>{0} risultati per pagina</value>
+  </data>
+  <data name="pagerSummary.Text" xml:space="preserve">
+    <value>Mostrando {0}-{1} di {2} risultati</value>
+  </data>
+  <data name="Servers.Text">
+    <value>Server</value>
+  </data>
+  <data name="DayPlural.Text">
+    <value>giorni</value>
+  </data>
+  <data name="DaySingular.Text">
+    <value>giorno</value>
+  </data>
+  <data name="HourPlural.Text">
+    <value>ore</value>
+  </data>
+  <data name="HourSingular.Text">
+    <value>ora</value>
+  </data>
+  <data name="LessThanMinute.Text">
+    <value>meno di un minuto</value>
+  </data>
+  <data name="MinutePlural.Text">
+    <value>minuti</value>
+  </data>
+  <data name="MinuteSingular.Text">
+    <value>minuto</value>
+  </data>
+  <data name="NoTasksMessage.Text">
+    <value>Ogni volta che avrai task in coda o in elaborazione, appariranno qui.</value>
+  </data>
+  <data name="Prompt_FetchTaskFailed.Text">
+    <value>Impossibile recuperare i dettagli del task. Si prega di consultare il log eventi per maggiori dettagli.</value>
+  </data>
+  <data name="Prompt_FlagCantBeEmpty.Text">
+    <value>Se specificato, il flag --{0} non può essere vuoto.\n</value>
+  </data>
+  <data name="Prompt_FlagMustBeNumber.Text">
+    <value>Se specificato, il flag --{0} deve essere un numero.\n</value>
+  </data>
+  <data name="Prompt_FlagMustBeTrueFalse.Text">
+    <value>Se specificato, il flag --{0} deve essere True o False.\n</value>
+  </data>
+  <data name="Prompt_FlagRequired.Text">
+    <value>Il flag --{0} è obbligatorio.\n</value>
+  </data>
+  <data name="Prompt_GetTask_Description.Text">
+    <value>Recupera i dettagli per il Task  Pianificato. DNN si riferisce a questi come elementi pianificati. Il Prompt si riferisce a loro come task.</value>
+  </data>
+  <data name="Prompt_GetTask_FlagId.Text">
+    <value>L'ID dell'elemento che si desidera recuperare. Se si passa l'ID come primo valore dopo il nome del comando, non è necessario utilizzare esplicitamente il nome del flag &lt;span class="mono"&gt;--id&lt;/span&gt;.</value>
+  </data>
+  <data name="Prompt_GetTask_ResultHtml.Text">
+    <value>&lt;h4&gt;Ottenere Un Task&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    get-task 11
+  &lt;/code&gt;
+  O
+  &lt;code class="block"&gt;
+    get-task --id 11
+  &lt;/code&gt;
+
+  &lt;h4&gt;Risultati&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ScheduleId&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FreindlyName&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Messaging Dispatch&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;TypeName&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;DotNteNuke.Services.Social.Messaging.Scheduler.CoreMessagingScheduler,DotNetNuke&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;NextStart&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;2017-01-02T08:19:49.53&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Enabled&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CatchUp&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;false&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Created&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;0001-01-01T00:00:00&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;StartDate&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;0001-01-01T00:00:00&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_ListTasks_Description.Text">
+    <value>Recupera un elenco di task pianificati in base ai criteri specificati. DNN si riferisce a questi come elementi pianificati. Il Prompt si riferisce a loro come task.</value>
+  </data>
+  <data name="Prompt_ListTasks_FlagEnabled.Text">
+    <value>Se specificato, il Prompt restituirà i task abilitati (se questo flag è impostato su true) o disabilitati (se impostato su false). Se questo flag non viene specificato, allora il Prompt restituirà i task indipendentemente dal loro stato di abilitazione.</value>
+  </data>
+  <data name="Prompt_ListTasks_FlagName.Text">
+    <value>Quando specificato, il Prompt restituirà i task il cui Friendly Name corrisponde all'espressione. Questo supporta la corrispondenza tramite il carattere speciale asterisco (&lt;span class = "mono"&gt; * &lt;/ span&gt;) per rappresentare zero (0) o più caratteri.</value>
+  </data>
+  <data name="Prompt_ListTasks_ResultHtml.Text">
+    <value>
+      <h4>Elenca Tutti i Task</h4>
+  <code class="block">
+    list-tasks
+  </code>
+
+  <h4>Risultati</h4>
+  <table class="command-result-tbl">
+    <thead>
+    <tr>
+      <th>ScheduleId</th>
+      <th>FriendlyName</th>
+      <th>NextStart</th>
+      <th>Enabled</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>11</td>
+      <td>MessagingDispatch</td>
+      <td>2017-01-02T08:19:49.53</td>
+      <td>true</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Purge Cache</td>
+      <td>2017-01-02T08:08:07.4342281-07:00</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Purge Client Dependency Files</td>
+      <td>2017-01-02T08:08:07.4342281-07:00</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Purge Log Buffer</td>
+      <td>2017-01-02T08:08:07.4342281-07:00</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Purge Module Cache</td>
+      <td>2017-01-02T08:19:50.533</td>
+      <td>true</td>
+    </tr>
+    <tr>
+      <td colspan="4">...</td>
+    </tr>
+    <tr>
+      <td colspan="4">10 task trovati</td>
+    </tr>
+    </tbody>
+  </table>
+
+  <h4>Elenca Tutti i Tasks Abilitati</h4>
+  <code class="block">
+    list-tasks true
+  </code>
+  O
+  <code class="block">
+    list-tasks --enabled true
+  </code>
+
+  <h4>Risultati</h4>
+  <table class="command-result-tbl">
+    <thead>
+    <tr>
+      <th>ScheduleId</th>
+      <th>FriendlyName</th>
+      <th>NextStart</th>
+      <th>Enabled</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>11</td>
+      <td>MessagingDispatch</td>
+      <td>2017-01-02T08:19:49.53</td>
+      <td class="bg-info">true</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Purge Module Cache</td>
+      <td>2017-01-02T08:19:50.533</td>
+      <td class="bg-info">true</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Purge Schedule History</td>
+      <td>2017-01-03T08:08:10.45</td>
+      <td class="bg-info">true</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Search: Site Crawler</td>
+      <td>2017-01-02T09:09:09.94</td>
+      <td class="bg-info">true</td>
+    </tr>
+    <tr>
+      <td colspan="4">4 task trovati</td>
+    </tr>
+    </tbody>
+  </table>
+
+  <h4>Elenca Tutti i Task il cui Nome Inizia Con "purge"</h4>
+  <code class="block">
+    list-tasks purge*
+  </code>
+  O
+  <code class="block">
+    list-tasks --name purge*
+  </code>
+
+  <h4>Risultati</h4>
+  <table class="command-result-tbl">
+    <thead>
+    <tr>
+      <th>ScheduleId</th>
+      <th>FriendlyName</th>
+      <th>NextStart</th>
+      <th>Enabled</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>9</td>
+      <td class="bg-info">Purge Cache</td>
+      <td>2017-01-02T09:08:55.2867143-07:00</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td class="bg-info">Purge Client Dependency Files</td>
+      <td>2017-01-02T09:08:55.2867143-07:00</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td class="bg-info">Purge Log Buffer</td>
+      <td>2017-01-02T09:08:55.2867143-07:00</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td class="bg-info">Purge Module Cache</td>
+      <td>2017-01-02T09:17:20.48</td>
+      <td>true</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td class="bg-info">Purge Output Cache</td>
+      <td>2017-01-02T09:08:55.2867143-07:00</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td class="bg-info">Purge Schedule History</td>
+      <td>2017-01-03T08:08:10.45</td>
+      <td>true</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td class="bg-info">Purge Users Online</td>
+      <td>2017-01-02T09:08:55.2867143-07:00</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td colspan="4">7 task trovati</td>
+    </tr>
+    </tbody>
+  </table>
+
+  <h4>Elenca Tutti i Task Abilitati il Cui Nome Inizia Con "purge"</h4>
+  <code class="block">
+    list-tasks purge* --enabled true
+  </code>
+  O
+  <code class="block">
+    list-tasks true --name purge*
+  </code>
+  O
+  <code class="block">
+    list-tasks --enabled true --name purge*
+  </code>
+
+  <h4>Risultati</h4>
+  <table class="command-result-tbl">
+    <thead>
+    <tr>
+      <th>ScheduleId</th>
+      <th>FriendlyName</th>
+      <th>NextStart</th>
+      <th>Enabled</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>10</td>
+      <td class="bg-info">Purge Module Cache</td>
+      <td>2017-01-02T09:17:20.48</td>
+      <td class="bg-info">true</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td class="bg-info">Purge Schedule History</td>
+      <td>2017-01-03T08:08:10.45</td>
+      <td class="bg-info">true</td>
+    </tr>
+    <tr>
+      <td colspan="4">2 task trovati</td>
+    </tr>
+    </tbody>
+  </table></value>
+  </data>
+  <data name="Prompt_ScheduleFlagRequired.Text">
+    <value>Devi specificare l'ID del task pianificato utilizzando il flag --{0} o passando il numero come primo argomento.\n</value>
+  </data>
+  <data name="Prompt_SchedulerCategory.Text">
+    <value>Comandi Scheduler</value>
+  </data>
+  <data name="Prompt_SetTask_Description.Text">
+    <value>Imposta o aggiorna le proprietà su uno specifico Task Pianificato.</value>
+  </data>
+  <data name="Prompt_SetTask_FlagEnabled.Text">
+    <value>Quando è true, il task specificato sarà abilitato. Se falso, il task specificato sarà disabilitato.</value>
+  </data>
+  <data name="Prompt_SetTask_FlagId.Text">
+    <value>L'ID del task che si desidera aggiornare. Puoi evitare di digitare esplicitamente il flag &lt;span class="mono"&gt;--id&lt;/span&gt; semplicemente passando l'ID del task come primo argomento.</value>
+  </data>
+  <data name="Prompt_SetTask_ResultHtml.Text">
+    <value>
+      <h4>Disattiva la "Cancellazione Dello Storico di Pianificazione" del task</h4>
+  <code class="block">
+    set-task 3 --enabled false
+  </code>
+  OR
+  <code class="block">
+    set-task --id 3 --enabled false
+  </code>
+
+  <h4>Risultati</h4>
+  <table class="command-result-tbl">
+    <tr>
+      <td>ScheduleId</td>
+      <td>:</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>FreindlyName</td>
+      <td>:</td>
+      <td>Purge Schedule History</td>
+    </tr>
+    <tr>
+      <td>TypeName</td>
+      <td>:</td>
+      <td>DotNetNuke.Services.Scheduling.PurgeScheduleHistory, DOTNETNUKE</td>
+    </tr>
+    <tr>
+      <td>NextStart</td>
+      <td>:</td>
+      <td>2017-01-02T09:08:55.2867143-07:00</td>
+    </tr>
+    <tr>
+      <td>Enabled</td>
+      <td>:</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>CatchUp</td>
+      <td>:</td>
+      <td>false</td>
+    </tr>
+    <tr>
+      <td>Created</td>
+      <td>:</td>
+      <td>0001-01-01T00:00:00</td>
+    </tr>
+    <tr>
+      <td>StartDate</td>
+      <td>:</td>
+      <td>2017-01-02T09:47:31.79</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        1 task aggiornato
+      </td>
+    </tr>
+  </table></value>
+  </data>
+  <data name="Prompt_TaskAlreadyDisabled.Text">
+    <value>Il task è già disabilitato.</value>
+  </data>
+  <data name="Prompt_TaskAlreadyEnabled.Text">
+    <value>Il task è già abilitato.</value>
+  </data>
+  <data name="Prompt_TaskNotFound.Text">
+    <value>Nessun task trovato con id {0}.</value>
+  </data>
+  <data name="Prompt_TasksFound.Text">
+    <value>{0} tasks trovati.</value>
+  </data>
+  <data name="Prompt_TaskUpdated.Text">
+    <value>Task aggiornato con successo.</value>
+  </data>
+  <data name="Prompt_TaskUpdateFailed.Text">
+    <value>Impossibile aggiornare il task.</value>
+  </data>
+</root>

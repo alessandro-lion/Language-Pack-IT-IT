@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="captchaLabel.Help">
+    <value xml:space="preserve">Inserisci il codice di sicurezza.</value>
+  </data>
+  <data name="captchaLabel.Text">
+    <value xml:space="preserve">Codice di Sicurezza:</value>
+  </data>
+  <data name="cmdRegister.Text">
+    <value xml:space="preserve">Iscriviti</value>
+  </data>
+  <data name="ControlTitle_register.Text">
+    <value xml:space="preserve">Iscriviti</value>
+  </data>
+  <data name="NoEmail.Text">
+    <value xml:space="preserve">Il provider di Autenticazione utilizzato per l'iscrizione non ha fornito un indirizzo e-mail. Si prega di inserire un indirizzo e-mail valido e fai clic sul pulsante Iscriviti per completare la tua registrazione.</value>
+  </data>
+  <data name="RegisterWarning.Text">
+    <value xml:space="preserve">&lt;em&gt;(&lt;strong&gt;Nota:&lt;/strong&gt; - L'iscrizione può richiedere diversi secondi. Una volta cliccato il pulsante Iscriviti si prega di aspettare fino a quando il sistema risponde.)&lt;/em&gt;</value>
+  </data>
+</root>

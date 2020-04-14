@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BindConfirm.Text">
+    <value xml:space="preserve">L'associazione alla lingua di default eliminerà il contenuto dalle versioni collegate. Questa operazione è irreversibile. Sei sicuro di voler procedere?</value>
+  </data>
+  <data name="bindModule.Text">
+    <value xml:space="preserve">Lingua di Riferimento Predefinita</value>
+  </data>
+  <data name="Edit.Header">
+    <value xml:space="preserve">Modifica</value>
+  </data>
+  <data name="Language.Header">
+    <value xml:space="preserve">Lingua</value>
+  </data>
+  <data name="markModuleTranslated.Text">
+    <value xml:space="preserve">Segna come Tradotto</value>
+  </data>
+  <data name="markModuleUnTranslated.Text">
+    <value xml:space="preserve">Segna come Non Tradotto</value>
+  </data>
+  <data name="ModuleTitle.Header">
+    <value xml:space="preserve">Titolo Modulo</value>
+  </data>
+  <data name="ModuleType.Header">
+    <value xml:space="preserve">Modulo</value>
+  </data>
+  <data name="NA.Text">
+    <value xml:space="preserve">Non Disponibile</value>
+  </data>
+  <data name="Translated.Header">
+    <value xml:space="preserve">Tradotto?</value>
+  </data>
+  <data name="unbindModule.Text">
+    <value xml:space="preserve">Sganciare dalla Lingua Predefinita</value>
+  </data>
+  <data name="UnBound.Header">
+    <value xml:space="preserve">È Sganciata?</value>
+  </data>
+</root>

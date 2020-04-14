@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccountSettings.Text">
+    <value xml:space="preserve">Impostazioni Account</value>
+  </data>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Aggiungi Nuovo Utente</value>
+  </data>
+  <data name="AddUser.Text">
+    <value xml:space="preserve">Aggiungi Nuovo Utente</value>
+  </data>
+  <data name="AddUser.Title">
+    <value xml:space="preserve">Aggiungi Nuovo Utente</value>
+  </data>
+  <data name="CannotAddUser.Text">
+    <value xml:space="preserve">Questo sito è configurato per richiedere agli utenti di inserire una Domanda e una Risposta per ricevere il promemoria della password.  Questa configurazione non è compatibile con gli Amministratori che aggiungono gli utenti, così è stato disattivato per questo sito.</value>
+  </data>
+  <data name="cmdLogin.Text">
+    <value xml:space="preserve">Procedi con il Login</value>
+  </data>
+  <data name="cmdPassword.Text">
+    <value xml:space="preserve">Gestione Password</value>
+  </data>
+  <data name="cmdProfile.Text">
+    <value xml:space="preserve">Gestione Profilo</value>
+  </data>
+  <data name="cmdRegister.Text">
+    <value xml:space="preserve">Registrazione</value>
+  </data>
+  <data name="cmdRoles.Text">
+    <value xml:space="preserve">Gestione Ruoli per questo Utente</value>
+  </data>
+  <data name="cmdServices.Text">
+    <value xml:space="preserve">Gestione Servizi</value>
+  </data>
+  <data name="cmdUpdatePassword.Text">
+    <value xml:space="preserve">Aggiorna Password</value>
+  </data>
+  <data name="cmdUser.Text">
+    <value xml:space="preserve">Gestione Account</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Modifica Account Utente</value>
+  </data>
+  <data name="ControlTitle_profile.Text">
+    <value xml:space="preserve">Gestione Profilo</value>
+  </data>
+  <data name="ControlTitle_register.Text">
+    <value xml:space="preserve">Registrazione</value>
+  </data>
+  <data name="EmailError.Text">
+    <value xml:space="preserve">Il sito web richiede un Indirizzo E-mail univoco. L'Indirizzo E-mail inserito è già stato utilizzato.</value>
+  </data>
+  <data name="ExceededRegisterQuota.Text">
+    <value xml:space="preserve">Non è possibile effettuare la registrazione su questo sito in questo momento. Contattare l'Amministratore del sito per conoscere quando saranno riaperte le iscrizioni.</value>
+  </data>
+  <data name="ExceededUserQuota.Text">
+    <value xml:space="preserve">L'aggiunta di questo utente supererà la quota utenti consentiti in questo sito. Si prega di contattare il proprio fornitore di hosting per richieste relative ad aumentare la quota degli utenti.</value>
+  </data>
+  <data name="InvalidUser.Text">
+    <value xml:space="preserve">Questo account non è un utente di questo sito web.</value>
+  </data>
+  <data name="ManageProfile.Action">
+    <value xml:space="preserve">Gestione Proprietà Profilo</value>
+  </data>
+  <data name="MembershipDetails.Text">
+    <value xml:space="preserve">Informazioni Account</value>
+  </data>
+  <data name="MembershipTitle.Text">
+    <value xml:space="preserve">Informazioni Membership</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Informazioni sul modulo di Gestione Utenti&lt;/h1&gt;
+&lt;p&gt;Gli amministratori possono gestire i propri utenti registrati. Questo modulo consente di aggiungere nuovi utenti, modificare gli utenti esistenti, eliminare utenti e gestire i ruoli di sicurezza per gli utenti.&lt;/p&gt;</value>
+  </data>
+  <data name="NewPassword.Text">
+    <value xml:space="preserve">È necessario inserire una nuova password.</value>
+  </data>
+  <data name="NotAuthorized.Text">
+    <value xml:space="preserve">Non siete autorizzati a modificare i parametri di questo account.</value>
+  </data>
+  <data name="NoUser.Text">
+    <value xml:space="preserve">Questo account non esiste.</value>
+  </data>
+  <data name="Password.Action">
+    <value xml:space="preserve">Gestione Password Utente</value>
+  </data>
+  <data name="PasswordQAChanged.Text">
+    <value xml:space="preserve">Domanda e risposta password aggiornate correttamente.</value>
+  </data>
+  <data name="plCaptcha.Help">
+    <value xml:space="preserve">Inserisci il codice di sicurezza.</value>
+  </data>
+  <data name="plCaptcha.Text">
+    <value xml:space="preserve">Codice di sicurezza:</value>
+  </data>
+  <data name="plNewConfirm.Help">
+    <value xml:space="preserve">Immettere nuovamente la nuova password per confermare.</value>
+  </data>
+  <data name="plNewConfirm.Text">
+    <value xml:space="preserve">Conferma Nuova Password:</value>
+  </data>
+  <data name="plNewPassword.Help">
+    <value xml:space="preserve">Inserisci la nuova password.</value>
+  </data>
+  <data name="plNewPassword.Text">
+    <value xml:space="preserve">Nuova Password:</value>
+  </data>
+  <data name="Profile.Action">
+    <value xml:space="preserve">Gestione Profili Utente</value>
+  </data>
+  <data name="Register.Text">
+    <value xml:space="preserve">Registrazione Utente</value>
+  </data>
+  <data name="Register.Title">
+    <value xml:space="preserve">Registrazione Utente</value>
+  </data>
+  <data name="RegisterWarning.Text">
+    <value xml:space="preserve">- &lt;em&gt;(&lt;strong&gt;Nota:&lt;/strong&gt; - La Registrazione può richiedere diversi secondi. Una volta cliccato su Registrazione aspetta che il sistema risponda.)&lt;/em&gt;</value>
+  </data>
+  <data name="ResetPassword.Text">
+    <value xml:space="preserve">Reset Password</value>
+  </data>
+  <data name="Roles.Action">
+    <value xml:space="preserve">Gestione Ruoli per questo Utente</value>
+  </data>
+  <data name="SuperUser.Text">
+    <value xml:space="preserve">Questo account rappresenta un Super User. Non si dispone dei diritti per modificare un Super User Account.</value>
+  </data>
+  <data name="UserAuthorized.Text">
+    <value xml:space="preserve">Utente autorizzato con successo.</value>
+  </data>
+  <data name="UserDemotedFromSuperuser.Text">
+    <value xml:space="preserve">L'Utente è stato aggiornato per essere un normale utente.</value>
+  </data>
+  <data name="UserLockedOut.Text">
+    <value xml:space="preserve">Questo account è attualmente bloccato dopo troppi tentativi di accesso non riusciti.</value>
+  </data>
+  <data name="UserPasswordUpdateChanged.Text">
+    <value xml:space="preserve">L'utente deve aggiornare la propria password all'accesso successivo.</value>
+  </data>
+  <data name="UserPromotedToSuperuser.Text">
+    <value xml:space="preserve">L'utente è stato aggiornato per essere un Super User.</value>
+  </data>
+  <data name="UserSubscribed.Text">
+    <value xml:space="preserve">Ti sei iscritto con successo al ruolo {0}.</value>
+  </data>
+  <data name="UserTitle.Text">
+    <value xml:space="preserve">Modifica Utente: {0} (Id: {1})</value>
+  </data>
+  <data name="UserUnAuthorized.Text">
+    <value xml:space="preserve">Tolta con successo l'autorizzazione ad accedere al sito.</value>
+  </data>
+  <data name="UserUnSubscribed.Text">
+    <value xml:space="preserve">Hai annullato la sottoscrizione al ruolo {0} con successo.</value>
+  </data>
+</root>

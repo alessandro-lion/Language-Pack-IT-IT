@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddContent.Text">
+    <value xml:space="preserve">Aggiungi Contenuto...</value>
+  </data>
+  <data name="chkPublish.Text">
+    <value xml:space="preserve">Pubblicare Modifiche?</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Cancella</value>
+  </data>
+  <data name="cmdCancelSubmit.Text">
+    <value xml:space="preserve">Cancella</value>
+  </data>
+  <data name="cmdHideMasterContent.Text">
+    <value xml:space="preserve">Nascondi Lingua di Default</value>
+  </data>
+  <data name="cmdHistory.Text">
+    <value xml:space="preserve">Storico Versioni</value>
+  </data>
+  <data name="cmdPreview.Text">
+    <value xml:space="preserve">Anteprima</value>
+  </data>
+  <data name="cmdSave.Text">
+    <value xml:space="preserve">Salva</value>
+  </data>
+  <data name="cmdShowMasterContent.Text">
+    <value xml:space="preserve">Mostra Lingua di default</value>
+  </data>
+  <data name="Content Staging.Text">
+    <value xml:space="preserve">Content Staging</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Modifica Contenuto</value>
+  </data>
+  <data name="Date.Header">
+    <value xml:space="preserve">Data</value>
+  </data>
+  <data name="Delete.Text">
+    <value xml:space="preserve">Elimina Questa Versione</value>
+  </data>
+  <data name="DeleteVersion.Confirm">
+    <value xml:space="preserve">Sei sicuro di voler eliminare definitivamente la versione [VERSION] ([STATE]) creata [DATECREATED] da [USERNAME]?</value>
+  </data>
+  <data name="Direct Publish.Text">
+    <value xml:space="preserve">Pubblica Direttamente</value>
+  </data>
+  <data name="Draft.Text">
+    <value xml:space="preserve">Bozza</value>
+  </data>
+  <data name="dshCurrentContent.Text">
+    <value xml:space="preserve">Modifica Contenuto</value>
+  </data>
+  <data name="dshHistory.Text">
+    <value xml:space="preserve">Storico Oggetto</value>
+  </data>
+  <data name="dshMaster.Text">
+    <value xml:space="preserve">Versione in Lingua Primaria</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">Ripristina Contenuto A Questa Versione</value>
+  </data>
+  <data name="EditPreviewState.Text">
+    <value xml:space="preserve">Modifica Anteprima</value>
+  </data>
+  <data name="False.Text">
+    <value xml:space="preserve">Falso</value>
+  </data>
+  <data name="Item.Text">
+    <value xml:space="preserve">Anteprima contenuto</value>
+  </data>
+  <data name="lblNoRecords.Text">
+    <value xml:space="preserve">Non vi è presente nessuno storico per questo contenuto.</value>
+  </data>
+  <data name="lblPreviewWorkflowState.Text">
+    <value xml:space="preserve">Stato</value>
+  </data>
+  <data name="liBasicText.Text">
+    <value xml:space="preserve">Text Box Semplice </value>
+  </data>
+  <data name="liRichText.Text">
+    <value xml:space="preserve">Rich Text Editor</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;P&gt;Il modulo Text/HTML consente di inserire testo, RTF o codice HTML. Avete cinque tipi di visualizzazione:&lt;/P&gt;
+&lt;OL&gt;
+&lt;LI&gt;&lt;STRONG&gt;Casella di Testo Base / Testo&lt;/STRONG&gt;: Rendering del testo semplice e visualizzazione dei tag HTML. Interruzioni di riga sono presi in considerazione. Lo stile di testo è predefinito "normale", come specificato nel foglio di stile.
+&lt;LI"&gt;
+&lt;STRONG&gt;Base casella di testo / HTML &lt;/STRONG&gt;: consente di visualizzare testo semplice. Interruzioni di riga non rendano automaticamente.
+&lt;LI&gt;
+&lt;STRONG&gt;Casella di testo base / Raw &lt;/STRONG&gt;: consente di visualizzare testo normale in HTML. Interruzioni di riga non vengono automaticamente preso in considerazione.
+&lt;LI&gt;
+&lt;STRONG&gt;Rich Text Editor / HTML &lt;/STRONG&gt;: è possibile utilizzare il codice HTML.
+&lt;LI&gt;
+&lt;STRONG&gt;Rich Text Editor / Design &lt;/STRONG&gt;: un vero e proprio testo elaborazione WYSIWYG (What You See is What You Get) che supporta caratteristiche come collegamenti ipertestuali, link a un indirizzo Email, accesso alla Galleria di immagini, chip, ecc...&lt;/LI&gt;&lt;/LI&gt;&lt;/LI&gt;&lt;/LI&gt;&lt;/LI&gt;&lt;/OL&gt;</value>
+  </data>
+  <data name="NoVersions.Text">
+    <value xml:space="preserve">Non c'è nessuno storico versioni per questo contenuto.</value>
+  </data>
+  <data name="plActionOnSave.Help">
+    <value xml:space="preserve">Azione che il sistema eseguirà a seguito del salvataggio del contenuto quando viene cliccato sul link "Salva".</value>
+  </data>
+  <data name="plActionOnSave.Text">
+    <value xml:space="preserve">Durante il Salvataggio</value>
+  </data>
+  <data name="plCurrentWorkflowInUse.Help">
+    <value xml:space="preserve">Il flusso di lavoro attualmente utilizzato da questo modulo.</value>
+  </data>
+  <data name="plCurrentWorkflowInUse.Text">
+    <value xml:space="preserve">Flusso di Lavoro in Uso</value>
+  </data>
+  <data name="plCurrentWorkflowState.Help">
+    <value xml:space="preserve">Stato del workflow utilizzato da questo modulo.</value>
+  </data>
+  <data name="plCurrentWorkflowState.Text">
+    <value xml:space="preserve">Stato del Workflow</value>
+  </data>
+  <data name="plCurrentWorkVersion.Help">
+    <value xml:space="preserve">Visualizza il numero di versione del contenuto</value>
+  </data>
+  <data name="plCurrentWorkVersion.Text">
+    <value xml:space="preserve">Versione</value>
+  </data>
+  <data name="plMaxVersions.Help">
+    <value xml:space="preserve">Il numero massimo di versioni   mantenuto per tutto il contenuto html.</value>
+  </data>
+  <data name="plMaxVersions.Text">
+    <value xml:space="preserve">Numero Massimo Di Versioni</value>
+  </data>
+  <data name="plPreviewVersion.Help">
+    <value xml:space="preserve">Visualizza il numero di versione del contenuto</value>
+  </data>
+  <data name="plPreviewVersion.Text">
+    <value xml:space="preserve">Versione</value>
+  </data>
+  <data name="plPreviewWorkflowInUse.Help">
+    <value xml:space="preserve">Il nome della configurazione del flusso di lavoro che attualmente utilizza questo modulo.</value>
+  </data>
+  <data name="plPreviewWorkflowInUse.Text">
+    <value xml:space="preserve">Workflow Utilizzato</value>
+  </data>
+  <data name="plPreviewWorkflowState.Help">
+    <value xml:space="preserve">Lo stato del workflow visualizzato.</value>
+  </data>
+  <data name="plPreviewWorkflowState.Text">
+    <value xml:space="preserve">Stato del Workflow</value>
+  </data>
+  <data name="plPublish.Help">
+    <value xml:space="preserve">Si prega di indicare se il contenuto è pronto per la pubblicazione</value>
+  </data>
+  <data name="plPublish.Text">
+    <value xml:space="preserve">Pubblica</value>
+  </data>
+  <data name="plWorkflowState.Help">
+    <value xml:space="preserve">Visualizza lo stato corrente del contenuto</value>
+  </data>
+  <data name="Published.Text">
+    <value xml:space="preserve">Pubblicato</value>
+  </data>
+  <data name="State.Header">
+    <value xml:space="preserve">Stato</value>
+  </data>
+  <data name="True.Text">
+    <value xml:space="preserve">Vero</value>
+  </data>
+  <data name="User.Header">
+    <value xml:space="preserve">Utente</value>
+  </data>
+  <data name="Version.Header">
+    <value xml:space="preserve">Versione</value>
+  </data>
+  <data name="VersionsPreview.Text">
+    <value xml:space="preserve">Anteprima</value>
+  </data>
+  <data name="VersionsRemove.Text">
+    <value xml:space="preserve">Elimina</value>
+  </data>
+  <data name="VersionsRollback.Text">
+    <value xml:space="preserve">Ripristina</value>
+  </data>
+</root>

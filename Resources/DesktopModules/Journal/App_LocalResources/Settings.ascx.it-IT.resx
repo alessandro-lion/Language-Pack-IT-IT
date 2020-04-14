@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllowFiles.Help">
+    <value xml:space="preserve">Seleziona questa casella per consentire agli utenti di allegare file ai messaggi nel journal.</value>
+  </data>
+  <data name="AllowFiles.Text">
+    <value xml:space="preserve">Abilita Allegati File</value>
+  </data>
+  <data name="AllowPhotos.Help">
+    <value xml:space="preserve">Seleziona questa casella per consentire agli utenti di allegare foto ai messaggi nel journal.</value>
+  </data>
+  <data name="AllowPhotos.Text">
+    <value xml:space="preserve">Abilita Allegati Foto</value>
+  </data>
+  <data name="AllowResize.Help">
+    <value xml:space="preserve">Seleziona questa casella per ridimensionare le foto che hanno almeno una dimensione più grande di 400px.</value>
+  </data>
+  <data name="AllowResize.Text">
+    <value xml:space="preserve">Ridimensiona Foto</value>
+  </data>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Impostazioni Journal</value>
+  </data>
+  <data name="DefaultPageSize.Help">
+    <value xml:space="preserve">Seleziona il numero di elementi del journal da visualizzare in una pagina.</value>
+  </data>
+  <data name="DefaultPageSize.Text">
+    <value xml:space="preserve">Dimensione Predefinita della Pagina </value>
+  </data>
+  <data name="EnableEditor.Help">
+    <value xml:space="preserve">Usa questa opzione per abilitare o disabilitare direttamente l'inserimento diretto nel journal utilizzando l'editor del   journal.</value>
+  </data>
+  <data name="EnableEditor.Text">
+    <value xml:space="preserve">Abilita Editor Journal </value>
+  </data>
+  <data name="JournalFilters.Help">
+    <value xml:space="preserve">Selezionare il tipo di elementi da visualizzare nel journal. </value>
+  </data>
+  <data name="JournalFilters.Text">
+    <value xml:space="preserve">Tipi di Journal</value>
+  </data>
+  <data name="MaxMessageLength.Help">
+    <value xml:space="preserve">Seleziona il numero massimo di caratteri contenuti nei messaggi del journal.</value>
+  </data>
+  <data name="MaxMessageLength.Text">
+    <value xml:space="preserve">Numero Massimo di Caratteri per Messaggio </value>
+  </data>
+  <data name="MessageLength_Unlimited.Text">
+    <value xml:space="preserve">Illimitato</value>
+  </data>
+</root>

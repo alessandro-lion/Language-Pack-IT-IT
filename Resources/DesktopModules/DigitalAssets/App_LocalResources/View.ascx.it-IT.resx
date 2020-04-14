@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="All.Text">
+    <value xml:space="preserve">Tutti</value>
+  </data>
+  <data name="And.Text">
+    <value xml:space="preserve">[FILES] e [FOLDERS]</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Cancella</value>
+  </data>
+  <data name="ChooseFiles.Text">
+    <value xml:space="preserve">Scegli File</value>
+  </data>
+  <data name="Close.Text">
+    <value xml:space="preserve">Chiudi</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Gestione File</value>
+  </data>
+  <data name="Copy.Error">
+    <value xml:space="preserve">Copia Errore</value>
+  </data>
+  <data name="Copy.Text">
+    <value xml:space="preserve">Copia</value>
+  </data>
+  <data name="CopyFiles.Text">
+    <value xml:space="preserve">Copia File</value>
+  </data>
+  <data name="CopyFiles.Title">
+    <value xml:space="preserve">Copia [SELECTION] in...</value>
+  </data>
+  <data name="CreateFolder.Text">
+    <value xml:space="preserve">Crea Cartella</value>
+  </data>
+  <data name="CreateFolderError.Title">
+    <value xml:space="preserve">Si è verificato un errore durante la creazione della cartella.</value>
+  </data>
+  <data name="CreateNewFolderTitle.Text">
+    <value xml:space="preserve">Crea Nuova Cartella</value>
+  </data>
+  <data name="Delete.Text">
+    <value xml:space="preserve">Elimina</value>
+  </data>
+  <data name="Delete.Title">
+    <value xml:space="preserve">Elimina [ITEMS] ...</value>
+  </data>
+  <data name="DeleteConfirm.Text">
+    <value xml:space="preserve">Sei sicuro di voler eliminare [ITEMS]?</value>
+  </data>
+  <data name="DeleteConfirmWithMappedSubfolder.Text">
+    <value xml:space="preserve">Nota: le cartelle selezionate includono [COUNT] Cartella Remota. Questa sarà scollegata da questo sito e la cartella ed i file rimarranno nella posizione remota.</value>
+  </data>
+  <data name="DeleteConfirmWithMappedSubfolders.Text">
+    <value xml:space="preserve">Nota: le cartelle selezionate includono [COUNT] Cartelle Remote.  Queste saranno scollegate da questo sito e la cartella ed i file rimarranno nella posizione remota.</value>
+  </data>
+  <data name="DeleteFolder.Text">
+    <value xml:space="preserve">Elimina Cartella</value>
+  </data>
+  <data name="DeleteItemsError.Title">
+    <value xml:space="preserve">Si è verificato un errore durante l'eliminazione degli elementi.</value>
+  </data>
+  <data name="Download.Text">
+    <value xml:space="preserve">Scarica</value>
+  </data>
+  <data name="DuplicateCopy.Subtext">
+    <value xml:space="preserve">Gli elementi con il nome del file che si è cercato di copiare sono già presenti in questa posizione.</value>
+  </data>
+  <data name="DuplicateFilesExist.Text">
+    <value xml:space="preserve">Duplica File Esistenti</value>
+  </data>
+  <data name="DuplicateMove.Subtext">
+    <value xml:space="preserve">Gli elementi con il nome del file che si è cercato di spostare sono già presenti in questa posizione.</value>
+  </data>
+  <data name="DuplicateUpload.Subtext">
+    <value xml:space="preserve">Gli elementi con il nome del file che si è tentato di caricare già esistono in questa posizione.</value>
+  </data>
+  <data name="EditModule.Text">
+    <value xml:space="preserve">Modifica Modulo</value>
+  </data>
+  <data name="ExpandFile.Text">
+    <value xml:space="preserve">Espandi File</value>
+  </data>
+  <data name="ExtensionChangeConfirmContent.Text">
+    <value xml:space="preserve">Se si modifica l'estensione del nome del file, il file potrebbe essere inutilizzabile. &lt;br&gt; Sei sicuro di volerlo modificare?</value>
+  </data>
+  <data name="ExtensionChangeConfirmTitle.Text">
+    <value xml:space="preserve">L'estensione è stata modificata.</value>
+  </data>
+  <data name="FileUploadAlreadyExists.Text">
+    <value xml:space="preserve">Il file che si desidera caricare esiste già in questo posizione.</value>
+  </data>
+  <data name="FileUploadEmptyFileIsNotSupported.Error">
+    <value xml:space="preserve">Il tuo browser non supporta il caricamento dei file vuoti.</value>
+  </data>
+  <data name="FileUploadErrorOccurred.Error">
+    <value xml:space="preserve">Si è verificato un errore durante il caricamento del file.</value>
+  </data>
+  <data name="FileUploadStopped.Text">
+    <value xml:space="preserve">Il caricamento del file si è interrotto.</value>
+  </data>
+  <data name="FolderName.Help">
+    <value xml:space="preserve">Il nome della cartella.</value>
+  </data>
+  <data name="FolderName.Text">
+    <value xml:space="preserve">Nome Cartella</value>
+  </data>
+  <data name="FolderType.Help">
+    <value xml:space="preserve">Seleziona il tipo di cartella.</value>
+  </data>
+  <data name="FolderType.Text">
+    <value xml:space="preserve">Tipo Cartella</value>
+  </data>
+  <data name="GetFileUrlLabel.Text">
+    <value xml:space="preserve">L'URL File È:</value>
+  </data>
+  <data name="GetUrl.Text">
+    <value xml:space="preserve">Ottieni URL</value>
+  </data>
+  <data name="GetUrl.Title">
+    <value xml:space="preserve">Ottieni URL</value>
+  </data>
+  <data name="GetUrlAltText.Text">
+    <value xml:space="preserve">Clicca e premi CTRL+C per copiare...</value>
+  </data>
+  <data name="GetUrlError.Title">
+    <value xml:space="preserve">Si è verificato un errore durante il recupero dell'URL.</value>
+  </data>
+  <data name="InvalidGroup.Error">
+    <value xml:space="preserve">L'ID gruppo non è impostato. Si prega di tornare alla pagina dei gruppi e selezionare il gruppo desiderato.</value>
+  </data>
+  <data name="InvalidUser.Error">
+    <value xml:space="preserve">Il modulo è configurato in modalità Utente, esso non può essere utilizzato con un utente non autenticato.</value>
+  </data>
+  <data name="Items.Text">
+    <value xml:space="preserve">Elementi</value>
+  </data>
+  <data name="Keep.Text">
+    <value xml:space="preserve">Mantieni</value>
+  </data>
+  <data name="KeepAll.Text">
+    <value xml:space="preserve">Mantieni Tutto</value>
+  </data>
+  <data name="KeepCompressed.Text">
+    <value xml:space="preserve">Tenere Compresso</value>
+  </data>
+  <data name="LeftPaneFilesTab.Text">
+    <value xml:space="preserve">File</value>
+  </data>
+  <data name="LoadFolderContentError.Title">
+    <value xml:space="preserve">Si è verificato un errore durante il caricamento del contenuto della cartella.</value>
+  </data>
+  <data name="Loading.Text">
+    <value xml:space="preserve">carcamento...</value>
+  </data>
+  <data name="LoadSubFoldersError.Title">
+    <value xml:space="preserve">Si è verificato un errore durante il caricamento delle sottocartelle.</value>
+  </data>
+  <data name="ManageFolderTypes.Text">
+    <value xml:space="preserve">Gestione Tipi di Cartelle</value>
+  </data>
+  <data name="MappedPath.Help">
+    <value xml:space="preserve">Inserisci il percorso di questa cartella nel provider cartella. Il percorso immesso è relativo alla root del provider, quindi se il campo viene lasciato vuoto, la cartella verrà mappata nella root provider.</value>
+  </data>
+  <data name="MappedPath.Text">
+    <value xml:space="preserve">Percorso Mappatura</value>
+  </data>
+  <data name="MappedPathRegExValidator.ErrorMessage">
+    <value xml:space="preserve">Il percorso deve essere relativo alla root del provider.</value>
+  </data>
+  <data name="MaxFileUploadSizeError.Text">
+    <value xml:space="preserve">Non può essere caricato: Dimensione del file più grande di [MAXFILESIZE]</value>
+  </data>
+  <data name="Modified.Header">
+    <value xml:space="preserve">Data modifica</value>
+  </data>
+  <data name="Move.Error">
+    <value xml:space="preserve">Sposta Errore</value>
+  </data>
+  <data name="Move.Text">
+    <value xml:space="preserve">Sposta</value>
+  </data>
+  <data name="Move.Title">
+    <value xml:space="preserve">Sposta [SELECTION] in...</value>
+  </data>
+  <data name="Moving.Text">
+    <value xml:space="preserve">Spostamento [SELECTION]</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Nome</value>
+  </data>
+  <data name="NFiles.Text">
+    <value xml:space="preserve">[NUM] File</value>
+  </data>
+  <data name="NFolders.Text">
+    <value xml:space="preserve">[NUM] Cartella</value>
+  </data>
+  <data name="NoConfirm.Text">
+    <value xml:space="preserve">No</value>
+  </data>
+  <data name="NoItems.Text">
+    <value xml:space="preserve">Questa cartella è vuota.</value>
+  </data>
+  <data name="NoItemsDeleted.Title">
+    <value xml:space="preserve">[ITEMS] non si può cancellare</value>
+  </data>
+  <data name="NoItemsDeletedDescription.Text">
+    <value xml:space="preserve">Non si dispone dell'autorizzazione per eliminare i seguenti elementi:</value>
+  </data>
+  <data name="NoItemsSearch.Text">
+    <value xml:space="preserve">Nessun elemento corrisponde alla tua ricerca</value>
+  </data>
+  <data name="NoItemsSelected.Text">
+    <value xml:space="preserve">È necessario selezionare almeno un elemento per eseguire l'operazione di eliminazione.</value>
+  </data>
+  <data name="OkConfirm.Text">
+    <value xml:space="preserve">Ok</value>
+  </data>
+  <data name="OneFile.Text">
+    <value xml:space="preserve"> 1 File </value>
+  </data>
+  <data name="OneFolder.Text">
+    <value xml:space="preserve">1 Cartella</value>
+  </data>
+  <data name="PagerFirstPage.Text">
+    <value xml:space="preserve">Primo</value>
+  </data>
+  <data name="PagerFirstPage.ToolTip">
+    <value xml:space="preserve">Vai alla prima pagina</value>
+  </data>
+  <data name="PagerLastPage.Text">
+    <value xml:space="preserve">Ultimo</value>
+  </data>
+  <data name="PagerLastPage.ToolTip">
+    <value xml:space="preserve">Vai all'ultima pagina</value>
+  </data>
+  <data name="PagerNextPage.Text">
+    <value xml:space="preserve">Prossima</value>
+  </data>
+  <data name="PagerNextPage.ToolTip">
+    <value xml:space="preserve">Vai alla pagina successiva</value>
+  </data>
+  <data name="PagerPageSize.Text">
+    <value xml:space="preserve">Voci per Pagina:</value>
+  </data>
+  <data name="PagerPreviousPage.Text">
+    <value xml:space="preserve">Prec</value>
+  </data>
+  <data name="PagerPreviousPage.ToolTip">
+    <value xml:space="preserve">Vai alla pagina precedente</value>
+  </data>
+  <data name="PagerTextFormatMultiplePages.Text">
+    <value xml:space="preserve">[ITEMS] elementi su [PAGES] pagine</value>
+  </data>
+  <data name="PagerTextFormatOnePage.Text">
+    <value xml:space="preserve">[ITEMS] elementi</value>
+  </data>
+  <data name="PagerTextFormatOnePageOneItem.Text">
+    <value xml:space="preserve">[ITEMS] elemento</value>
+  </data>
+  <data name="ParentFolder.Header">
+    <value xml:space="preserve">Cartella Principale</value>
+  </data>
+  <data name="ParentFolder.Help">
+    <value xml:space="preserve">La cartella principale nella quale verrà creata la nuova cartella.</value>
+  </data>
+  <data name="ParentFolder.Text">
+    <value xml:space="preserve">Cartella Superiore</value>
+  </data>
+  <data name="RefreshFolder.Text">
+    <value xml:space="preserve">Aggiorna Cartella</value>
+  </data>
+  <data name="Rename.Text">
+    <value xml:space="preserve">Rinomima</value>
+  </data>
+  <data name="RenameFileError.Title">
+    <value xml:space="preserve">Errore denominazione file.</value>
+  </data>
+  <data name="RenameFolder.Text">
+    <value xml:space="preserve">Rinomina Cartella</value>
+  </data>
+  <data name="RenameFolderError.Title">
+    <value xml:space="preserve">Errore denominazione cartella.</value>
+  </data>
+  <data name="Replace.Text">
+    <value xml:space="preserve">Sostituisci</value>
+  </data>
+  <data name="ReplaceAll.Text">
+    <value xml:space="preserve">Sostituisci Tutti</value>
+  </data>
+  <data name="rfvFolderName.ErrorMessage">
+    <value xml:space="preserve">Il nome cartella è obbligatorio.</value>
+  </data>
+  <data name="Save.Text">
+    <value xml:space="preserve">Salva</value>
+  </data>
+  <data name="SearchBreadcrumb.Text">
+    <value xml:space="preserve">Cerca</value>
+  </data>
+  <data name="SelectAll.Text">
+    <value xml:space="preserve">Seleziona Tutto</value>
+  </data>
+  <data name="Size.Header">
+    <value xml:space="preserve">Dimensione</value>
+  </data>
+  <data name="ToolbarTitle.Actions.Text">
+    <value xml:space="preserve">Azioni</value>
+  </data>
+  <data name="ToolbarTitle.Views.Text">
+    <value xml:space="preserve">Visualizzazioni</value>
+  </data>
+  <data name="Unlink.Text">
+    <value xml:space="preserve">Scollega</value>
+  </data>
+  <data name="Unlink.Title">
+    <value xml:space="preserve">Scollega Cartella...</value>
+  </data>
+  <data name="UnlinkConfirm.Text">
+    <value xml:space="preserve">Sei sicuro di volere scollegare la Cartella?</value>
+  </data>
+  <data name="UnlinkFolder.Text">
+    <value xml:space="preserve">Scollega Cartella</value>
+  </data>
+  <data name="UnlinkFolderError.Title">
+    <value xml:space="preserve">Si è verificato un errore durante lo scollegamento della cartella.</value>
+  </data>
+  <data name="UnselectAll.Text">
+    <value xml:space="preserve">Deseleziona Tutto</value>
+  </data>
+  <data name="UnzipFile.Text">
+    <value xml:space="preserve">Decomprimi File</value>
+  </data>
+  <data name="UnzipFileErrorTitle.Text">
+    <value xml:space="preserve">Si è verificato un errore durante la  decompressione del file.</value>
+  </data>
+  <data name="UploadError.Text">
+    <value xml:space="preserve">Errore durante il caricamento del file</value>
+  </data>
+  <data name="UploadFiles.DropHere">
+    <value xml:space="preserve">TRASCINA GLI OGGETTI QUI</value>
+  </data>
+  <data name="UploadFiles.Info">
+    <value xml:space="preserve">È possibile selezionare più di un file alla volta.</value>
+  </data>
+  <data name="UploadFiles.Title">
+    <value xml:space="preserve">Carica File</value>
+  </data>
+  <data name="UploadFilesDragDrop.Info">
+    <value xml:space="preserve">O trascina e rilascia nell'area blu sottostante</value>
+  </data>
+  <data name="UploadingExtracting.Text">
+    <value xml:space="preserve">Caricamento ed estrazione...</value>
+  </data>
+  <data name="ViewFolderProperties.Text">
+    <value xml:space="preserve">Visualizza Proprietà Cartella</value>
+  </data>
+  <data name="ViewProperties.Text">
+    <value xml:space="preserve">Visualizza Proprietà </value>
+  </data>
+  <data name="ZipConfirmation.Text">
+    <value xml:space="preserve">Hai provato a caricare un file zip compresso chiamato [FILE]. &lt;br /&gt;Vuoi estrarre questo file compresso?</value>
+  </data>
+  <data name="FileLabel.Text">
+    <value>File</value>
+  </data>
+  <data name="FileMultLabel.Text">
+    <value>Files</value>
+  </data>
+  <data name="FolderLabel.Text">
+    <value>Cartella</value>
+  </data>
+  <data name="FolderMultLabel.Text">
+    <value>Cartelle</value>
+  </data>
+</root>

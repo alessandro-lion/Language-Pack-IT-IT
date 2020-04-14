@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdAdd.Text">
+    <value xml:space="preserve">Aggiungi Nuovo Script</value>
+  </data>
+  <data name="createNewScript.Text">
+    <value xml:space="preserve">Per creare un nuovo file script Razor, selezionare il tipo di file ed inserire un nome file. Il file verrà creato nella cartella Scripts.</value>
+  </data>
+  <data name="CSHTML.Text">
+    <value xml:space="preserve">File CSHtml (C#)</value>
+  </data>
+  <data name="fileNameLabel.Help">
+    <value xml:space="preserve">Inserisci un nome per il file di Script.  Il nome del file sarà preceduto da un carattere di underscore "_".</value>
+  </data>
+  <data name="fileNameLabel.Text">
+    <value xml:space="preserve">Nome File:</value>
+  </data>
+  <data name="fileTypeLabel.Help">
+    <value xml:space="preserve">Seleziona il tipo di file script Razor che vuoi creare (CSHtml per C # o VBHtml per VB.Net)</value>
+  </data>
+  <data name="fileTypeLabel.Text">
+    <value xml:space="preserve">Tipo File:</value>
+  </data>
+  <data name="NewScript.Text">
+    <value xml:space="preserve">&lt;h2&gt;Nuovo Script Razor&lt;/h2&gt;</value>
+  </data>
+  <data name="VBHTML.Text">
+    <value xml:space="preserve">File VBHtml (VB)</value>
+  </data>
+</root>

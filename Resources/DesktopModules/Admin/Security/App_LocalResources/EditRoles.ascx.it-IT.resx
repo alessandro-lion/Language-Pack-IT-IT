@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AdvancedSettings.Text">
+    <value xml:space="preserve">Impostazioni avanzate</value>
+  </data>
+  <data name="AdvancedSettingsHelp.Text">
+    <value xml:space="preserve">In questa sezione è possibile impostare una configurazione più avanzata per questo ruolo.</value>
+  </data>
+  <data name="AssignToExistUsers.Help">
+    <value xml:space="preserve">Assegna questo ruolo a tutti gli utenti esistenti.</value>
+  </data>
+  <data name="AssignToExistUsers.Text">
+    <value xml:space="preserve">Assegna a tutti gli utenti esistenti:</value>
+  </data>
+  <data name="AutoAssignment.Help">
+    <value xml:space="preserve">Seleziona questa casella se gli utenti vengono automaticamente assegnati a questo ruolo.</value>
+  </data>
+  <data name="AutoAssignment.Text">
+    <value xml:space="preserve">Assegnato Automaticamente:</value>
+  </data>
+  <data name="BasicSettings.Text">
+    <value xml:space="preserve">Impostazioni di Base</value>
+  </data>
+  <data name="BasicSettingsDescription.Text">
+    <value xml:space="preserve">In questa sezione è possibile specificare le impostazioni di basata per questo ruolo.</value>
+  </data>
+  <data name="BillingPeriod.Help">
+    <value xml:space="preserve">Questi due campi sono utilizzati congiuntamente per inserire il Periodo di Fatturazione. Es. 2 settimane o 1 mese</value>
+  </data>
+  <data name="BillingPeriod.Text">
+    <value xml:space="preserve">Periodicità Fatturazione (Ogni)</value>
+  </data>
+  <data name="cmdManage.Text">
+    <value xml:space="preserve">Gestione Utenti in questo Ruolo</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Modifica Ruoli di Sicurezza</value>
+  </data>
+  <data name="Description.Help">
+    <value xml:space="preserve">Inserisci una descrizione per questo ruolo.</value>
+  </data>
+  <data name="Description.Text">
+    <value xml:space="preserve">Descrizione:</value>
+  </data>
+  <data name="DuplicateRole.Text">
+    <value xml:space="preserve">Esiste già un ruolo con lo stesso nome.  Il ruolo non è stato aggiunto.</value>
+  </data>
+  <data name="IncompatibleFee.Text">
+    <value xml:space="preserve">È necessario selezionare una frequenza di fatturazione, se si desidera inserire una tassa per questo ruolo.</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Informazioni su Modifica Ruoli di Sicurezza &lt;/h1&gt; &lt;p&gt; Gli Amministratori possono gestire i ruoli di sicurezza definiti per il loro sito. Il modulo consente di aggiungere nuovi ruoli di sicurezza, modificare i ruoli esistenti, eliminare i ruoli di sicurezza e gestire gli utenti assegnati ai ruoli di sicurezza. &lt;/p&gt;</value>
+  </data>
+  <data name="plIcon.Help">
+    <value xml:space="preserve">Scegli un'icona per questo ruolo.</value>
+  </data>
+  <data name="plIcon.Text">
+    <value xml:space="preserve">Icona:</value>
+  </data>
+  <data name="plRoleGroups.Help">
+    <value xml:space="preserve">Scegli il gruppo di ruoli a cui appartiene questo ruolo.</value>
+  </data>
+  <data name="plRoleGroups.Text">
+    <value xml:space="preserve">Gruppo Ruolo:</value>
+  </data>
+  <data name="plRSVPCode.Help">
+    <value xml:space="preserve">Inserisci un Codice RSVP per questo ruolo.  Gli utenti possono facilmente iscriversi a questo ruolo inserendo questo codice nella pagina di Gestire Servizi del proprio account utente.</value>
+  </data>
+  <data name="plRSVPCode.Text">
+    <value xml:space="preserve">Codice RSVP:</value>
+  </data>
+  <data name="plRSVPLink.Help">
+    <value xml:space="preserve">Un link che consente agli utenti di iscriversi a questo ruolo verrà visualizzato quando un codice RSVP viene salvato per questo ruolo.</value>
+  </data>
+  <data name="plRSVPLink.Text">
+    <value xml:space="preserve">Link RSVP:</value>
+  </data>
+  <data name="ProcessorWarning.Text">
+    <value xml:space="preserve">&lt;b&gt;Attenzione:&lt;/b&gt; L'Operatore di Pagamento in impostato nella pagina Admin &gt; Impostazioni Sito deve essere abilitato per consentire la quota-base per i ruoli/servizi.</value>
+  </data>
+  <data name="PublicRole.Help">
+    <value xml:space="preserve">Seleziona questa casella se gli utenti possono iscriversi a questo ruolo tramite la pagina Gestione Servizi del proprio account utente.</value>
+  </data>
+  <data name="PublicRole.Text">
+    <value xml:space="preserve">Ruolo Pubblico:</value>
+  </data>
+  <data name="RoleName.Help">
+    <value xml:space="preserve">Inserisci un nome per il Ruolo.</value>
+  </data>
+  <data name="RoleName.Text">
+    <value xml:space="preserve">Nome Ruolo:</value>
+  </data>
+  <data name="securityModeListLabel.Help">
+    <value xml:space="preserve">Scegli la modalità di sicurezza per questo ruolo/gruppo. </value>
+  </data>
+  <data name="securityModeListLabel.Text">
+    <value xml:space="preserve">Modalità di Sicurezza:</value>
+  </data>
+  <data name="ServiceFee.Help">
+    <value xml:space="preserve">Inserisci l'importo dell'abbonamento per gli utenti di questo ruolo.</value>
+  </data>
+  <data name="ServiceFee.Text">
+    <value xml:space="preserve">Abbonamento</value>
+  </data>
+  <data name="statusListLabel.Help">
+    <value xml:space="preserve">Seleziona lo stato per questo ruolo/gruppo.</value>
+  </data>
+  <data name="statusListLabel.Text">
+    <value xml:space="preserve">Stato:</value>
+  </data>
+  <data name="SystemRoleWarning.Text">
+    <value xml:space="preserve">Questo ruolo è di sistema, è permessa solo una minima modifica.</value>
+  </data>
+  <data name="TrialFee.Help">
+    <value xml:space="preserve">Inserisci l'importo della abbonamento di prova per gli utenti in questo ruolo.</value>
+  </data>
+  <data name="TrialFee.Text">
+    <value xml:space="preserve">Importo Abbonamento di Prova</value>
+  </data>
+  <data name="TrialPeriod.Help">
+    <value xml:space="preserve">Questi due campi sono utilizzati in combinazione per inserire un periodo di prova. e.g 2 settimane, oppure 1 mese</value>
+  </data>
+  <data name="TrialPeriod.Text">
+    <value xml:space="preserve">Periodo di Prova (ogni)</value>
+  </data>
+  <data name="valBillingPeriod1.Text">
+    <value xml:space="preserve">&lt;br&gt;Il valore del periodo di fatturazione inserito non è valido.</value>
+  </data>
+  <data name="valBillingPeriod2.Text">
+    <value xml:space="preserve">&lt;br&gt;Il periodo di fatturazione deve essere maggiore di zero.</value>
+  </data>
+  <data name="valRoleName.Text">
+    <value xml:space="preserve">&lt;br&gt;È necessario specificare un nome valido.</value>
+  </data>
+  <data name="valRoleName2.Text">
+    <value xml:space="preserve">&lt;br&gt;Il Nome non è valido - i ruoli non possono contenere i seguenti caratteri: &amp; $ + , / ? ~ # &lt; &gt; ¿ ¡ « » !  . :  * ' [ ]</value>
+  </data>
+  <data name="valServiceFee1.Text">
+    <value xml:space="preserve">&lt;br&gt;Il valore per il servizio di abbonamento inserito non è  valido.</value>
+  </data>
+  <data name="valServiceFee2.Text">
+    <value xml:space="preserve">&lt;br&gt;L'importo dell'abbonamento deve essere maggiore o uguale a zero.</value>
+  </data>
+  <data name="valTrialFee1.Text">
+    <value xml:space="preserve">&lt;br&gt;Il valore specificato per l'abbonamento di prova non è valido.</value>
+  </data>
+  <data name="valTrialFee2.Text">
+    <value xml:space="preserve">&lt;br&gt;L'importo dell'abbonamento di prova deve essere maggiore o uguale a zero.</value>
+  </data>
+  <data name="valTrialPeriod1.Text">
+    <value xml:space="preserve">&lt;br&gt;Il valore del periodo di prova inserito non è valido.</value>
+  </data>
+  <data name="valTrialPeriod2.Text">
+    <value xml:space="preserve">&lt;br&gt;Il periodo di prova deve essere maggiore di zero.</value>
+  </data>
+</root>

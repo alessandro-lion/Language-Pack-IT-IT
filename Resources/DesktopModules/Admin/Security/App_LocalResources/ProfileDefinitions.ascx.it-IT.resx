@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Aggiungi Nuova Proprietà Profilo</value>
+  </data>
+  <data name="Category.Header">
+    <value xml:space="preserve">Categoria</value>
+  </data>
+  <data name="cmdApply.Text">
+    <value xml:space="preserve">Applica Modifiche</value>
+  </data>
+  <data name="cmdRefresh.Text">
+    <value xml:space="preserve">Aggiorna</value>
+  </data>
+  <data name="ControlTitle_manageprofile.Text">
+    <value xml:space="preserve">Gestione Proprietà Profilo</value>
+  </data>
+  <data name="DataType.Header">
+    <value xml:space="preserve">Tipo di Dati</value>
+  </data>
+  <data name="DefaultValue.Header">
+    <value xml:space="preserve">Valore Predefinito</value>
+  </data>
+  <data name="DefaultVisibility.Header">
+    <value xml:space="preserve">Visibilità Predefinita</value>
+  </data>
+  <data name="Delete.Text">
+    <value xml:space="preserve">Elimina</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">Modifica</value>
+  </data>
+  <data name="Length.Header">
+    <value xml:space="preserve">Lunghezza</value>
+  </data>
+  <data name="MoveDown.Text">
+    <value xml:space="preserve">Sposta in alto</value>
+  </data>
+  <data name="MoveUp.Text">
+    <value xml:space="preserve">Sposta in basso</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Nome</value>
+  </data>
+  <data name="ProfilePropertiesHelp.Text">
+    <value xml:space="preserve">È possibile modificare l'ordine dei campi e la loro visibilità.  Fare clic su "Applica modifiche" per salvare le modifiche. Clicca sulla matita per modificare le proprietà del profilo.</value>
+  </data>
+  <data name="Required.Header">
+    <value xml:space="preserve">Obbligatorio</value>
+  </data>
+  <data name="ValidationExpression.Header">
+    <value xml:space="preserve">Espressione regolare</value>
+  </data>
+  <data name="Visible.Header">
+    <value xml:space="preserve">Visibile</value>
+  </data>
+  <data name="Del.Header">
+    <value />
+  </data>
+  <data name="Dn.Header">
+    <value />
+  </data>
+  <data name="Edit.Header">
+    <value />
+  </data>
+  <data name="Up.Header">
+    <value />
+  </data>
+</root>

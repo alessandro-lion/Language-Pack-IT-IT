@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AssociateHelp.Text">
+    <value xml:space="preserve">È possibile associare le tue informazioni di login ad un account utente esistente inserendo il tuo nome utente e la password.</value>
+  </data>
+  <data name="AssociateTitle.Text">
+    <value xml:space="preserve">Associare con un Account Esistente</value>
+  </data>
+  <data name="AssociationFailed.Text">
+    <value xml:space="preserve">Errore durante l'associazione d'identità con l'utente. Ricorda che i nomi utente e le password sono case-sensitive.</value>
+  </data>
+  <data name="AuthenticatedHelp.Text">
+    <value xml:space="preserve">Sei stato autenticato in modo corretto. Tuttavia, questa identità non è membro di questo sito. È possibile associare questa identità con un account utente esistente fornendo il nome utente e la password, oppure è possibile registrarsi come nuovo membro.</value>
+  </data>
+  <data name="AuthenticatedTitle.Text">
+    <value xml:space="preserve">Autenticato</value>
+  </data>
+  <data name="cmdAssociate.Text">
+    <value xml:space="preserve">Associato all'Account</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value xml:space="preserve">Crea un Nuovo Account</value>
+  </data>
+  <data name="cmdForgotPassword.Text">
+    <value xml:space="preserve">Hai dimenticato la Password?</value>
+  </data>
+  <data name="cmdPassword.Text">
+    <value xml:space="preserve">Recupera Password</value>
+  </data>
+  <data name="cmdProceed.Text">
+    <value xml:space="preserve">Procedi Comunque (Cambia la Password Più Tardi)</value>
+  </data>
+  <data name="cmdRegister.Text">
+    <value xml:space="preserve">Registrati</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Accesso Utente</value>
+  </data>
+  <data name="ControlTitle_login.Text">
+    <value xml:space="preserve">Accesso Utente</value>
+  </data>
+  <data name="ControlTitle_signin.Text">
+    <value xml:space="preserve">Accesso Utente</value>
+  </data>
+  <data name="CreateTitle.Text">
+    <value xml:space="preserve">Crea un Nuovo Account</value>
+  </data>
+  <data name="EnterCode.Text">
+    <value xml:space="preserve">Inserisci il Tuo Codice di Verifica</value>
+  </data>
+  <data name="InvalidCode.Text">
+    <value xml:space="preserve">Codice di Verifica Non Valido</value>
+  </data>
+  <data name="IPAddressBanned.Text">
+    <value xml:space="preserve">Non è possibile accedere al sito web da questo indirizzo IP.</value>
+  </data>
+  <data name="LoginFailed.Text">
+    <value xml:space="preserve">Accesso Fallito. Ricorda che la password è sensibile al maiuscolo/minuscolo.</value>
+  </data>
+  <data name="PasswordExpired.Text">
+    <value xml:space="preserve">La password è scaduta il {0}.  Si prega di aggiornare la password prima di continuare.</value>
+  </data>
+  <data name="PasswordExpiring.Text">
+    <value xml:space="preserve">La password scadrà il {0}.  Si prega di aggiornare la password prima di continuare.</value>
+  </data>
+  <data name="PasswordInvalid.Text">
+    <value xml:space="preserve">È necessario inserire una password valida. Si prega di contattare l'Amministratore del Sito se non si conoscono i requisiti per la password.</value>
+  </data>
+  <data name="PasswordMismatch.Text">
+    <value xml:space="preserve">Le password inserite non corrispondono.</value>
+  </data>
+  <data name="PasswordMissing.Text">
+    <value xml:space="preserve">È necessario specificare la password corrente prima di cambiarla.</value>
+  </data>
+  <data name="PasswordNotDifferent.Text">
+    <value xml:space="preserve">La nuova password è uguale alla vecchia password.  Si prega di inserire una password diversa.</value>
+  </data>
+  <data name="PasswordSent.Text">
+    <value xml:space="preserve">La password è stata inviata al&lt;br&gt;tuo indirizzo e-mail.</value>
+  </data>
+  <data name="PasswordUpdate.Text">
+    <value xml:space="preserve">Si prega di aggiornare la password prima di proseguire.</value>
+  </data>
+  <data name="plToken.Help">
+    <value xml:space="preserve">Il codice univoco che identifica questo utente.</value>
+  </data>
+  <data name="plToken.Text">
+    <value xml:space="preserve">Token Utente:</value>
+  </data>
+  <data name="plType.Help">
+    <value xml:space="preserve">Il tipo di autenticazione</value>
+  </data>
+  <data name="plType.Text">
+    <value xml:space="preserve">Tipo:</value>
+  </data>
+  <data name="ProfileUpdate.Text">
+    <value xml:space="preserve">Si prega di aggiornare il profilo prima di proseguire.</value>
+  </data>
+  <data name="RegisterTitle.Text">
+    <value xml:space="preserve">Crea un nuovo Account</value>
+  </data>
+  <data name="Remember.Text">
+    <value xml:space="preserve">Ricorda Login</value>
+  </data>
+  <data name="UserLockedOut.Text">
+    <value xml:space="preserve">Questo account è stato bloccato dopo troppi tentativi di accesso non riusciti.  Si prega di attendere {0} minuti prima di tentare nuovamente l'accesso. Se hai dimenticato la password, prova l'opzione Recupera Password prima di contattare l'Amministratore del Sito.</value>
+  </data>
+  <data name="UserLockedOut_ContactAdmin.Text">
+    <value xml:space="preserve">Questo account è stato bloccato dopo troppi tentativi di accesso falliti.  Si prega di contattare l'Amministratore del Sito.</value>
+  </data>
+  <data name="UsernameError.Text">
+    <value xml:space="preserve">Il nome utente non esiste.</value>
+  </data>
+  <data name="UserNotAuthorized.Text">
+    <value xml:space="preserve">Non sei autorizzato a connetterti a questo sito.</value>
+  </data>
+</root>

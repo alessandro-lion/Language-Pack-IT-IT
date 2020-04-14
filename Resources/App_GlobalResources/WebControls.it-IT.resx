@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllItemsCheckedString.Text">
+    <value xml:space="preserve">Tutte le voci controllate</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Cancella</value>
+  </data>
+  <data name="CheckAllString.Text">
+    <value xml:space="preserve">Controlla Tutto</value>
+  </data>
+  <data name="ComboBox.EmptyMessage">
+    <value xml:space="preserve">Non esiste alcun elemento nell'elenco.</value>
+  </data>
+  <data name="ConfirmPasswordMatched.Text">
+    <value xml:space="preserve">Password Confrontate</value>
+  </data>
+  <data name="ConfirmPasswordUnmatched.Text">
+    <value xml:space="preserve">La password non corrisponde</value>
+  </data>
+  <data name="CriteriaAtLeastNChars.Text">
+    <value xml:space="preserve">Almeno {0} caratteri</value>
+  </data>
+  <data name="CriteriaAtLeastNSpecialChars.Text">
+    <value xml:space="preserve">Almeno {0} caratteri non alfanumerici</value>
+  </data>
+  <data name="FieldSuffix.Text">
+    <value xml:space="preserve">: </value>
+  </data>
+  <data name="File.Text">
+    <value xml:space="preserve">File </value>
+  </data>
+  <data name="FileUpload.CloseButton.Text">
+    <value xml:space="preserve">Chiudi</value>
+  </data>
+  <data name="FileUpload.DecompressingFile.Text">
+    <value xml:space="preserve">Estrai File</value>
+  </data>
+  <data name="FileUpload.DecompressLabel.Text">
+    <value xml:space="preserve">Estrai File Zip</value>
+  </data>
+  <data name="FileUpload.DragAndDropAreaTitle.Text">
+    <value xml:space="preserve">Trascina i file qui o fai click per sfogliare</value>
+  </data>
+  <data name="FileUpload.EmptyFileUpload.Error">
+    <value xml:space="preserve">Il tuo browser non supporta il caricamento dei file vuoti.</value>
+  </data>
+  <data name="FileUpload.ErrorDialogTitle.Text">
+    <value xml:space="preserve">Errore</value>
+  </data>
+  <data name="FileUpload.FileAlreadyExists.Error">
+    <value xml:space="preserve">Il file che vuoi caricare esiste già in questa cartella.</value>
+  </data>
+  <data name="FileUpload.FileIsTooLarge.Error">
+    <value xml:space="preserve">La dimensione del file è più grande di {0}.</value>
+  </data>
+  <data name="FileUpload.FileUploadCancelled.Error">
+    <value xml:space="preserve">Caricamento cancellato</value>
+  </data>
+  <data name="FileUpload.FileUploaded.Text">
+    <value xml:space="preserve">File caricato</value>
+  </data>
+  <data name="FileUpload.FileUploadFailed.Error">
+    <value xml:space="preserve">Caricamento fallito</value>
+  </data>
+  <data name="FileUpload.InvalidFileExtensions.Error">
+    <value xml:space="preserve">Alcuni file selezionati con estensioni non valide sono esclusi dal caricamento. È possibile caricare solo i file con le seguenti estensioni: {0}.</value>
+  </data>
+  <data name="FileUpload.KeepButton.Text">
+    <value xml:space="preserve">Mantieni</value>
+  </data>
+  <data name="FileUpload.ReplaceButton.Text">
+    <value xml:space="preserve">Sostituisci</value>
+  </data>
+  <data name="FileUpload.Title.Text">
+    <value xml:space="preserve">Carica File</value>
+  </data>
+  <data name="FileUpload.TooManyFiles.Error">
+    <value xml:space="preserve">Non si possono caricare più di {0} file alla volta.</value>
+  </data>
+  <data name="FileUpload.UploadFileMethod.Text">
+    <value xml:space="preserve">Carica File</value>
+  </data>
+  <data name="FileUpload.UploadFromWebButton.Text">
+    <value xml:space="preserve">Carica</value>
+  </data>
+  <data name="FileUpload.UploadStopped.Text">
+    <value xml:space="preserve">Caricamento file fermato</value>
+  </data>
+  <data name="FileUpload.UploadToFolderLabel.Text">
+    <value xml:space="preserve">Carica Su:</value>
+  </data>
+  <data name="FileUpload.UrlTooltip.Text">
+    <value xml:space="preserve">Inserisci l'Url del tip http://UnSitoWeb.com/Immagini/About.png</value>
+  </data>
+  <data name="Folder.Text">
+    <value xml:space="preserve">Cartella</value>
+  </data>
+  <data name="ItemsCheckedString.Text">
+    <value xml:space="preserve">elemento controllato</value>
+  </data>
+  <data name="MyFolder.Text">
+    <value xml:space="preserve">Mia Cartella</value>
+  </data>
+  <data name="NoMatches.Text">
+    <value xml:space="preserve">Nessuna corrispondenza</value>
+  </data>
+  <data name="NoPermission.Text">
+    <value xml:space="preserve">Non si dispone delle autorizzazioni per visualizzare qualsiasi file nel file system.</value>
+  </data>
+  <data name="Ok.Text">
+    <value xml:space="preserve">Ok </value>
+  </data>
+  <data name="PasswordStrengthFair.Text">
+    <value xml:space="preserve">media</value>
+  </data>
+  <data name="PasswordStrengthMinLength.Text">
+    <value xml:space="preserve">-minimo caratteri</value>
+  </data>
+  <data name="PasswordStrengthStrong.Text">
+    <value xml:space="preserve">sicura</value>
+  </data>
+  <data name="PasswordStrengthWeak.Text">
+    <value xml:space="preserve">debole</value>
+  </data>
+  <data name="PortalRoot.Text">
+    <value xml:space="preserve">Sito Principale</value>
+  </data>
+  <data name="Save.Text">
+    <value xml:space="preserve">Salva il File</value>
+  </data>
+  <data name="ShowMoreFormatString.Text">
+    <value xml:space="preserve">Elementi &lt;b&gt;1&lt;/b&gt;-&lt;b&gt;{0}&lt;/b&gt; su &lt;b&gt;{1}&lt;/b&gt;</value>
+  </data>
+  <data name="Upload.Text">
+    <value xml:space="preserve">Carica File</value>
+  </data>
+  <data name="UploadError.Text">
+    <value xml:space="preserve">Il tipo di file {1} non è valido in questo contesto. I Tipi di File Validi Sono: {0}</value>
+  </data>
+  <data name="FileUpload.UploadFromWebMethod.Text">
+    <value>Da URL</value>
+  </data>
+  <data name="PasswordRulesBodyText.Text">
+    <value>Deve contenere almeno {0} caratteri, 1 lettera maiuscola, 1 numero e {1}.</value>
+  </data>
+  <data name="PasswordRulesHeadText.Text">
+    <value>Criteri Password:</value>
+  </data>
+  <data name="CriteriaValidationExpression.Text">
+    <value>Espressione di Convalida: {0}</value>
+  </data>
+</root>

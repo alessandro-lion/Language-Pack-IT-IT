@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add.Text">
+    <value xml:space="preserve">Aggiungi Tag</value>
+  </data>
+  <data name="Add.ToolTip">
+    <value xml:space="preserve">Clicca qui per aggiungere un tag.</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Annulla</value>
+  </data>
+  <data name="Cancel.ToolTip">
+    <value xml:space="preserve">Clicca per annullare la modifica senza salvare.</value>
+  </data>
+  <data name="Category.ToolTip">
+    <value xml:space="preserve">Categorie</value>
+  </data>
+  <data name="Save.Text">
+    <value xml:space="preserve">Salva</value>
+  </data>
+  <data name="Save.ToolTip">
+    <value xml:space="preserve">Clicca per salvare i tag.</value>
+  </data>
+  <data name="Tag.ToolTip">
+    <value xml:space="preserve">Tag</value>
+  </data>
+</root>

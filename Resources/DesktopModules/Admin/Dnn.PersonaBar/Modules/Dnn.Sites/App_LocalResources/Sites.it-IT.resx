@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BasicSettings.Text" xml:space="preserve">
+    <value>Configurazione base</value>
+  </data>
+  <data name="cmdCancel.Text" xml:space="preserve">
+    <value>Cancella</value>
+  </data>
+  <data name="cmdExport.Text" xml:space="preserve">
+    <value>Crea Template</value>
+  </data>
+  <data name="ControlTitle_template.Text" xml:space="preserve">
+    <value>Crea Template Sito</value>
+  </data>
+  <data name="DefaultLanguage.Text" xml:space="preserve">
+    <value>{0} è la lingua predefinita del sito selezionato</value>
+  </data>
+  <data name="ErrorPages.Text" xml:space="preserve">
+    <value>È necessario selezionare almeno una pagina da esportare.</value>
+  </data>
+  <data name="ExportedMessage.Text" xml:space="preserve">
+    <value>Il nuovo template del sito è stato salvato nella cartella:&lt;br/&gt;&lt;b&gt;{0}&lt;/b&gt;</value>
+  </data>
+  <data name="lblAdminOnly.Text" xml:space="preserve">
+    <value>Visibile solo agli Amministratori</value>
+  </data>
+  <data name="lblDisabled.Text" xml:space="preserve">
+    <value>La pagina è disabilitata</value>
+  </data>
+  <data name="lblEveryone.Text" xml:space="preserve">
+    <value>La pagina è visibile a tutti</value>
+  </data>
+  <data name="lblFiles.Help" xml:space="preserve">
+    <value>Seleziona questa casella per esportare tutti i file e le cartelle del sito durante la creazione del nuovo template.</value>
+  </data>
+  <data name="lblFiles.Text" xml:space="preserve">
+    <value>Includi File</value>
+  </data>
+  <data name="lblHidden.Text" xml:space="preserve">
+    <value>La pagina è nascosta nel menù</value>
+  </data>
+  <data name="lblHome.Text" xml:space="preserve">
+    <value>Home page del sito</value>
+  </data>
+  <data name="lblLanguages.Help" xml:space="preserve">
+    <value>Seleziona le lingue secondarie da inserire in un template multi-lingua, o selezionare la lingua di un sito in lingua singola.</value>
+  </data>
+  <data name="lblLanguages.Text" xml:space="preserve">
+    <value>Esporta Lingue</value>
+  </data>
+  <data name="lblModules.Help" xml:space="preserve">
+    <value>Seleziona questa casella per includere le autorizzazioni di distribuzione del modulo nel template esportato. Se questa opzione è selezionata, può anche essere necessario esportare Ruoli se uno qualsiasi dei ruoli personalizzati dispone di autorizzazioni di distribuzione.</value>
+  </data>
+  <data name="lblModules.Text" xml:space="preserve">
+    <value>Includi Autorizzazioni Distribuzione Modulo</value>
+  </data>
+  <data name="lblMultilanguage.Help" xml:space="preserve">
+    <value>Seleziona questa casella per creare un template per un sito multi-lingua e seleziona ogni lingua da includere, oltre alla lingua predefinita.</value>
+  </data>
+  <data name="lblMultilanguage.Text" xml:space="preserve">
+    <value>Esporta Come Sito Multilingua</value>
+  </data>
+  <data name="lblNote.Text" xml:space="preserve">
+    <value>La lingua di default ({0}) verrà sempre esportata.</value>
+  </data>
+  <data name="lblNoteSingleLanguage.Text" xml:space="preserve">
+    <value>Nota: la lingua di default è &lt;b&gt;{0}&lt;/b&gt;</value>
+  </data>
+  <data name="lblPages.Help" xml:space="preserve">
+    <value>Seleziona le pagine da esportare. &lt;br /&gt; Se si intende utilizzare il template esportato per creare un nuovo sito, si prega di accertare di selezionarle tutte, o selezionare le pagine  Admin. Se non ci sono pagine Admin disponibili nel template, il nuovo sito non avrà un menu di Amministrazione.</value>
+  </data>
+  <data name="lblPages.Text" xml:space="preserve">
+    <value>Pagine da Esportare</value>
+  </data>
+  <data name="lblProfile.Help" xml:space="preserve">
+    <value>Seleziona questa casella per includere le definizioni delle proprietà dei profili personalizzati nel template.</value>
+  </data>
+  <data name="lblProfile.Text" xml:space="preserve">
+    <value>Includi Proprietà Profilo</value>
+  </data>
+  <data name="lblRedirect.Text" xml:space="preserve">
+    <value>Reindirizzamento pagina</value>
+  </data>
+  <data name="lblRegistered.Text" xml:space="preserve">
+    <value>Visibile agli utenti registrati</value>
+  </data>
+  <data name="lblRoles.Help" xml:space="preserve">
+    <value>Seleziona questa casella per esportare tutti i ruoli di sicurezza durante la creazione del nuovo template.</value>
+  </data>
+  <data name="lblRoles.Text" xml:space="preserve">
+    <value>Includi Ruoli</value>
+  </data>
+  <data name="lblSecure.Text" xml:space="preserve">
+    <value>Visibile solo a ruoli dedicati</value>
+  </data>
+  <data name="lblSelectLanguages.Text" xml:space="preserve">
+    <value>-- Seleziona Lingue --</value>
+  </data>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;About Template&lt;/h1&gt;&lt;p&gt;Consente di esportare un template di sito da utilizzare per la costruzione di nuovi siti.&lt;/p&gt;</value>
+  </data>
+  <data name="nav_Sites.Text" xml:space="preserve">
+    <value>Siti</value>
+  </data>
+  <data name="plContent.Help" xml:space="preserve">
+    <value>Seleziona questa casella per includere il contenuto all'interno di moduli iPortable.</value>
+  </data>
+  <data name="plContent.Text" xml:space="preserve">
+    <value>Includi Contenuto</value>
+  </data>
+  <data name="plDescription.Help" xml:space="preserve">
+    <value>Inserisci una descrizione per il file template.</value>
+  </data>
+  <data name="plDescription.Text" xml:space="preserve">
+    <value>Descrizione Template</value>
+  </data>
+  <data name="plPortals.Help" xml:space="preserve">
+    <value>Seleziona il sito da esportare.</value>
+  </data>
+  <data name="plPortals.Text" xml:space="preserve">
+    <value>Sito</value>
+  </data>
+  <data name="plTemplateName.Help" xml:space="preserve">
+    <value>Inserire un nome per il file template da creare.</value>
+  </data>
+  <data name="plTemplateName.Text" xml:space="preserve">
+    <value>Nome File Template</value>
+  </data>
+  <data name="PortalSetup.Text" xml:space="preserve">
+    <value>Configurazione Sito</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Configurazione Avanzata</value>
+  </data>
+  <data name="titleTemplateInfo.Text" xml:space="preserve">
+    <value>Informazioni Template Sito</value>
+  </data>
+  <data name="valDescription.ErrorMessage" xml:space="preserve">
+    <value>La descrizione del template è obbligatoria.</value>
+  </data>
+  <data name="valFileName.ErrorMessage" xml:space="preserve">
+    <value>Il nome del file template è obbligatorio.</value>
+  </data>
+  <data name="SiteDetails_Pages.Text" xml:space="preserve">
+    <value>Pagine</value>
+  </data>
+  <data name="SiteDetails_SiteID.Text" xml:space="preserve">
+    <value>ID Sito</value>
+  </data>
+  <data name="SiteDetails_Updated.Text" xml:space="preserve">
+    <value>Aggiornato</value>
+  </data>
+  <data name="SiteDetails_Users.Text" xml:space="preserve">
+    <value>Utenti</value>
+  </data>
+  <data name="CancelPortalDelete.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="ConfirmPortalDelete.Text" xml:space="preserve">
+    <value>Si</value>
+  </data>
+  <data name="deletePortal.Text" xml:space="preserve">
+    <value>Sei sicuro di voler eliminare {0}?</value>
+  </data>
+  <data name="AddNewSite.Header" xml:space="preserve">
+    <value>Aggiungi Nuovo Sito</value>
+  </data>
+  <data name="AssignCurrentUserAsAdmin.Label" xml:space="preserve">
+    <value>Assegna Utente Corrente come Amministratore</value>
+  </data>
+  <data name="cmdCreateSite.Text" xml:space="preserve">
+    <value>Crea Sito</value>
+  </data>
+  <data name="Description.Label" xml:space="preserve">
+    <value>Descrizione</value>
+  </data>
+  <data name="Directory.Text" xml:space="preserve">
+    <value>Directory</value>
+  </data>
+  <data name="Domain.Text" xml:space="preserve">
+    <value>Dominio</value>
+  </data>
+  <data name="HomeDirectory.Label" xml:space="preserve">
+    <value>Home Directory</value>
+  </data>
+  <data name="SiteTemplate.Label" xml:space="preserve">
+    <value>Template Sito</value>
+  </data>
+  <data name="SiteType.Label" xml:space="preserve">
+    <value>Tipo Sito:</value>
+  </data>
+  <data name="SiteUrl.Label" xml:space="preserve">
+    <value>URL Sito</value>
+  </data>
+  <data name="Title.Label" xml:space="preserve">
+    <value>Titolo</value>
+  </data>
+  <data name="CreateSite_AdminEmail.Label" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="CreateSite_AdminFirstName.Label" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="CreateSite_AdminLastName.Label" xml:space="preserve">
+    <value>Cognome</value>
+  </data>
+  <data name="CreateSite_AdminPassword.Label" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="CreateSite_AdminPasswordConfirm.Label" xml:space="preserve">
+    <value>Conferma Password</value>
+  </data>
+  <data name="CreateSite_AdminUserName.Label" xml:space="preserve">
+    <value>Nome Utente Amministratore</value>
+  </data>
+  <data name="CreateSite_SelectTemplate.Overlay" xml:space="preserve">
+    <value>clic per selezionare il template</value>
+  </data>
+  <data name="EmailRequired.Error" xml:space="preserve">
+    <value>L'e-mail è obbligatoria.</value>
+  </data>
+  <data name="FirstNameRequired.Error" xml:space="preserve">
+    <value>Il nome è obbligatorio.</value>
+  </data>
+  <data name="LastNameRequired.Error" xml:space="preserve">
+    <value>Il cognome è obbligatorio.</value>
+  </data>
+  <data name="PasswordConfirmRequired.Error" xml:space="preserve">
+    <value>La conferma della password è obbligatoria.</value>
+  </data>
+  <data name="PasswordRequired.Error" xml:space="preserve">
+    <value>La password è obbligatoria. Si prega di inserire un minimo di 7 caratteri.</value>
+  </data>
+  <data name="SiteAliasRequired.Error" xml:space="preserve">
+    <value>L'Alias Sito è obbligatorio. &lt;ul style=" word-break: normal; margin: 10px auto; list-style: none; "&gt;&lt;li style="margin-bottom:10px"&gt;Requisiti di dominio: Nessun spazio, nessun carattere speciale (solamente : , .). &lt;/li&gt;&lt;li&gt;Requisiti di directory: Nessun spazio, nessun carattere speciale (solamente _ , -). &lt;/li&gt;&lt;/ul&gt;</value>
+  </data>
+  <data name="SiteTitleRequired.Error" xml:space="preserve">
+    <value>Il Titolo del Sito è obbligatorio.</value>
+  </data>
+  <data name="UsernameRequired.Error" xml:space="preserve">
+    <value>Il nome utente è obbligatorio.</value>
+  </data>
+  <data name="PortalDeletionDenied.Text" xml:space="preserve">
+    <value>Eliminazione sito non consentita.</value>
+  </data>
+  <data name="PortalNotFound.Text" xml:space="preserve">
+    <value>Sito non trovato.</value>
+  </data>
+  <data name="LoadMore.Button" xml:space="preserve">
+    <value>Carica Altro</value>
+  </data>
+  <data name="BackToSites.Text">
+    <value>Torna Ai Siti</value>
+  </data>
+  <data name="ChildExists.Text">
+    <value>Il nome del sito figlio specificato esiste già. Si prega di inserire un nome diverso per il sito figlio.</value>
+  </data>
+  <data name="DeleteSite.Text">
+    <value>Elimina Sito</value>
+  </data>
+  <data name="DuplicatePortalAlias.Text">
+    <value>Il nome dell'alias sito specificato esiste già. Si prega di scegliere un alias sito diverso.</value>
+  </data>
+  <data name="DuplicateWithTab.Text">
+    <value>Esiste già una pagina con lo stesso nome inserito per l'alias di questo sito. Si prega di cambiare l'alias sito e riprovare.</value>
+  </data>
+  <data name="ErrorAncestorPages.Text">
+    <value>È necessario selezionare tutti i livelli principali, al fine di includere una pagina figlio.</value>
+  </data>
+  <data name="ExportTemplate.Text">
+    <value>Esporta Template</value>
+  </data>
+  <data name="InvalidHomeFolder.Text">
+    <value>La cartella home specificata non è valido.</value>
+  </data>
+  <data name="InvalidName.Text">
+    <value>L'alias del sito non deve contenere spazi o segni di punteggiatura.</value>
+  </data>
+  <data name="InvalidPassword.Text">
+    <value>I valori delle password immesse non corrispondono.</value>
+  </data>
+  <data name="SendMail.Error">
+    <value>Si è verificato un errore durante l'invio della mail di conferma - {0}  Tuttavia, il sito è stato creato. &lt;a href='{1}' {2}&gt;Clicca qui per accedere al nuovo sito&lt;/a&gt;</value>
+  </data>
+  <data name="SiteSettings.Text">
+    <value>Impostazioni Sito</value>
+  </data>
+  <data name="UnknownEmailAddress.Error">
+    <value>Non vi è alcun indirizzo e-mail impostato a livello di Host e/o di Sito.</value>
+  </data>
+  <data name="UnknownSendMail.Error">
+    <value>Si è verificato un errore durante l'invio della mail di conferma, tuttavia il sito è stato comunque creato. &lt;a href='{0}' {1}&gt;Clicca Qui Per Accedere Al Nuovo Sito&lt;/a&gt;</value>
+  </data>
+  <data name="ViewSite.Text">
+    <value>Visualizza Sito</value>
+  </data>
+  <data name="AddNewSite.Text">
+    <value>Aggiungi Nuovo Sito</value>
+  </data>
+  <data name="Description.Text">
+    <value>Descrizione</value>
+  </data>
+  <data name="SiteExport.Text">
+    <value>Esporta Sito</value>
+  </data>
+  <data name="SiteImport.Text">
+    <value>Importa Sito</value>
+  </data>
+  <data name="Sites.Text">
+    <value>Siti</value>
+  </data>
+</root>

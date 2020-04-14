@@ -1,0 +1,1093 @@
+<dotnetnuke type="Package" version="5.0">
+  <packages>
+    <package name="Core italiano (Italia)" type="CoreLanguagePack" version="09.02.00">
+      <friendlyName>DNN Core italiano (Italia)</friendlyName>
+      <description>Italian (Italy) language pack for DNN Platform.</description>
+      <iconFile />
+      <owner>
+        <organization.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
+      </owner>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="CoreLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <displayName>italiano (Italia)</displayName>
+            <fallback />
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>Export.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>Import.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModuleLocalization.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModulePermissions.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModuleSettings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ViewSource.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Portal\App_LocalResources</path>
+              <name>Privacy.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Portal\App_LocalResources</path>
+              <name>Terms.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>AccessDenied.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>PasswordReset.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>SendPassword.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Copyright.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Language.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToFullSite.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToMobileSite.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToTabletSite.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Login.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Privacy.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Search.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Tags.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Terms.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Toast.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>TreeViewMenu.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>User.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>UserAndLogin.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Tabs\App_LocalResources</path>
+              <name>Export.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Tabs\App_LocalResources</path>
+              <name>Import.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Users\App_LocalResources</path>
+              <name>ViewProfile.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>Exceptions.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>FileUpload.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>GlobalResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>List_Country.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>WebControls.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>Address.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>DualListControl.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>filepickeruploader.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>Help.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>LocaleSelectorControl.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>ModuleAuditControl.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>SkinControl.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>TextEditor.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>URLControl.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>UrlTrackingControl.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>User.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Authentication.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Login.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Logoff.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Console\App_LocalResources</path>
+              <name>Settings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Console\App_LocalResources</path>
+              <name>ViewConsole.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.EditBar\App_LocalResources</path>
+              <name>AddExistingModule.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.EditBar\App_LocalResources</path>
+              <name>AddModule.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.EditBar\App_LocalResources</path>
+              <name>Common.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.EditBar\App_LocalResources</path>
+              <name>EditBar.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.EditBar\Resources\ContentEditorManager\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>PersonaBar.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>Tabs.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.AdminLogs\App_LocalResources</path>
+              <name>AdminLogs.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.ConfigConsole\App_LocalResources</path>
+              <name>ConfigConsole.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.CssEditor\App_LocalResources</path>
+              <name>CssEditor.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Extensions\App_LocalResources</path>
+              <name>Extensions.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Licensing\App_LocalResources</path>
+              <name>Licensing.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Pages\App_LocalResources</path>
+              <name>Pages.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Recyclebin\App_LocalResources</path>
+              <name>Recyclebin.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Roles\App_LocalResources</path>
+              <name>Roles.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Security\App_LocalResources</path>
+              <name>Security.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Seo\App_LocalResources</path>
+              <name>Seo.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Servers\App_LocalResources</path>
+              <name>Servers.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.SiteImportExport\App_LocalResources</path>
+              <name>SiteImportExport.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Sites\App_LocalResources</path>
+              <name>Sites.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.SiteSettings\App_LocalResources</path>
+              <name>SiteSettings.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.SqlConsole\App_LocalResources</path>
+              <name>SqlConsole.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.TaskScheduler\App_LocalResources</path>
+              <name>TaskScheduler.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Themes\App_LocalResources</path>
+              <name>Themes.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Users\App_LocalResources</path>
+              <name>Users.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Vocabularies\App_LocalResources</path>
+              <name>Vocabularies.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\HtmlEditorManager\App_LocalResources</path>
+              <name>ProviderConfiguration.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\HtmlEditorManager\Controls\App_LocalResources</path>
+              <name>InvalidConfiguration.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
+              <name>CreateModule.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
+              <name>ViewSource.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>ResultsSettings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>SearchableModules.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>SearchResults.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditGroups.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditProfileDefinition.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditRoles.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditUser.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>ManageUsers.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>MemberServices.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Membership.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Password.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Profile.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>ProfileDefinitions.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Register.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Roles.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>SecurityRoles.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>User.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Users.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>UserSettings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>Settings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>ViewProfile.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Install\App_LocalResources</path>
+              <name>Installwizard.aspx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Install\App_LocalResources</path>
+              <name>UpgradeWizard.aspx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Portals\_default</path>
+              <name>Blank Website.template.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Portals\_default</path>
+              <name>Default Website.template.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
+              <name>AuthenticationEditor.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
+              <name>EditExtension.ascx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DDRMenu italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DDR Menu italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for DDR Menu italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>DDRMenu</package>
+            <languageFile>
+              <path>DesktopModules\DDRMenu\App_LocalResources</path>
+              <name>MenuSettings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DDRMenu\App_LocalResources</path>
+              <name>MenuView.ascx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DigitalAssetsManagement italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Digital Asset Management italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for Digital Asset Management italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>DigitalAssetsManagement</package>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>EditFolderMapping.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FileFieldsControl.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FileProperties.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FolderMappings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FolderProperties.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>SearchBoxControl.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>Settings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>View.ascx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNN_HTML italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>HTML italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for HTML italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>DNN_HTML</package>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>EditHtml.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>HtmlModule.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>MyWork.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>Settings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>Workflow.ascx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Journal italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Journal italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for Journal italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>Journal</package>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>Edit.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>Settings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>View.ascx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DotNetNuke.Modules.MemberDirectory italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Member Directory italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for Member Directory italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>DotNetNuke.Modules.MemberDirectory</package>
+            <languageFile>
+              <path>DesktopModules\MemberDirectory\App_LocalResources</path>
+              <name>Settings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\MemberDirectory\App_LocalResources</path>
+              <name>View.ascx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DotNetNuke.Modules.CoreMessaging italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Message Center italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for Message Center italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>DotNetNuke.Modules.CoreMessaging</package>
+            <languageFile>
+              <path>DesktopModules\CoreMessaging\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\CoreMessaging\App_LocalResources</path>
+              <name>View.ascx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNNCorp.RazorHost italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Razor Host italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for Razor Host italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>DNNCorp.RazorHost</package>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>AddScript.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>CreateModule.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>EditScript.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>RazorHost.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>Settings.ascx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Social Groups italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Social Groups italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for Social Groups italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>Social Groups</package>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>CreateSettings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>Edit.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>ListSettings.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>View.ascx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DefaultAuthentication italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Default Authentication italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for Default Authentication italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>DefaultAuthentication</package>
+            <languageFile>
+              <path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
+              <name>Login.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
+              <name>Settings.ascx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.EditBar.UI italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Dnn.EditBar.UI italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for Dnn.EditBar.UI italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>Dnn.EditBar.UI</package>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>AddExistingModule.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>AddModule.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>Common.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>EditBar.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\Resources\ContentEditorManager\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.PersonaBar.UI italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Dnn.PersonaBar.UI italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for Dnn.PersonaBar.UI italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>Dnn.PersonaBar.UI</package>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>PersonaBar.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>Tabs.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.AdminLogs\App_LocalResources</path>
+              <name>AdminLogs.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.ConfigConsole\App_LocalResources</path>
+              <name>ConfigConsole.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.CssEditor\App_LocalResources</path>
+              <name>CssEditor.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Extensions\App_LocalResources</path>
+              <name>Extensions.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Licensing\App_LocalResources</path>
+              <name>Licensing.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Pages\App_LocalResources</path>
+              <name>Pages.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Recyclebin\App_LocalResources</path>
+              <name>Recyclebin.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Roles\App_LocalResources</path>
+              <name>Roles.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Security\App_LocalResources</path>
+              <name>Security.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Seo\App_LocalResources</path>
+              <name>Seo.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Servers\App_LocalResources</path>
+              <name>Servers.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteImportExport\App_LocalResources</path>
+              <name>SiteImportExport.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Sites\App_LocalResources</path>
+              <name>Sites.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteSettings\App_LocalResources</path>
+              <name>SiteSettings.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SqlConsole\App_LocalResources</path>
+              <name>SqlConsole.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.TaskScheduler\App_LocalResources</path>
+              <name>TaskScheduler.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Themes\App_LocalResources</path>
+              <name>Themes.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Users\App_LocalResources</path>
+              <name>Users.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Vocabularies\App_LocalResources</path>
+              <name>Vocabularies.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Connectors\App_LocalResources</path>
+              <name>Connectors.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Prompt\App_LocalResources</path>
+              <name>Prompt.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="SiteExportImport italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Site Export Import italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for Site Export Import italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>SiteExportImport</package>
+            <languageFile>
+              <path>DesktopModules\SiteExportImport\App_LocalResources</path>
+              <name>ExportImport.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.AzureConnector_it-IT" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Dnn Azure Connector italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for Dnn Azure Connector.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>Dnn.AzureConnector</package>
+            <languageFile>
+              <path>DesktopModules\Connectors\Azure\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="AspNetClientCapabilityProvider_it-IT" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DotNetNuke ASP.NET Client Capability Provider italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for DotNetNuke ASP.NET Client Capability Provider.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>AspNetClientCapabilityProvider</package>
+            <languageFile>
+              <path>Providers\ClientCapabilityProviders\AspNetClientCapabilityProvider\App_LocalResources</path>
+              <name>SharedResources.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DotNetNuke.Providers.FolderProviders_it-IT" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DotNetNuke Folder Providers italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for DotNetNuke Folder Providers.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>DotNetNuke.Providers.FolderProviders</package>
+            <languageFile>
+              <path>Providers\FolderProviders\AzureFolderProvider\App_LocalResources</path>
+              <name>Settings.ascx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNNConnect.CKEditorProvider_it-IT" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DNN Connect CKEditor Provider italiano (Italia)</friendlyName>
+      <description><![CDATA[Italian (Italy) language pack for DNN Connect CKEditor Provider.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>it-IT</code>
+            <package>DNNConnect.CKEditorProvider</package>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>Browser.aspx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>EditorConfigManager.ascx.it-IT.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>Options.aspx.it-IT.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+  </packages>
+</dotnetnuke>

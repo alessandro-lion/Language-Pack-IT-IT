@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Action.Text">
+    <value xml:space="preserve">Azione</value>
+  </data>
+  <data name="ActionNotPerformed.Text">
+    <value xml:space="preserve">Si è verificato un errore durante l'esecuzione dell'azione.  Si prega di riprovare più tardi.</value>
+  </data>
+  <data name="ActionPerformed.Text">
+    <value xml:space="preserve">L'azione è stata eseguita con successo.</value>
+  </data>
+  <data name="Actions.Text">
+    <value xml:space="preserve">Azioni</value>
+  </data>
+  <data name="Activity.Text">
+    <value xml:space="preserve">Attività</value>
+  </data>
+  <data name="All.Text">
+    <value xml:space="preserve">Tutti</value>
+  </data>
+  <data name="ApplyActionToMessages.Text">
+    <value xml:space="preserve">Applicare Un'Azione Ai Vostri Messaggi</value>
+  </data>
+  <data name="Archived.Text">
+    <value xml:space="preserve">Archiviato</value>
+  </data>
+  <data name="ArchivedMessages.Text">
+    <value xml:space="preserve">Messaggi Archiviati</value>
+  </data>
+  <data name="ArchiveMessages.Text">
+    <value xml:space="preserve">Archivia Messaggio(i)</value>
+  </data>
+  <data name="ArrangeConversation.Text">
+    <value xml:space="preserve">Conversazione</value>
+  </data>
+  <data name="ArrangeDate.Text">
+    <value xml:space="preserve">Data</value>
+  </data>
+  <data name="ArrangeFrom.Text">
+    <value xml:space="preserve">Da</value>
+  </data>
+  <data name="ArrangeMessages.Text">
+    <value xml:space="preserve">Organizza</value>
+  </data>
+  <data name="Attach.Text">
+    <value xml:space="preserve">Allega</value>
+  </data>
+  <data name="Attachments.Text">
+    <value xml:space="preserve">Allegato(i)</value>
+  </data>
+  <data name="AutoSuggestError.Text">
+    <value xml:space="preserve">Si è verificato un errore durante il recupero dei suggerimenti:</value>
+  </data>
+  <data name="BackToMessages.Text">
+    <value xml:space="preserve">Torna ai Messaggi </value>
+  </data>
+  <data name="Browse.Text">
+    <value xml:space="preserve">Sfoglia Dal Sito</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Cancella</value>
+  </data>
+  <data name="ComposeNewMessage.Text">
+    <value xml:space="preserve">Componi Nuovo Messaggio</value>
+  </data>
+  <data name="ContentNotAvailable.Text">
+    <value xml:space="preserve">Il contenuto di questo modulo non può essere visibile dagli utenti non autenticati. Si prega di effettuare il login per poter vedere il suo contenuto.</value>
+  </data>
+  <data name="ConversationArchived.Text">
+    <value xml:space="preserve">La conversazione è stata archiviata.</value>
+  </data>
+  <data name="Conversations.Text">
+    <value xml:space="preserve">Conversazioni</value>
+  </data>
+  <data name="ConversationSetAsRead.Text">
+    <value xml:space="preserve">La conversazione è stata impostata come letta.</value>
+  </data>
+  <data name="ConversationSetAsUnread.Text">
+    <value xml:space="preserve">La conversazione è stata impostata come non letta.</value>
+  </data>
+  <data name="ConversationUnarchived.Text">
+    <value xml:space="preserve">La conversazione è stato estratta dall'archivio.</value>
+  </data>
+  <data name="CreateMessageError.Text">
+    <value xml:space="preserve">Si è verificato un errore durante la creazione del messaggio.  Si prega di riprovare più tardi.</value>
+  </data>
+  <data name="CreateMessageErrorWithDescription.Text">
+    <value xml:space="preserve">Si è verificato un errore durante la creazione del messaggio:</value>
+  </data>
+  <data name="DismissAllConfirm.Text">
+    <value xml:space="preserve">Sei sicuro di voler eliminare tutte le {0} notifiche?</value>
+  </data>
+  <data name="DismissAllNotifications.Text">
+    <value xml:space="preserve">Ignora Tutte le Notifiche</value>
+  </data>
+  <data name="DismissThis.Text">
+    <value xml:space="preserve">Respingi</value>
+  </data>
+  <data name="DNNCorp_Answers_Question.Text">
+    <value xml:space="preserve">Iscrizioni a Answers</value>
+  </data>
+  <data name="DNNCorp_Blogs.Text">
+    <value xml:space="preserve">Iscrizioni a Blogs</value>
+  </data>
+  <data name="DNNCorp_Challenges_Challenge.Text">
+    <value xml:space="preserve">Iscrizioni a Challenges</value>
+  </data>
+  <data name="DNNCorp_Discussions_Topic.Text">
+    <value xml:space="preserve">Iscrizioni a Discussions</value>
+  </data>
+  <data name="DNNCorp_File.Text">
+    <value xml:space="preserve">Iscrizioni a File</value>
+  </data>
+  <data name="DNNCorp_Folder.Text">
+    <value xml:space="preserve">Iscrizioni a Cartelle</value>
+  </data>
+  <data name="DNNCorp_Groups_CreatedApprovedGroup.Text">
+    <value xml:space="preserve">Iscrizioni a Groups</value>
+  </data>
+  <data name="DNNCorp_Ideas.Text">
+    <value xml:space="preserve">Iscrizioni a Ideas</value>
+  </data>
+  <data name="DNNCorp_SocialEvents_Event.Text">
+    <value xml:space="preserve">Iscrizioni a Eventi</value>
+  </data>
+  <data name="DNNCorp_Wiki_Page.Text">
+    <value xml:space="preserve">Iscrizioni a Wiki</value>
+  </data>
+  <data name="EditModule.Text">
+    <value xml:space="preserve">Modifica Modulo</value>
+  </data>
+  <data name="EmailDeliverySchedule.Text">
+    <value xml:space="preserve">Schedulazione di Invio E-mail</value>
+  </data>
+  <data name="FileSize.Header">
+    <value xml:space="preserve">Dimensione File:</value>
+  </data>
+  <data name="Filter.Text">
+    <value xml:space="preserve">Filtro</value>
+  </data>
+  <data name="FilterCategory.Text">
+    <value xml:space="preserve">categoria</value>
+  </data>
+  <data name="FilterFriends.Text">
+    <value xml:space="preserve">amici</value>
+  </data>
+  <data name="FilterFrom.Text">
+    <value xml:space="preserve">da</value>
+  </data>
+  <data name="FilterGroups.Text">
+    <value xml:space="preserve">gruppi</value>
+  </data>
+  <data name="FilterUnread.Text">
+    <value xml:space="preserve">da leggere</value>
+  </data>
+  <data name="FilterViewAll.Text">
+    <value xml:space="preserve">visuallizza Tutti</value>
+  </data>
+  <data name="Frequency.Text">
+    <value xml:space="preserve">Frequenza</value>
+  </data>
+  <data name="From.Text">
+    <value xml:space="preserve">Da</value>
+  </data>
+  <data name="LastModified.Header">
+    <value xml:space="preserve">Ultima modifica </value>
+  </data>
+  <data name="lblMessageFreq.Help">
+    <value xml:space="preserve">Seleziona la frequenza per ricevere i messaggi di posta elettronica per informare dei nuovi messaggi.</value>
+  </data>
+  <data name="lblMessageFreq.Text">
+    <value xml:space="preserve">Frequenza Messaggi Digest:</value>
+  </data>
+  <data name="lblNotificationFreq.Help">
+    <value xml:space="preserve">Quanto spesso riceverai le e-mail informative delle notifiche del sito.</value>
+  </data>
+  <data name="lblNotificationFreq.Text">
+    <value xml:space="preserve">Frequenza Notifiche Digest:</value>
+  </data>
+  <data name="lblSubscriptions.Help">
+    <value xml:space="preserve">Visualizza e gestisci le sottoscrizioni.</value>
+  </data>
+  <data name="lblSubscriptions.Text">
+    <value xml:space="preserve">Sottoscrizioni:</value>
+  </data>
+  <data name="Loading.Text">
+    <value xml:space="preserve">caricando...</value>
+  </data>
+  <data name="LoadingContent.Text">
+    <value xml:space="preserve">Caricando Contenuto...</value>
+  </data>
+  <data name="LoadMore.Text">
+    <value xml:space="preserve">Carica Altro</value>
+  </data>
+  <data name="ManageSubscriptions.Text">
+    <value xml:space="preserve">Gestione Sottoscrizioni</value>
+  </data>
+  <data name="MarkArchive.Text">
+    <value xml:space="preserve">Archivio</value>
+  </data>
+  <data name="MarkRead.Text">
+    <value xml:space="preserve">Segna come Già Letto</value>
+  </data>
+  <data name="MarkUnarchive.Text">
+    <value xml:space="preserve">Estrai dall'Archivio</value>
+  </data>
+  <data name="MarkUnread.Text">
+    <value xml:space="preserve">Segna come Da Leggere</value>
+  </data>
+  <data name="Message.Text">
+    <value xml:space="preserve">Il Tuo Messaggio:</value>
+  </data>
+  <data name="Messages.Text">
+    <value xml:space="preserve">Messaggi</value>
+  </data>
+  <data name="MessageSent.Text">
+    <value xml:space="preserve">Il tuo messaggio è stato inviato con successo.</value>
+  </data>
+  <data name="MessageSentTitle.Text">
+    <value xml:space="preserve">Messaggio Inviato</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Nome</value>
+  </data>
+  <data name="NewUnreadMessages.Text">
+    <value xml:space="preserve">Nuovi messaggi non letti</value>
+  </data>
+  <data name="None.Text">
+    <value xml:space="preserve">Nessuno</value>
+  </data>
+  <data name="NoResults.Text">
+    <value xml:space="preserve">Nessun risultato</value>
+  </data>
+  <data name="NotificationConfirmNo.Text">
+    <value xml:space="preserve">No</value>
+  </data>
+  <data name="NotificationConfirmTitle.Text">
+    <value xml:space="preserve">Conferma</value>
+  </data>
+  <data name="NotificationConfirmYes.Text">
+    <value xml:space="preserve">Si</value>
+  </data>
+  <data name="Notifications.Text">
+    <value xml:space="preserve">Notifiche</value>
+  </data>
+  <data name="Of.Text">
+    <value xml:space="preserve"> di </value>
+  </data>
+  <data name="PermissionsNotProperlySet.Text">
+    <value xml:space="preserve">Le autorizzazioni del modulo non sono state impostate correttamente.  Il modulo non dovrebbe essere visibile agli utenti non autenticati. Si prega di correggere.</value>
+  </data>
+  <data name="PrefSaved.Text">
+    <value xml:space="preserve">Le tue preferenze sono state aggiornate.</value>
+  </data>
+  <data name="Read.Text">
+    <value xml:space="preserve">Leggi</value>
+  </data>
+  <data name="ReadStatusToggle.Text">
+    <value xml:space="preserve">Sgnato come Letto o Da leggere</value>
+  </data>
+  <data name="Remove.Text">
+    <value xml:space="preserve">Elimina allegato</value>
+  </data>
+  <data name="Reply.Text">
+    <value xml:space="preserve">Rispondi</value>
+  </data>
+  <data name="ReplyHasNoRecipients.Text">
+    <value xml:space="preserve">Il messaggio non ha più destinatari validi così le risposte sono state disattivate.</value>
+  </data>
+  <data name="SearchFilter.Text">
+    <value xml:space="preserve">Filtro di Ricerca</value>
+  </data>
+  <data name="Searching.Text">
+    <value xml:space="preserve">Ricerca...</value>
+  </data>
+  <data name="Select.Text">
+    <value xml:space="preserve">Seleziona</value>
+  </data>
+  <data name="SelectMessages.Text">
+    <value xml:space="preserve">Seleziona Messaggi</value>
+  </data>
+  <data name="Send.Text">
+    <value xml:space="preserve">Invia</value>
+  </data>
+  <data name="Sent.Text">
+    <value xml:space="preserve">Inviato</value>
+  </data>
+  <data name="SentMessages.Text">
+    <value xml:space="preserve">Messaggi Inviati</value>
+  </data>
+  <data name="SentTo.Text">
+    <value xml:space="preserve">Inviato a:</value>
+  </data>
+  <data name="ServerError.Text">
+    <value xml:space="preserve">Si è verificato un errore durante l'elaborazione della richiesta.  Si prega di riprovare più tardi.</value>
+  </data>
+  <data name="ServerErrorWithDescription.Text">
+    <value xml:space="preserve">Si è verificato un errore durante l'elaborazione della richiesta:</value>
+  </data>
+  <data name="ShowPreviousReplies.Text">
+    <value xml:space="preserve">Visualizza Risposte Precedenti</value>
+  </data>
+  <data name="Subject.Text">
+    <value xml:space="preserve">Oggetto:</value>
+  </data>
+  <data name="SubscribedDescription.Text">
+    <value xml:space="preserve">Oggetto</value>
+  </data>
+  <data name="Subscriptions.Text">
+    <value xml:space="preserve">Sottoscrizioni</value>
+  </data>
+  <data name="SubscriptionType.Text">
+    <value xml:space="preserve">Tipo Sottoscrizione</value>
+  </data>
+  <data name="Throttling.Text">
+    <value xml:space="preserve">Si prega di attendere prima di inviare un nuovo messaggio.</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">Componi il Messaggio</value>
+  </data>
+  <data name="To.Text">
+    <value xml:space="preserve">Invia a</value>
+  </data>
+  <data name="TotalNotifications.Text">
+    <value xml:space="preserve">Notifiche totali</value>
+  </data>
+  <data name="Type.Header">
+    <value xml:space="preserve">Tipo</value>
+  </data>
+  <data name="Unread.Text">
+    <value xml:space="preserve">Da Leggere</value>
+  </data>
+  <data name="Unsubscribe.Text">
+    <value xml:space="preserve">Rimuovi Sottoscrizione</value>
+  </data>
+  <data name="Unsubscribed.Text">
+    <value xml:space="preserve">Hai rimosso la tua sottoscrizione con successo.</value>
+  </data>
+  <data name="Upload.Text">
+    <value xml:space="preserve">Carica Dal Computer</value>
+  </data>
+  <data name="UserFileManagerTitle.Text">
+    <value xml:space="preserve">Sfoglia file da utilizzare </value>
+  </data>
+</root>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add.Title">
+    <value xml:space="preserve">Costruttore Modulo</value>
+  </data>
+  <data name="AlreadyExists.ErrorMessage">
+    <value xml:space="preserve">Esiste già un modulo con il nome specificato.</value>
+  </data>
+  <data name="C#.Text">
+    <value xml:space="preserve">C#</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value xml:space="preserve">Crea Modulo</value>
+  </data>
+  <data name="InputValidation.ErrorMessage">
+    <value xml:space="preserve">Devi fornire il Nome del Proprietario e del Modulo e selezionare un Template del Modulo.</value>
+  </data>
+  <data name="plControl.Help">
+    <value xml:space="preserve">Inserisci un nome univoco per il  controllo del modulo.</value>
+  </data>
+  <data name="plControl.Text">
+    <value xml:space="preserve">Nome Controllo:</value>
+  </data>
+  <data name="plDescription.Help">
+    <value xml:space="preserve">Puoi aggiungere una descrizione opzionale per il modulo.</value>
+  </data>
+  <data name="plDescription.Text">
+    <value xml:space="preserve">Descrizione:</value>
+  </data>
+  <data name="plLanguage.Help">
+    <value xml:space="preserve">Seleziona la lingua preferita per lo sviluppo del modulo.</value>
+  </data>
+  <data name="plLanguage.Text">
+    <value xml:space="preserve">Lingua:</value>
+  </data>
+  <data name="plModule.Help">
+    <value xml:space="preserve">Inserisci un nome unico per il modulo.</value>
+  </data>
+  <data name="plModule.Text">
+    <value xml:space="preserve">Nome Modulo:</value>
+  </data>
+  <data name="plOwner.Help">
+    <value xml:space="preserve">Gli sviluppatori sono incoraggiati ad usare dei namespace unici per i loro moduli in modo da prevenire conflitti con altri sviluppatori. Specifica il nome della tua azienda o organizzazione per utilizzarlo come prefisso.</value>
+  </data>
+  <data name="plOwner.Text">
+    <value xml:space="preserve">Nome Proprietario:</value>
+  </data>
+  <data name="plTemplate.Help">
+    <value xml:space="preserve">Seleziona il tuo template di sviluppo per moduli preferito. I template di sviluppo dei moduli sono salvati nella sottocartella del Modulo dentro la cartella principale Host.</value>
+  </data>
+  <data name="plTemplate.Text">
+    <value xml:space="preserve">Template:</value>
+  </data>
+  <data name="SuperUser.ErrorMessage">
+    <value xml:space="preserve">Devi essere un Super User per creare nuovi moduli.</value>
+  </data>
+  <data name="TemplateProblem.ErrorMessage">
+    <value xml:space="preserve">Si è verificato un errore durante la lettura del file di template per il modulo selezionato.</value>
+  </data>
+  <data name="VB.Text">
+    <value xml:space="preserve">Visual Basic</value>
+  </data>
+</root>

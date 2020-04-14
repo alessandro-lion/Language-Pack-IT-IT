@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Approved.Help">
+    <value xml:space="preserve">Indica se questo utente è autorizzato al sito.</value>
+  </data>
+  <data name="Approved.Text">
+    <value xml:space="preserve">Autorizzato:</value>
+  </data>
+  <data name="cmdAuthorize.Text">
+    <value xml:space="preserve">Autorizza Utente</value>
+  </data>
+  <data name="cmdPassword.Text">
+    <value xml:space="preserve">Forza Modifica Password</value>
+  </data>
+  <data name="cmdUnAuthorize.Text">
+    <value xml:space="preserve">Utente Non Autorizzato</value>
+  </data>
+  <data name="cmdUnLock.Text">
+    <value xml:space="preserve">Sblocca Utente</value>
+  </data>
+  <data name="CreatedDate.Help">
+    <value xml:space="preserve">La data in cui questo account utente è stato creato.</value>
+  </data>
+  <data name="CreatedDate.Text">
+    <value xml:space="preserve">Data di Creazione:</value>
+  </data>
+  <data name="DemoteFromSuperUser.Text">
+    <value xml:space="preserve">Crea Utente Normale.</value>
+  </data>
+  <data name="IsDeleted.Help">
+    <value xml:space="preserve">Indica se questo utente è eliminato.</value>
+  </data>
+  <data name="IsDeleted.Text">
+    <value xml:space="preserve">Eliminato:</value>
+  </data>
+  <data name="IsOnLine.Help">
+    <value xml:space="preserve">Indica se l'utente è attualmente online.</value>
+  </data>
+  <data name="IsOnLine.Text">
+    <value xml:space="preserve">L'Utente è Online:</value>
+  </data>
+  <data name="LastActivityDate.Help">
+    <value xml:space="preserve">La data in cui questo utente ha eseguito un'attività sul sito.</value>
+  </data>
+  <data name="LastActivityDate.Text">
+    <value xml:space="preserve">Data Ultima Attività:</value>
+  </data>
+  <data name="LastLockoutDate.Help">
+    <value xml:space="preserve">La data in cui questo utente è stato bloccato a causa di errori di immissione password ripetute</value>
+  </data>
+  <data name="LastLockoutDate.Text">
+    <value xml:space="preserve">Ultima Data di Blocco:</value>
+  </data>
+  <data name="LastLoginDate.Help">
+    <value xml:space="preserve">La data in cui questo utente ha effettuato l'ultimo accesso al sito.</value>
+  </data>
+  <data name="LastLoginDate.Text">
+    <value xml:space="preserve">Data Ultimo Accesso:</value>
+  </data>
+  <data name="LastPasswordChangeDate.Help">
+    <value xml:space="preserve">La data in cui questo utente ha eseguito l'ultima modifica della password.</value>
+  </data>
+  <data name="LastPasswordChangeDate.Text">
+    <value xml:space="preserve">Ultima Modifica della Password:</value>
+  </data>
+  <data name="LockedOut.Help">
+    <value xml:space="preserve">Indica se l'utente è attualmente bloccato dal sito a causa di troppi tentativi falliti di connessione.</value>
+  </data>
+  <data name="LockedOut.Text">
+    <value xml:space="preserve">Bloccato</value>
+  </data>
+  <data name="Never.Text">
+    <value xml:space="preserve">Mai</value>
+  </data>
+  <data name="OptionUnavailable.Text">
+    <value xml:space="preserve">L'opzione di Reset Password non è al momento disponibile.</value>
+  </data>
+  <data name="PromoteToSuperUser.Text">
+    <value xml:space="preserve">Promuovi a Super User</value>
+  </data>
+  <data name="UpdatePassword.Help">
+    <value xml:space="preserve">Indica se l'utente è costretto ad aggiornare la propria password.</value>
+  </data>
+  <data name="UpdatePassword.Text">
+    <value xml:space="preserve">Aggiorna Password:</value>
+  </data>
+  <data name="UserFolder.Help">
+    <value xml:space="preserve">La cartella in cui risiedono i file dell'utente.</value>
+  </data>
+  <data name="UserFolder.Text">
+    <value xml:space="preserve">Cartella Utente:</value>
+  </data>
+</root>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdRSVP.Text">
+    <value xml:space="preserve">Iscriviti</value>
+  </data>
+  <data name="Description.Header">
+    <value xml:space="preserve">Descrizione</value>
+  </data>
+  <data name="Every.Header">
+    <value xml:space="preserve">Ogni</value>
+  </data>
+  <data name="Expired.Text">
+    <value xml:space="preserve">Scaduto</value>
+  </data>
+  <data name="ExpiryDate.Header">
+    <value xml:space="preserve">Data di Scadenza</value>
+  </data>
+  <data name="Fee.Header">
+    <value xml:space="preserve">Importo</value>
+  </data>
+  <data name="Fee.Text">
+    <value xml:space="preserve">{0} Ogni {1} {2}</value>
+  </data>
+  <data name="Frequency_D.Text">
+    <value xml:space="preserve">Giorno(i)</value>
+  </data>
+  <data name="Frequency_M.Text">
+    <value xml:space="preserve">Mese</value>
+  </data>
+  <data name="Frequency_W.Text">
+    <value xml:space="preserve">Settimana(e)</value>
+  </data>
+  <data name="Frequency_Y.Text">
+    <value xml:space="preserve">Anno(i)</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Nome</value>
+  </data>
+  <data name="NoFee.Text">
+    <value xml:space="preserve">Gratis</value>
+  </data>
+  <data name="Period.Header">
+    <value xml:space="preserve">Periodicità</value>
+  </data>
+  <data name="plRSVPCode.Help">
+    <value xml:space="preserve">È possibile iscriversi ad alcuni servizi inserendo un codice RSVP. Se ti è stato dato un codice inseriscilo e fai clic su Iscriviti.</value>
+  </data>
+  <data name="plRSVPCode.Text">
+    <value xml:space="preserve">RSVP codice:</value>
+  </data>
+  <data name="Renew.Text">
+    <value xml:space="preserve">Rinnova</value>
+  </data>
+  <data name="RSVPFailure.Text">
+    <value xml:space="preserve">Il RSVP codice inserito non esiste o non è valido.</value>
+  </data>
+  <data name="RSVPHelp.Text">
+    <value xml:space="preserve">Se si possiede un codice RSVP, puoi iscriverti a questi servizi inserendo nel campo sottostante e cliccando sul pulsante "Iscriviti".</value>
+  </data>
+  <data name="RSVPSuccess.Text">
+    <value xml:space="preserve">Sei stato aggiunto con successo al(i) ruolo(i) associato(i) al codice RSVP inserito. Per poter accedere ai nuovi servizi è necessario Disconnettersi e quindi Accedere nuovamente al sito.</value>
+  </data>
+  <data name="ServicesHelp.Text">
+    <value xml:space="preserve">Questa sezione ti consente di gestire i tuoi abbonamenti sul sito. Alcuni servizi potrebbero richiedere il pagamento. In questo caso verrai reindirizzato su un sito di pagamento. Quando tornerai su questo sito, potrai tornare qui a controllare il tuo abbonamento.</value>
+  </data>
+  <data name="Subscribe.Text">
+    <value xml:space="preserve">Iscriviti</value>
+  </data>
+  <data name="Trial.Header">
+    <value xml:space="preserve">Prova</value>
+  </data>
+  <data name="TrialFee.Text">
+    <value xml:space="preserve">{0} per {1} {2}</value>
+  </data>
+  <data name="Unsubscribe.Text">
+    <value xml:space="preserve">Annulla Iscrizione</value>
+  </data>
+  <data name="UseTrial.Text">
+    <value xml:space="preserve">Usa Versione di Prova</value>
+  </data>
+</root>

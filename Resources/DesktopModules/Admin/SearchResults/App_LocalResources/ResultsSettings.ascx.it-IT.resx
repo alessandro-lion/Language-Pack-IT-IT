@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Impostazioni Risultati Ricerca</value>
+  </data>
+  <data name="filtersRequired.Text">
+    <value xml:space="preserve">Deve essere selezionato almeno un tipo di contenuto.</value>
+  </data>
+  <data name="linkTargetOnSamePage.Text">
+    <value xml:space="preserve">Sulla Stessa Pagina</value>
+  </data>
+  <data name="linkTargetOpenNewPage.Text">
+    <value xml:space="preserve">Apri Nuova Pagina</value>
+  </data>
+  <data name="plEnableWildSearch.Help">
+    <value xml:space="preserve">Seleziona la casella per abilitare le ricerche digitando parole parziali, ad esempio, digitando "org" troverà "organizzazione" o "organizzare". Questa opzione dovrebbe essere disattivata nela caso in cui i risultati richiedono molto tempo per apparire.</value>
+  </data>
+  <data name="plEnableWildSearch.Text">
+    <value xml:space="preserve">Abilita Caratteri Speciali nella Ricerca di Default </value>
+  </data>
+  <data name="plResultsScopeForFilters.Help">
+    <value xml:space="preserve">Limita i risultati di ricerca selezionando il tipo di contenuto.</value>
+  </data>
+  <data name="plResultsScopeForFilters.Text">
+    <value xml:space="preserve">Campo Risultati per Tipo di Contenuto</value>
+  </data>
+  <data name="plResultsScopeForPortals.Help">
+    <value xml:space="preserve">Limita i risultati di ricerca selezionando il/i sito/i.</value>
+  </data>
+  <data name="plResultsScopeForPortals.Text">
+    <value xml:space="preserve">Campo Risultati per Sito/i</value>
+  </data>
+  <data name="plTitleLinkTarget.Help">
+    <value xml:space="preserve">Scegli se aprire il link nella stessa pagina o in una nuova finestra.</value>
+  </data>
+  <data name="plTitleLinkTarget.Text">
+    <value xml:space="preserve">Destinazione Link Titolo</value>
+  </data>
+  <data name="portalsRequired.Text">
+    <value xml:space="preserve">Deve essere selezionato almeno un sito.</value>
+  </data>
+  <data name="plShowDescriptionForSnippet.Help">
+    <value>Mostra la descrizione invece dello snippet. Lo snippet verrà comunque mostrato se la descrizione non è presente.</value>
+  </data>
+  <data name="plShowDescriptionForSnippet.Text">
+    <value>Mostra la descrizione al posto dello snippet di ricerca</value>
+  </data>
+</root>

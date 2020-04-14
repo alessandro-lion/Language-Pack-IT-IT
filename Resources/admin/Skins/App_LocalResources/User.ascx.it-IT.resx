@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CheckMessages.Text">
+    <value xml:space="preserve">Controlla Messaggi</value>
+  </data>
+  <data name="CheckNotifications.Text">
+    <value xml:space="preserve">Controlla Notifiche</value>
+  </data>
+  <data name="Messages.Text">
+    <value>&lt;span&gt;{0}&lt;/span&gt;&lt;strong&gt; Messaggi&lt;/strong&gt;</value>
+  </data>
+  <data name="NewMessages.Text">
+    <value xml:space="preserve">({0})</value>
+  </data>
+  <data name="NoMessages.Text">
+    <value>&lt;strong&gt; Messaggi&lt;/strong&gt;</value>
+  </data>
+  <data name="NoNotifications.Text">
+    <value>&lt;strong&gt; Notifiche&lt;/strong&gt;</value>
+  </data>
+  <data name="Notifications.Text">
+    <value>&lt;span&gt;{0}&lt;/span&gt;&lt;strong&gt; Notifiche&lt;/strong&gt;</value>
+  </data>
+  <data name="ProfileAvatar.Text">
+    <value xml:space="preserve">Profilo Avatar</value>
+  </data>
+  <data name="Register.Text">
+    <value xml:space="preserve">Registrazione</value>
+  </data>
+  <data name="ToolTip.Text">
+    <value xml:space="preserve">Clicca qui per visitare la pagina del tuo profilo.</value>
+  </data>
+  <data name="ToolTipNewMessages.Text">
+    <value xml:space="preserve">Hai {0} nuovo(i) messaggio(i). Clicca qui per visitare la pagina del tuo profilo.</value>
+  </data>
+  <data name="VisitMyProfile.Text">
+    <value xml:space="preserve">Visita il Mio Profilo</value>
+  </data>
+</root>

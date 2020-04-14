@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="City.Help">
+    <value xml:space="preserve">Inserisci una città o una località.</value>
+  </data>
+  <data name="City.Text">
+    <value xml:space="preserve">Città:</value>
+  </data>
+  <data name="DisplayName.Help">
+    <value xml:space="preserve">Inserisci un nickname.</value>
+  </data>
+  <data name="DisplayName.RegExError">
+    <value xml:space="preserve">Il nickname non è valido.</value>
+  </data>
+  <data name="DisplayName.Required">
+    <value xml:space="preserve">Il nickname non è obbligatorio.</value>
+  </data>
+  <data name="DisplayName.Text">
+    <value xml:space="preserve">Nickname:</value>
+  </data>
+  <data name="Email.Help">
+    <value xml:space="preserve">Inserisci un indirizzo e-mail valido.</value>
+  </data>
+  <data name="Email.RegExError">
+    <value xml:space="preserve">Devi inserire un indirizzo e-mail valido.</value>
+  </data>
+  <data name="Email.Required">
+    <value xml:space="preserve">L'e-mail è obbligatoria.</value>
+  </data>
+  <data name="Email.Text">
+    <value xml:space="preserve">Indirizzo E-mail:</value>
+  </data>
+  <data name="FirstName.Help">
+    <value xml:space="preserve">Inserisci un nome.</value>
+  </data>
+  <data name="FirstName.RegExError">
+    <value xml:space="preserve">Il nome non è valido.</value>
+  </data>
+  <data name="FirstName.Required">
+    <value xml:space="preserve">Il nome è obbligatorio.</value>
+  </data>
+  <data name="FirstName.Text">
+    <value xml:space="preserve">Nome:</value>
+  </data>
+  <data name="InvalidAnswer.Text">
+    <value xml:space="preserve">Risposta Non valida</value>
+  </data>
+  <data name="InvalidAnswer_Detail.Text">
+    <value xml:space="preserve">La risposta fornita non è valida.</value>
+  </data>
+  <data name="InvalidPassword.Text">
+    <value xml:space="preserve">Password Non Valida</value>
+  </data>
+  <data name="InvalidPassword_Detail.Text">
+    <value xml:space="preserve">La password non soddisfa i requisiti minimi di complessità per il sito.</value>
+  </data>
+  <data name="InvalidQuestion.Text">
+    <value xml:space="preserve">Domanda Non Valida</value>
+  </data>
+  <data name="InvalidQuestion_Detail.Text">
+    <value xml:space="preserve">La domanda fornita non è valida.</value>
+  </data>
+  <data name="LastName.Help">
+    <value xml:space="preserve">Inserisci un cognome.</value>
+  </data>
+  <data name="LastName.RegExError">
+    <value xml:space="preserve">Il cognome non è valido.</value>
+  </data>
+  <data name="LastName.Required">
+    <value xml:space="preserve">Il Cognome è obbligatorio</value>
+  </data>
+  <data name="LastName.Text">
+    <value xml:space="preserve">Cognome:</value>
+  </data>
+  <data name="Password.Help">
+    <value xml:space="preserve">Inserisci la tua password.</value>
+  </data>
+  <data name="Password.Required">
+    <value xml:space="preserve">Devi fornire una password.</value>
+  </data>
+  <data name="PasswordAnswer.Help">
+    <value xml:space="preserve">Inserisci la risposta alla domanda dell password.</value>
+  </data>
+  <data name="PasswordAnswer.Text">
+    <value xml:space="preserve">Risposta Password:</value>
+  </data>
+  <data name="PasswordConfirm.Help">
+    <value xml:space="preserve">Inserisci nuovamente la password per confermare.</value>
+  </data>
+  <data name="PasswordConfirm.Required">
+    <value xml:space="preserve">È necessario fornire una conferma della password.</value>
+  </data>
+  <data name="PasswordConfirm.Text">
+    <value xml:space="preserve">Conferma Password:</value>
+  </data>
+  <data name="PasswordMismatch.Text">
+    <value xml:space="preserve">La nuova password e la conferma password non corrispondono.  La password non è stata modificata.</value>
+  </data>
+  <data name="PasswordMismatch_Detail.Text">
+    <value xml:space="preserve">La password e la conferma password non corrispondono.</value>
+  </data>
+  <data name="PasswordQuestion.Help">
+    <value xml:space="preserve">Inserisci una domanda alla password da utilizzare per il recupero della password</value>
+  </data>
+  <data name="PasswordQuestion.Text">
+    <value xml:space="preserve">Domanda Password:</value>
+  </data>
+  <data name="PasswordReset.Text">
+    <value xml:space="preserve">La password è stata resettata.</value>
+  </data>
+  <data name="Username.Help">
+    <value xml:space="preserve">Inserisci un nome utente. Deve essere lungo almeno cinque caratteri alfanumerici, non deve iniziare/terminare con uno spazio e deve contenere almeno uno dei seguenti caratteri !"#$%&amp;'()*+,/:;&lt;=&gt;?@[\]^`{|}</value>
+  </data>
+  <data name="Username.RegExError">
+    <value xml:space="preserve">Il nome utente inserito non è valido.</value>
+  </data>
+  <data name="Username.Required">
+    <value xml:space="preserve">Il nome utente è obbligatorio.</value>
+  </data>
+  <data name="Username.Text">
+    <value xml:space="preserve">Nome Utente:</value>
+  </data>
+  <data name="VanityUrl.Help">
+    <value xml:space="preserve">È possibile scegliere un URL personalizzato per il proprio profilo utente.</value>
+  </data>
+  <data name="VanityUrl.Text">
+    <value xml:space="preserve">URL Profilo:</value>
+  </data>
+</root>

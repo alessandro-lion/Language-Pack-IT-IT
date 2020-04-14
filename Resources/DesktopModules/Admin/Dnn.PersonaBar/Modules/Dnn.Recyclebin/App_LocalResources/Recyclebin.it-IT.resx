@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="nav_Recyclebin.Text" xml:space="preserve">
+    <value>Cestino</value>
+  </data>
+  <data name="recyclebin_Actions.Text" xml:space="preserve">
+    <value>Azioni</value>
+  </data>
+  <data name="recyclebin_CancelConfirm.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="recyclebin_Delete.Text" xml:space="preserve">
+    <value>Elimina</value>
+  </data>
+  <data name="recyclebin_DeleteConfirm.Text" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="recyclebin_DeletedDate.Text" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="recyclebin_EmptyRecycleBin.Text" xml:space="preserve">
+    <value>Svuota il cestino</value>
+  </data>
+  <data name="recyclebin_EmptyRecycleBinConfirm.Text" xml:space="preserve">
+    <value>Sei sicuro di voler svuotare il cestino?</value>
+  </data>
+  <data name="recyclebin_Modules.Text" xml:space="preserve">
+    <value>Moduli</value>
+  </data>
+  <data name="recyclebin_ModuleTitle.Text" xml:space="preserve">
+    <value>Titolo del Modulo</value>
+  </data>
+  <data name="recyclebin_NoConfirm.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="recyclebin_NoItems.Text" xml:space="preserve">
+    <value>Attualmente il cestino è vuoto</value>
+  </data>
+  <data name="recyclebin_NoModules.Text" xml:space="preserve">
+    <value>Non Sono Presenti Moduli Nel Cestino</value>
+  </data>
+  <data name="recyclebin_NoPages.Text" xml:space="preserve">
+    <value>Non Sono Presenti Pagine Nel Cestino</value>
+  </data>
+  <data name="recyclebin_Page.Text" xml:space="preserve">
+    <value>Pagina</value>
+  </data>
+  <data name="recyclebin_Pages.Text" xml:space="preserve">
+    <value>Pagine</value>
+  </data>
+  <data name="recyclebin_RemoveModuleConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Si prega di confermare di voler eliminare questo modulo.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_RemoveModulesConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Si prega di confermare di voler eliminare i moduli selezionati.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_RemovePageConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Si prega di confermare di voler eliminare questa pagina.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_RemovePagesConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Si prega di confermare di voler eliminare le pagine selezionate.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_Restore.Text" xml:space="preserve">
+    <value>Ripristina</value>
+  </data>
+  <data name="recyclebin_RestoreModuleConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Si prega di confermare di voler ripristinare questo modulo.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_RestoreModulesConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Si prega di confermare di voler ripristinare i moduli selezionati.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_RestorePageConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Si prega di confermare di voler ripristinare questa pagina.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_RestorePageInvalid.Text" xml:space="preserve">
+    <value>Prima è necessario ripristinare la pagina padre.</value>
+  </data>
+  <data name="recyclebin_RestorePagesConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Si prega di confermare di voler ripristinare le pagine selezionate.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_RestorePagesInvalid.Text" xml:space="preserve">
+    <value>La/le pagina/e che desideri ripristinare dovrebbe/ro includere la/le loro rispettive pagine padre.</value>
+  </data>
+  <data name="recyclebin_Title.Text" xml:space="preserve">
+    <value>Cestino</value>
+  </data>
+  <data name="recyclebin_UnableToSelectAllModules.Text" xml:space="preserve">
+    <value>Non è possibile eliminare o ripristinare un modulo la cui pagina è nel Cestino</value>
+  </data>
+  <data name="recyclebin_YesConfirm.Text" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="Service_RemoveTabError.Text" xml:space="preserve">
+    <value>Si è verificato un errore durante la rimozione della pagina:{0}</value>
+  </data>
+  <data name="Service_RemoveTabModuleError.Text" xml:space="preserve">
+    <value>Si è verificato un errore durante la rimozione dei moduli di pagina:{0}</value>
+  </data>
+  <data name="Service_RestoreModuleError.Text" xml:space="preserve">
+    <value>Si è verificato un errore durante il ripristino del modulo {0} nella pagina {1}. La pagina è stata eliminata.</value>
+  </data>
+  <data name="Service_RestoreTabError.Text" xml:space="preserve">
+    <value>La pagina {0} non può essere ripristinata se prima non viene ripristinata la pagina padre.</value>
+  </data>
+  <data name="Service_RestoreTabModuleError.Text" xml:space="preserve">
+    <value>Si è verificato un errore durante il ripristino della pagina:{0}</value>
+  </data>
+  <data name="recyclebin_NoUsers.Text">
+    <value>Non Sono Presenti Utenti Nel Cestino</value>
+  </data>
+  <data name="recyclebin_RemoveUserConfirm.Text">
+    <value>&lt;p&gt;Si prega di confermare di voler eliminare questo utente.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_RemoveUsersConfirm.Text">
+    <value>&lt;p&gt;Si prega di confermare di voler eliminare gli utenti selezionati.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_RestoreUserConfirm.Text">
+    <value>&lt;p&gt;Si prega di confermare di voler ripristinare questo utente.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_RestoreUsersConfirm.Text">
+    <value>&lt;p&gt;Si prega di confermare di voler ripristinare gli utenti selezionati.&lt;/p&gt;</value>
+  </data>
+  <data name="recyclebin_UserDisplayName.Text">
+    <value>Nickname</value>
+  </data>
+  <data name="recyclebin_Username.Text">
+    <value>Nome Utente</value>
+  </data>
+  <data name="recyclebin_Users.Text">
+    <value>Utenti</value>
+  </data>
+  <data name="Service_EmptyRecycleBinError.Text">
+    <value>Alcuni elementi non sono stati eliminati.</value>
+  </data>
+  <data name="Service_RemoveUserError.Text">
+    <value>Si è verificato un errore durante l'eliminazione dell'utente:{0}</value>
+  </data>
+  <data name="Service_RestoreUserError.Text">
+    <value>Errore durante il ripristino di un utente.</value>
+  </data>
+  <data name="CanNotDeleteModule.Text">
+    <value>Non hai i permessi per eliminare il modulo con id "{0}".</value>
+  </data>
+  <data name="CanNotDeleteTab.Text">
+    <value>Non hai i permessi per eliminare la pagina con id "{0}".</value>
+  </data>
+  <data name="ModuleNotFound.Text">
+    <value>Modulo con id "{0}" non trovato.</value>
+  </data>
+  <data name="ModuleNotSoftDeleted.Text">
+    <value>Il modulo con id "{0}" non è stato eliminato.</value>
+  </data>
+  <data name="PageNotFound.Text">
+    <value>Pagina con id "{0}" non trovata.&lt;br/&gt;</value>
+  </data>
+  <data name="PageNotFoundWithName.Text">
+    <value>Pagina con nome "{0}" non trovata.&lt;br/&gt;</value>
+  </data>
+  <data name="Prompt_CannotPurgeUser.Text">
+    <value>Impossibile cancellare l'utente se prima non viene eliminato. Prova a eliminare l'utente.</value>
+  </data>
+  <data name="Prompt_FlagNotInt.Text">
+    <value>--{0} deve essere un numero intero\n</value>
+  </data>
+  <data name="Prompt_FlagNotPositiveInt.Text">
+    <value>--{0} deve essere maggiore di 0\n</value>
+  </data>
+  <data name="Prompt_FlagRequired.Text">
+    <value>--{0} è obbligatorio\n</value>
+  </data>
+  <data name="Prompt_MainParamRequired.Text">
+    <value>{0} è obbligatorio. Utilizzare il flag --{1} o passarlo come primo argomento dopo il nome di comando\n</value>
+  </data>
+  <data name="Prompt_ModulePurgedSuccessfully.Text">
+    <value>Modulo con id "{0}" eliminato con successo.</value>
+  </data>
+  <data name="Prompt_ModuleRestoredSuccessfully.Text">
+    <value>Modulo con id "{0}" ripristinato correttamente.</value>
+  </data>
+  <data name="Prompt_PagePurgedSuccessfully.Text">
+    <value>Pagina con id "{0}" eliminata con successo.</value>
+  </data>
+  <data name="Prompt_PageRestoredSuccessfully.Text">
+    <value>Pagina con id "{0}" e nome "{1}" ripristinata con successo.</value>
+  </data>
+  <data name="Prompt_PurgeModule_Description.Text">
+    <value>Elimina definitivamente un modulo. Il modulo dovrebbe essere prima cancellato e messo nel cestino.</value>
+  </data>
+  <data name="Prompt_PurgeModule_FlagId.Text">
+    <value>Specifica in modo esplicito l'ID del Modulo da eliminare in modo permanente. Non è richiesto l'utilizzo di un flag. Puoi semplicemente fornire il valore dell'D come primo argomento.</value>
+  </data>
+  <data name="Prompt_PurgeModule_FlagPageId.Text">
+    <value>Specifica in modo esplicito l'Id della Pagina nella quale è stato aggiunto originariamente il modulo.</value>
+  </data>
+  <data name="Prompt_PurgeModule_ResultHtml.Text">
+    <value>&lt;h4&gt;Elimina un Modulo Specifico&lt;/h4&gt;
+        &lt;p&gt;Il codice seguente elimina il Modulo con ID 359&lt;/p&gt;
+        &lt;code class="block"&gt;purge-module 359 --pageid 20&lt;/code&gt;
+
+        &lt;h4&gt;Risultato&lt;/h4&gt;
+       Modulo con ID "359" eliminato con successo.</value>
+  </data>
+  <data name="Prompt_PurgePage_Description.Text">
+    <value>Elimina definitivamente una pagina dal portale che era stata precedentemente cancellata e spostata nel Cestino di DNN.</value>
+  </data>
+  <data name="Prompt_PurgePage_FlagDeleteChildren.Text">
+    <value>Specifica che se una pagina dovesse possedere delle sottopagine, allora il comando dovrebbe eliminarle tutte o mostrare l'errore.</value>
+  </data>
+  <data name="Prompt_PurgePage_FlagId.Text">
+    <value>Specifica esplicitamente l'ID della Pagina da eliminare. Non è richiesto il nome di un flag. Puoi semplicemente fornire il valore dell'ID come primo argomento.</value>
+  </data>
+  <data name="Prompt_PurgePage_ResultHtml.Text">
+    <value>&lt;div&gt;
+        &lt;h4&gt;Elimina una Pagina Cancellata per ID di Pagina&lt;/h4&gt;
+        &lt;code class="block"&gt;
+            purge-page 999
+        &lt;/code&gt;
+        O
+        &lt;code class="block"&gt;
+            purge-page --id 999
+        &lt;/code&gt;
+
+        &lt;h4&gt;Elimina una Pagina Cancellata e Tutte le Sue Sottopagine&lt;/h4&gt;
+        &lt;code class="block"&gt;
+            purge-page --id 999 --deletechildren true
+        &lt;/code&gt;
+    &lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_PurgeUser_Description.Text">
+    <value>Elimina definitivamente dal portale l'utente specificato. L'utente &lt;strong&gt;deve&lt;/strong&gt; essere già stato cancellato e inviato al cestino. Se si invia un comando &lt;code&gt;get-user&lt;/code&gt; e la proprietà &lt;code&gt;IsDeleted&lt;/code&gt; non è &lt;code&gt;true&lt;/code&gt;, allora si verificherà un errore durante il tentativo di esecuzione di questo comando. Quindi, dovrai utilizzare prima il comando &lt;code&gt;delete-user&lt;/code&gt; per quell'utente.</value>
+  </data>
+  <data name="Prompt_PurgeUser_FlagId.Text">
+    <value>L'ID dell'Utente. Se il flag non viene utilizzato, allora l'ID dell'utente deve essere il primo argomento.</value>
+  </data>
+  <data name="Prompt_PurgeUser_ResultHtml.Text">
+    <value>&lt;h4&gt;Elimina Definitivamente un Utente&lt;/h4&gt;
+    &lt;p&gt;Elimina definitivamente l'utente con un ID Utente 345. Quindi, se si dovesse eseguire il comando:&lt;code&gt;get-user 345&lt;/code&gt;, riceverai il messaggio 'utente non trovato'. &lt;/p&gt;
+    &lt;code class="block"&gt;purge-user 345&lt;/code&gt;
+    &lt;p&gt;Questa è la forma più esplicita del codice precedente.&lt;/p&gt;
+    &lt;code class="block"&gt;purge-user --id 345&lt;/code&gt;</value>
+  </data>
+  <data name="Prompt_RecylcleBinCategory.Text">
+    <value>Comandi del Cestino</value>
+  </data>
+  <data name="Prompt_RestoreModule_Description.Text">
+    <value>Ripristina un modulo dal Cestino di DNN.</value>
+  </data>
+  <data name="Prompt_RestoreModule_FlagId.Text">
+    <value>Specifica in modo esplicito l'ID del Modulo da ripristinare. Non è richiesto l'utilizzo di un flag. Puoi semplicemente fornire il valore dell'ID come primo argomento.</value>
+  </data>
+  <data name="Prompt_RestoreModule_FlagPageId.Text">
+    <value>L'ID della Pagina nella quale risiedeva il modulo, che si desidera ripristinare, prima dell'eliminazione.</value>
+  </data>
+  <data name="Prompt_RestoreModule_ResultHtml.Text">
+    <value>&lt;h4&gt;Ripristina Un Modulo dal Cestino&lt;/h4&gt;
+        &lt;code class="block"&gt;restore-module 359 --pageid 71&lt;/code&gt;
+
+        &lt;h4&gt;Risultati&lt;/h4&gt;
+       Modulo con ID "359" ripristinato con successo.</value>
+  </data>
+  <data name="Prompt_RestoreNotRequired.Text">
+    <value>Utente non cancellato. Ripristino non richiesto.</value>
+  </data>
+  <data name="Prompt_RestorePage_Description.Text">
+    <value>Ripristina una pagina dal Cestino DNN.</value>
+  </data>
+  <data name="Prompt_RestorePage_FlagId.Text">
+    <value>Specifica esplicitamente l'ID della Pagina da eliminare. Non è richiesto l'utilizzo di un flag. Puoi semplicemente fornire il valore dell'ID come primo argomento. Esso è richiesto solo se &lt;span class="mono"&gt;--parentid&lt;/span&gt; e &lt;span class="mono"&gt;--name&lt;/span&gt; non dovessere essere specificati.</value>
+  </data>
+  <data name="Prompt_RestorePage_FlagName.Text">
+    <value>Specifica il nome (non il titolo) della pagina che deve essere ripristinata. Questo può essere combinato con &lt;span class="mono"&gt;--parentid&lt;/span&gt; per scegliere come destinazione un nome di pagina con una specifica pagina padre. Esso è richiesto solo se &lt;span class="mono"&gt;--parentid&lt;/span&gt; e &lt;span class="mono"&gt;--name&lt;/span&gt; non dovessere essere specificati.</value>
+  </data>
+  <data name="Prompt_RestorePage_FlagParentId.Text">
+    <value>Obbligatorio se si desidera eliminare una pagina per nome e la pagina è figlia di un'altra pagina. In tal caso, fornire l'id della pagina principale.</value>
+  </data>
+  <data name="Prompt_RestorePage_ResultHtml.Text">
+    <value>&lt;div&gt;
+        &lt;h4&gt;Ripristina una Pagina Eliminata Per ID Pagina&lt;/h4&gt;
+        &lt;code class="block"&gt;
+            restore-page 999
+        &lt;/code&gt;
+        O
+        &lt;code class="block"&gt;
+            restore-page --id 999
+        &lt;/code&gt;
+
+        &lt;h4&gt;Ripristina una Pagina Con un Nome Pagina Specifico&lt;/h4&gt;
+        &lt;code class="block"&gt;
+            restore-page --name "Pagina1"
+        &lt;/code&gt;
+
+        &lt;h4&gt;Ripristina una Pagina Con un Nome Pagina e un Padre Specifici&lt;/h4&gt;
+        &lt;code class="block"&gt;
+            restore-page --name "Pagina1" --parentid 30
+        &lt;/code&gt;
+    &lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_RestorePageNoParams.Text">
+    <value>È necessario specificare un ID Pagina o un Nome Pagina.</value>
+  </data>
+  <data name="Prompt_RestoreUser_Description.Text">
+    <value>Riprisitna un utente che è stato canellato ma non eliminato.</value>
+  </data>
+  <data name="Prompt_RestoreUser_FlagId.Text">
+    <value>L'ID Utente dell'utente. Se non dovesse essere utilizzato il flag, l'ID dell'utente dovrà essere il primo argomento.</value>
+  </data>
+  <data name="Prompt_RestoreUser_ResultHtml.Text">
+    <value>&lt;h4&gt;Ripristina un Utente Cencellato&lt;/h4&gt;
+        &lt;p&gt;Ripristina l'utente con un ID Utente 345. Se l'utente non è stato cancellato, allora riceverai un messaggio che indica che non c'è nulla da ripristinare. Se l'utente è già stato eliminato (o "rimosso" dall'interfaccia utente di DNN, riceverai il messaggio 'utente non trovato'.&lt;/p&gt;
+        &lt;code class="block"&gt;restore-user 345&lt;/code&gt;
+        &lt;p&gt;Questa è la forma più esplicita del codice precedente.&lt;/p&gt;
+        &lt;code class="block"&gt;restore-user --id 345&lt;/code&gt;</value>
+  </data>
+  <data name="Prompt_UserPurged.Text">
+    <value>L'Utente è stato rimosso in modo permanente dal sito.</value>
+  </data>
+  <data name="Service_RemoveTabParentTabError">
+    <value>La pagina {0} non può essere eliminata finché non sarranno prima eliminate le sue sottopagine.</value>
+  </data>
+  <data name="Service_RemoveTabWithChildError.Text">
+    <value>La pagina {0} non può essere eliminata finché non sarranno prima eliminate le sue sottopagine.</value>
+  </data>
+  <data name="TabNotSoftDeleted.Text">
+    <value>La pagina con id "{0}" non è stata canellata.</value>
+  </data>
+  <data name="UserNotFound.Text">
+    <value>Utente con id "{0}" non trovato.</value>
+  </data>
+  <data name="UserRestored.Text">
+    <value>Utente ripristinato con successo.</value>
+  </data>
+</root>

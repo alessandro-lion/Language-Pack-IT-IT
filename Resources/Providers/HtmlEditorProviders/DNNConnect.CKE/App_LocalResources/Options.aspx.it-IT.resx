@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System" name="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.DefaultModifiers" type="System.CodeDom.MemberAttributes, System">
+    <value>Privato</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.TrayLargeIcon" type="System.Boolean, mscorlib">
+    <value>Falso</value>
+  </data>
+  <data name="$this.TrayAutoArrange" type="System.Boolean, mscorlib">
+    <value>Vero</value>
+  </data>
+  <data name="lblHeader.Text" xml:space="preserve">
+    <value>Informazioni</value>
+  </data>
+  <data name="lblModType.Text" xml:space="preserve">
+    <value>Tipo Modulo:</value>
+  </data>
+  <data name="lblModName.Text" xml:space="preserve">
+    <value>Nome Modulo:</value>
+  </data>
+  <data name="lblModInst.Text" xml:space="preserve">
+    <value>Istanza Modulo:</value>
+  </data>
+  <data name="lblUName.Text" xml:space="preserve">
+    <value>Nome Utente:</value>
+  </data>
+  <data name="lblSettings.Text" xml:space="preserve">
+    <value>Impostazioni</value>
+  </data>
+  <data name="btnOK.Text" xml:space="preserve">
+    <value>Salva</value>
+  </data>
+  <data name="btnCancel.Text" xml:space="preserve">
+    <value>Chiudi</value>
+  </data>
+  <data name="Error1.Text" xml:space="preserve">
+    <value>L'utente non dispone delle autorizzazioni per visualizzare questa pagina.</value>
+  </data>
+  <data name="lblPage.Text" xml:space="preserve">
+    <value>Pagina:</value>
+  </data>
+  <data name="lblSetFor.Text" xml:space="preserve">
+    <value>Modifica Impostazioni di...</value>
+  </data>
+  <data name="lblBrowAllow.Text" xml:space="preserve">
+    <value>Ruoli Consentiti:</value>
+  </data>
+  <data name="lblBrowser.Text" xml:space="preserve">
+    <value>Sfoglia File:</value>
+  </data>
+  <data name="lblBrowsSec.Text" xml:space="preserve">
+    <value>Impostazioni Sfoglia File</value>
+  </data>
+  <data name="lblCSSURL.Text" xml:space="preserve">
+    <value>CSS Area Editor:</value>
+  </data>
+  <data name="lblPortal.Text" xml:space="preserve">
+    <value>Nome Sito:</value>
+  </data>
+  <data name="lblStyles.Text" xml:space="preserve">
+    <value>Editor Stili</value>
+  </data>
+  <data name="lblToolbars.Text" xml:space="preserve">
+    <value>Barre degli Strumenti:</value>
+  </data>
+  <data name="lnkRemove.Text" xml:space="preserve">
+    <value>Rimuovi Impostazioni</value>
+  </data>
+  <data name="lblInfo.Text" xml:space="preserve">
+    <value>Impostazioni salvate. Aggiorna l'Editor o ricarica la pagina per vedere i cambiamenti.</value>
+  </data>
+  <data name="lblInfoDel.Text" xml:space="preserve">
+    <value>Impostazioni eliminate</value>
+  </data>
+  <data name="lblBlanktext.Text" xml:space="preserve">
+    <value>Testo Vuoto:</value>
+  </data>
+  <data name="lblRole.Text" xml:space="preserve">
+    <value>Ruolo</value>
+  </data>
+  <data name="lblSelToolb.Text" xml:space="preserve">
+    <value>Seleziona una Barra degli Strumenti</value>
+  </data>
+  <data name="Options.Text" xml:space="preserve">
+    <value>Opzioni Editor Personalizzate</value>
+  </data>
+  <data name="lblMainSet.Text" xml:space="preserve">
+    <value>Impostazioni Principali</value>
+  </data>
+  <data name="lblBrowserDirs.Text" xml:space="preserve">
+    <value>Utilizzare sottodirectory per i non amministratori (..\Portals\0\userfiles\username):</value>
+  </data>
+  <data name="lblTemplates.Text" xml:space="preserve">
+    <value>Editor Template</value>
+  </data>
+  <data name="lblTemplFiles.Text" xml:space="preserve">
+    <value>Editor File Template:</value>
+  </data>
+  <data name="lblCustomConfig.Text" xml:space="preserve">
+    <value>Configrazione File Personalizzata:</value>
+  </data>
+  <data name="AddToolbar.Text" xml:space="preserve">
+    <value>Aggiungi nuovo Set Barra Degli Strumenti</value>
+  </data>
+  <data name="CancelToolbar.Text" xml:space="preserve">
+    <value>Annulla Modifica</value>
+  </data>
+  <data name="DeleteToolbar.Text" xml:space="preserve">
+    <value>Elimina il Set Barra degli Strumenti selezionato</value>
+  </data>
+  <data name="EditToolbar.Text" xml:space="preserve">
+    <value>Modifica il Set Barra degli Strumenti selezionato</value>
+  </data>
+  <data name="lblCustomToolbars.Text" xml:space="preserve">
+    <value>Barre degli Strumenti Personalizzate</value>
+  </data>
+  <data name="lblToolbarList.Text" xml:space="preserve">
+    <value>Elenco Barre degli Strumenti Personalizzate:</value>
+  </data>
+  <data name="lblToolbName.Text" xml:space="preserve">
+    <value>Nome Barra degli Strumenti:</value>
+  </data>
+  <data name="lblToolbSet.Text" xml:space="preserve">
+    <value>Pulsanti Barra degli Strumenti Disponibili</value>
+  </data>
+  <data name="SaveToolbar.Text" xml:space="preserve">
+    <value>Slava Set Barra degli Strumenti</value>
+  </data>
+  <data name="lblUseJquery.Text" xml:space="preserve">
+    <value>Utilizzare jQuery Adapter?</value>
+  </data>
+  <data name="lblHeight.Text" xml:space="preserve">
+    <value>Altezza Editor ('px' o '%') :</value>
+  </data>
+  <data name="lblWidth.Text" xml:space="preserve">
+    <value>Larghezza Editor ('px' o '%') :</value>
+  </data>
+  <data name="lblImExport.Text" xml:space="preserve">
+    <value>Importa/Esporta Impostazioni Correnti...</value>
+  </data>
+  <data name="lblResizeHeight.Text" xml:space="preserve">
+    <value>Altezza Ridimensionamento Immagine Predefinita:</value>
+  </data>
+  <data name="lblResizeWidth.Text" xml:space="preserve">
+    <value>Larghezza Ridimensionamento Immagine Predefinita:</value>
+  </data>
+  <data name="lnkExport.Text" xml:space="preserve">
+    <value>Esporta</value>
+  </data>
+  <data name="lnkImport.Text" xml:space="preserve">
+    <value>Importa</value>
+  </data>
+  <data name="BadImportXml.Text" xml:space="preserve">
+    <value>File XML non corretto o pericoloso.</value>
+  </data>
+  <data name="Export.Text" xml:space="preserve">
+    <value>Impostazioni Editor Corrente Esportate</value>
+  </data>
+  <data name="Imported.Text" xml:space="preserve">
+    <value>Impostazioni Editor Importate</value>
+  </data>
+  <data name="lblInjectSyntaxJs.Text" xml:space="preserve">
+    <value>Inserisci Link al SyntaxHighlighter JS:</value>
+  </data>
+  <data name="UploadFolderLabel.Text" xml:space="preserve">
+    <value>Cartella di Caricamento Predefinita:</value>
+  </data>
+  <data name="BrowserRootFolder.Text" xml:space="preserve">
+    <value>Sfoglia Cartella Principale:</value>
+  </data>
+  <data name="lblAutoCreateFileThumbNails.Text" xml:space="preserve">
+    <value>Crea Miniatura Immagine di Anteprima Automaticamente:</value>
+  </data>
+  <data name="lblShowPageLinksTabFirst.Text" xml:space="preserve">
+    <value>Mostra Prima Scheda Link di Pagina:</value>
+  </data>
+  <data name="lblUseAnchorSelector.Text" xml:space="preserve">
+    <value>Utilizzare Selettore Ancora (Trova Automaticamente Tutte Le Ancore della Pagina Selezionata):</value>
+  </data>
+  <data name="FileListViewModeLabel.Text" xml:space="preserve">
+    <value>Modalità Visualizzazione Elenco File Predefinta:</value>
+  </data>
+  <data name="SettingsExportTitle.Text" xml:space="preserve">
+    <value>Esporta Impostazioni</value>
+  </data>
+  <data name="SettingsImportTitle.Text" xml:space="preserve">
+    <value>Importa Impostazioni</value>
+  </data>
+  <data name="ExportNow.Text" xml:space="preserve">
+    <value>Esporta Ora</value>
+  </data>
+  <data name="ImportNow.Text" xml:space="preserve">
+    <value>Importa Ora</value>
+  </data>
+  <data name="FileListPageSizeLabel.Text" xml:space="preserve">
+    <value>Dimensione Pagina Elenco File (0= No Paginazione):</value>
+  </data>
+  <data name="Remove.Help" xml:space="preserve">
+    <value>Rimuove le Impostazioni solo per il Corrente {0}.</value>
+  </data>
+  <data name="Remove.Text" xml:space="preserve">
+    <value>Rimuovi Impostazioni {0}</value>
+  </data>
+  <data name="RemoveAll.Help" xml:space="preserve">
+    <value>Rimuove le impostazioni {0} dell'intero sito.</value>
+  </data>
+  <data name="RemoveAll.Text" xml:space="preserve">
+    <value>Rimuovi Tutte Le Impostazioni {0}</value>
+  </data>
+  <data name="CreateGroupLabel.Text" xml:space="preserve">
+    <value>Crea Nuovo Gruppo</value>
+  </data>
+  <data name="CreateGroupTitle.Text" xml:space="preserve">
+    <value>Aggiungi Nuovo Gruppo al Set Barra degli Strumenti?</value>
+  </data>
+  <data name="DeleteGroup.Text" xml:space="preserve">
+    <value>Eliminare questo Gruppo della Barra degli Strumenti?</value>
+  </data>
+  <data name="DeleteToolbarButton.Text" xml:space="preserve">
+    <value>Rimuovere questo Pulsante della Barra degli Strumenti?</value>
+  </data>
+  <data name="EditGroupName.Text" xml:space="preserve">
+    <value>Fare clic per Modificare questo Nome Gruppo</value>
+  </data>
+  <data name="NewGroupName.Text" xml:space="preserve">
+    <value>Nuovo Gruppo</value>
+  </data>
+  <data name="SaveGroupName.Text" xml:space="preserve">
+    <value>Slava Nome Gruppo</value>
+  </data>
+  <data name="lblToolbarPriority.Text" xml:space="preserve">
+    <value>Priorità Set Barra degli Strumenti:</value>
+  </data>
+  <data name="ToolbarGroupsLabel.Text" xml:space="preserve">
+    <value>Gruppi Barra degli Strumenti</value>
+  </data>
+  <data name="CodeMirrorLabel.Text" xml:space="preserve">
+    <value>Tema CodeMirror (per Evidenziare Sintassi Sorgente):</value>
+  </data>
+  <data name="lblSkin.Text" xml:space="preserve">
+    <value>Skin:</value>
+  </data>
+  <data name="NoJava.Text" xml:space="preserve">
+    <value>&lt;strong&gt;Il CKEditor richiede JavaScript per funzionare&lt;/ strong&gt;. In un browser senza supporto JavaScript, come la tua, si dovrebbero comunque vedere i contenuti (dati HTML) e si dovrebbe essere in grado di modificarli normalmente, senza una ricca interfaccia dell'editor.</value>
+  </data>
+  <data name="lblEditorConfig.Text" xml:space="preserve">
+    <value>Configurazione Editor</value>
+  </data>
+  <data name="ModuleError.Text" xml:space="preserve">
+    <value>Le Impostazioni dell'Editor di un'Istanza Modulo possono essere visualizzate e caricate all'interno dell'Istanza del Modulo.</value>
+  </data>
+  <data name="ModuleHeader.Text" xml:space="preserve">
+    <value>Gestione Configurazione Provider CKEditor</value>
+  </data>
+  <data name="PortalOnlyLabel.Text" xml:space="preserve">
+    <value>Mostra Impostazioni Solo per Questo Sito o per Tutti i Siti?</value>
+  </data>
+  <data name="PortalOnly.Text" xml:space="preserve">
+    <value>Solamente Questo Sito</value>
+  </data>
+  <data name="Wait.Text" xml:space="preserve">
+    <value>Attendere Prego...</value>
+  </data>
+  <data name="WaitMessage.Text" xml:space="preserve">
+    <value>Carica Opzioni Pagina.</value>
+  </data>
+  <data name="ModuleHasSettingLabel.Text" xml:space="preserve">
+    <value>Contiene Impostazioni Modulo</value>
+  </data>
+  <data name="ModuleNoSettingLabel.Text" xml:space="preserve">
+    <value>Non Contiene Impostazioni Modulo</value>
+  </data>
+  <data name="PageHasSettingLabel.Text" xml:space="preserve">
+    <value>Contiene Impostazioni Pagina</value>
+  </data>
+  <data name="PageNoSettingLabel.Text" xml:space="preserve">
+    <value>Non Contiene Impostazioni Pagina</value>
+  </data>
+  <data name="PortalHasSettingLabel.Text" xml:space="preserve">
+    <value>Contiene Impostazioni Sito</value>
+  </data>
+  <data name="PortalNoSettingLabel.Text" xml:space="preserve">
+    <value>Non Contiene Impostazioni Sito</value>
+  </data>
+  <data name="IconLegendLabel.Text" xml:space="preserve">
+    <value>Icona Legenda</value>
+  </data>
+  <data name="EditorConfigWarning.Text" xml:space="preserve">
+    <value>&lt;strong&gt;Informazioni:&lt;/strong&gt; Le Impostazioni qui sotto sono solamente per utenti Esperti, si prega di modificare solo nel caso in cui si sappia cosa si sta facendo. Per saperne di più sulle Impostazioni qui sotto visitare la &lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;Pagina di Documentazione CKEditor JavaScript API&lt;/strong&gt;&lt;/a&gt;. È possibile lasciare le Impostazioni vuote in modo da caricare le impostazioni predefinite, quando viene caricato il Editor.</value>
+  </data>
+  <data name="ModuleInstance.Text" xml:space="preserve">
+    <value>Modulo</value>
+  </data>
+  <data name="Page.Text" xml:space="preserve">
+    <value>Pagina</value>
+  </data>
+  <data name="Portal.Text" xml:space="preserve">
+    <value>Sito</value>
+  </data>
+  <data name="RemoveModuleChild.Help" xml:space="preserve">
+    <value>Rimuovi le Impostazioni di tutti i Moduli della Pagina Corrente</value>
+  </data>
+  <data name="RemoveModuleChild.Text" xml:space="preserve">
+    <value>Rimuovi Tutte le Impostazioni dei Moduli nella Pagina</value>
+  </data>
+  <data name="RemovePageChild.Help" xml:space="preserve">
+    <value>Rimuove tutte le impostazioni della pagina figlio per la pagina corrente.</value>
+  </data>
+  <data name="RemovePageChild.Text" xml:space="preserve">
+    <value>Rimuovi Tutte le Impostazioni della Pagina Figlio</value>
+  </data>
+  <data name="RowBreak.Text" xml:space="preserve">
+    <value>Interruzione Riga</value>
+  </data>
+  <data name="AddRowBreakLabel.Text" xml:space="preserve">
+    <value>Aggiungi Interruzione Riga</value>
+  </data>
+  <data name="AddRowBreakTitle.Text" xml:space="preserve">
+    <value>Aggiungi Nuova Interruzione Riga per il Set Barra Degli Strumenti</value>
+  </data>
+  <data name="DefaultLinkMode0.Text" xml:space="preserve">
+    <value>URL Relativo</value>
+  </data>
+  <data name="DefaultLinkMode1.Text" xml:space="preserve">
+    <value>URL Assoluto</value>
+  </data>
+  <data name="DefaultLinkMode2.Text" xml:space="preserve">
+    <value>URL Relativo Sicuro</value>
+  </data>
+  <data name="DefaultLinkMode3.Text" xml:space="preserve">
+    <value>URL Assoluto Sicuro</value>
+  </data>
+  <data name="DefaultLinkModeLabel.Text" xml:space="preserve">
+    <value>Modalità Link Predefinita:</value>
+  </data>
+  <data name="DetailView.Text" xml:space="preserve">
+    <value>Visualizzazione Dettagli</value>
+  </data>
+  <data name="IconsView.Text" xml:space="preserve">
+    <value>Visualizzazione Icone</value>
+  </data>
+  <data name="ListView.Text" xml:space="preserve">
+    <value>Visualizzazione Elenco</value>
+  </data>
+  <data name="BlanktextTT.Text" xml:space="preserve">
+    <value>Questo è il testo predefinito visualizzato quando il contenuto del modulo è vuoto.</value>
+  </data>
+  <data name="NewsArcticlesArticlesList.Text" xml:space="preserve">
+    <value>Seleziona un Articolo:</value>
+  </data>
+  <data name="NewsArcticlesModuleList.Text" xml:space="preserve">
+    <value>Seleziona la pagina e l'Istanza del Modulo News:</value>
+  </data>
+  <data name="ToolbarNameMissing.Text" xml:space="preserve">
+    <value>È necessario inserire un nome della barra degli strumenti.</value>
+  </data>
+  <data name="ToolbarSetCreated.Text" xml:space="preserve">
+    <value>Nuovo set barra degli strumenti "{0}" creato.</value>
+  </data>
+  <data name="ToolbarSetDeleted.Text" xml:space="preserve">
+    <value>Set barra degli strumenti selezionato e cancellato.</value>
+  </data>
+  <data name="ToolbarSetSaved.Text" xml:space="preserve">
+    <value>Set barra degli strumenti salvato.</value>
+  </data>
+  <data name="CustomJsFileLabel.Text" xml:space="preserve">
+    <value>File JS personalizzato:</value>
+  </data>
+  <data name="OverrideFileOnUploadLabel.Text" xml:space="preserve">
+    <value>Sovrascrivi File Se ne Esiste Già Uno al Caricamento, Altrimenti Verrà Creato un Nuovo File Con Underscore _1:</value>
+  </data>
+  <data name="CopyPageChild.Help" xml:space="preserve">
+    <value>Copia le impostazioni di pagina corrente a tutte le pagine figlio.</value>
+  </data>
+  <data name="CopyPageChild.Text" xml:space="preserve">
+    <value>Copia Impostazioni alle Pagine Figlio</value>
+  </data>
+  <data name="lblInfoCopyAll.Text" xml:space="preserve">
+    <value>Impostazioni copiate a tutte le pagine figlio.</value>
+  </data>
+  <data name="SizeLimitLabel.Text" xml:space="preserve">
+    <value>Limite Dimensione File da Caricare</value>
+  </data>
+  <data name="UploadFileLimitLabel.Text" xml:space="preserve">
+    <value>Limite Caricamento File</value>
+  </data>
+</root>

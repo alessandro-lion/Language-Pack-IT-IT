@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Aggiungi Nuovo Ruolo</value>
+  </data>
+  <data name="AddGroup.Action">
+    <value xml:space="preserve">Aggiungi Nuovo Gruppo Ruolo</value>
+  </data>
+  <data name="Auto.Header">
+    <value xml:space="preserve">Automatico</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Ruoli di Sicurezza</value>
+  </data>
+  <data name="Description.Header">
+    <value xml:space="preserve">Descrizione</value>
+  </data>
+  <data name="Every.Header">
+    <value xml:space="preserve">Ogni</value>
+  </data>
+  <data name="Fee.Header">
+    <value xml:space="preserve">Importo</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Informazione sui Ruoli&lt;/h1&gt;&lt;p&gt;Questo strumento consente all'amministratore di gestire i ruoli di sicurezza del sito web. Il modulo permette di aggiungere, modificare e cancellare ruoli, e gestire utenti assegnati ai ruoli.&lt;/p&gt;</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Nome</value>
+  </data>
+  <data name="Period.Header">
+    <value xml:space="preserve">Periodicità</value>
+  </data>
+  <data name="plRoleGroups.Help">
+    <value xml:space="preserve">Seleziona un Gruppo di Ruoli per visualizzare i ruoli nel gruppo.</value>
+  </data>
+  <data name="plRoleGroups.Text">
+    <value xml:space="preserve">Filtra per Gruppo Ruoli:</value>
+  </data>
+  <data name="Public.Header">
+    <value xml:space="preserve">Pubblico</value>
+  </data>
+  <data name="Trial.Header">
+    <value xml:space="preserve">Prova</value>
+  </data>
+  <data name="UserCount.Header">
+    <value xml:space="preserve">Utenti</value>
+  </data>
+  <data name="UserRoles.Text">
+    <value xml:space="preserve">Gestione Utenti</value>
+  </data>
+  <data name="UserSettings.Action">
+    <value xml:space="preserve">Impostazioni Utente</value>
+  </data>
+</root>

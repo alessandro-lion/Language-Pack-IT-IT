@@ -1,0 +1,1680 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ErrorPages.Text" xml:space="preserve">
+    <value>Devi selezionare almeno una pagina da esportare.</value>
+  </data>
+  <data name="nav_Pages.Text" xml:space="preserve">
+    <value>Pagine</value>
+  </data>
+  <data name="SiteDetails_Pages.Text" xml:space="preserve">
+    <value>Pagine</value>
+  </data>
+  <data name="Description.Label" xml:space="preserve">
+    <value>Descrizione</value>
+  </data>
+  <data name="HomeDirectory.Label" xml:space="preserve">
+    <value>Home Directory</value>
+  </data>
+  <data name="Title.Label" xml:space="preserve">
+    <value>Titolo</value>
+  </data>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Elimina</value>
+  </data>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Modifica</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Impostazioni</value>
+  </data>
+  <data name="View.Text" xml:space="preserve">
+    <value>Vista</value>
+  </data>
+  <data name="Hidden.Text" xml:space="preserve">
+    <value>La pagina non è visibile nel menu</value>
+  </data>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Annulla</value>
+  </data>
+  <data name="DragPageTooltip.Text" xml:space="preserve">
+    <value>Trascina la Pagina nella Posizione Desiderata</value>
+  </data>
+  <data name="DeletePageConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Si prega di confermare di voler eliminare questa pagina.&lt;/p&gt;</value>
+  </data>
+  <data name="Pending.Text" xml:space="preserve">
+    <value>Trascina la pagina nella posizione desiderata.</value>
+  </data>
+  <data name="Search.Text" xml:space="preserve">
+    <value>Cerca</value>
+  </data>
+  <data name="page_name_tooltip" xml:space="preserve">
+    <value>Nome Pagina</value>
+  </data>
+  <data name="page_title_tooltip" xml:space="preserve">
+    <value>Titolo Pagina</value>
+  </data>
+  <data name="AnErrorOccurred.Text" xml:space="preserve">
+    <value>Si è verificato un errore</value>
+  </data>
+  <data name="DeleteModuleConfirm.Text" xml:space="preserve">
+    <value>Sei sicuro di voler eliminare il modulo  "[MODULETITLE]" da questa pagina?</value>
+  </data>
+  <data name="SitemapPriority.Text" xml:space="preserve">
+    <value>Priorità Sitemap</value>
+  </data>
+  <data name="SitemapPriority_tooltip.Text" xml:space="preserve">
+    <value>Inserisci l'ordine di priorità (tra 0 e 1.0). Questo aiuta a determinare come la pagina è  posizionata su Google rispetto alle altre pagine del tuo sito (0.5 è il numero di default).</value>
+  </data>
+  <data name="PageHeaderTags.Text" xml:space="preserve">
+    <value>Tags dell'Header della Pagina</value>
+  </data>
+  <data name="PageHeaderTags_tooltip.Text" xml:space="preserve">
+    <value>Inserisci ogni tipo di tag (per es. META tags) che devono essere aggiunti nella sezione HEAD dell'HTML di questa pagina.</value>
+  </data>
+  <data name="AddUrl.Text" xml:space="preserve">
+    <value>Aggiungi URL</value>
+  </data>
+  <data name="UrlsForThisPage.Text" xml:space="preserve">
+    <value>URL per questa pagina</value>
+  </data>
+  <data name="Url.Text" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="UrlType.Text" xml:space="preserve">
+    <value>Tipo URL</value>
+  </data>
+  <data name="GeneratedBy.Text" xml:space="preserve">
+    <value>Generato Da</value>
+  </data>
+  <data name="None.Text" xml:space="preserve">
+    <value>Nessuno</value>
+  </data>
+  <data name="Include.Text" xml:space="preserve">
+    <value>Includi</value>
+  </data>
+  <data name="Exclude.Text" xml:space="preserve">
+    <value>Escludi</value>
+  </data>
+  <data name="Security.Text" xml:space="preserve">
+    <value>Sicurezza</value>
+  </data>
+  <data name="SecureConnection.Text" xml:space="preserve">
+    <value>Connessione Sicura</value>
+  </data>
+  <data name="SecureConnection_tooltip.Text" xml:space="preserve">
+    <value>Specifica se la pagina deve essere forzata ad utilizzare o meno una connessione sicura (SSL). Questa opzione verrà attivata solo se l'amministratore ha abilitato l'SSL nelle impostazioni del sito.</value>
+  </data>
+  <data name="AllowIndexing.Text" xml:space="preserve">
+    <value>Permetti Indicizzazione</value>
+  </data>
+  <data name="AllowIndexing_tooltip.Text" xml:space="preserve">
+    <value>Questa impostazione controlla se la pagina deve essere indicizzata dai crawlers di ricerca. Utilizza il valore INDEX/NOINDEX per i ROBOTS meta tag.</value>
+  </data>
+  <data name="CacheSettings.Text" xml:space="preserve">
+    <value>Impostazioni Cache</value>
+  </data>
+  <data name="OutputCacheProvider.Text" xml:space="preserve">
+    <value>Provider Output Cache</value>
+  </data>
+  <data name="OutputCacheProvider_tooltip.Text" xml:space="preserve">
+    <value>Seleziona il provider da utilizzare per questa pagina.</value>
+  </data>
+  <data name="CacheDuration.Text" xml:space="preserve">
+    <value>Durata Cache (secondi)</value>
+  </data>
+  <data name="CacheDuration_tooltip.Text" xml:space="preserve">
+    <value>Inserisci la durata (in secondi) della cache della pagina. Deve essere un numero intero.</value>
+  </data>
+  <data name="IncludeExcludeParams.Text" xml:space="preserve">
+    <value>Includi / Escludi Parametridi Default</value>
+  </data>
+  <data name="IncludeExcludeParams_tooltip.Text" xml:space="preserve">
+    <value>Se impostato su INCLUDI, tutti i valori delle varianti dei parametri querystring  risulteranno in un nuovo elemento nella output cache. Se impostato su ESCLUDI,  i parametri querystring non verranno utilizzati per variare la pagina in cache.</value>
+  </data>
+  <data name="IncludeParamsInCacheValidation.Text" xml:space="preserve">
+    <value>Includi i  Parametri nella Cache Validation</value>
+  </data>
+  <data name="IncludeParamsInCacheValidation_tooltip.Text" xml:space="preserve">
+    <value>La lista dei nomi dei parametri querystring (separati dalla virgola) da INCLUDERE nelle varianti della pagina in cache. Questa impostazione è valida solo quando il default sovrastante è impostato su ESCLUDI parametri querystring dalle varianti della pagina in cache.</value>
+  </data>
+  <data name="ExcludeParamsInCacheValidation.Text" xml:space="preserve">
+    <value>Escludi Parametri nella Cache di Validazione</value>
+  </data>
+  <data name="ExcludeParamsInCacheValidation_tooltip.Text" xml:space="preserve">
+    <value>Elenco dei parametri querystring (separati da una virgola) da ESCLUDERE dalle varianti delle pagine in cache. Questa impostazione è attiva solo quando l'opzione di default qua sopra è impostata su INCLUDERE i parametri querystring dalle varianti delle pagine in cache.</value>
+  </data>
+  <data name="VaryByLimit.Text" xml:space="preserve">
+    <value>Varia Per Limite</value>
+  </data>
+  <data name="VaryByLimit_tooltip.Text" xml:space="preserve">
+    <value>Inserisci il numero massimo di varianti da tenere in cache per questa pagina. Deve essere un numero intero. (NOTE: questa funzionalità previene possibili attacchi di Denial of Service (attacchi volti a negare l'accesso al sito)</value>
+  </data>
+  <data name="ModulesOnThisPage.Text" xml:space="preserve">
+    <value>Moduli della pagina</value>
+  </data>
+  <data name="NoModules.Text" xml:space="preserve">
+    <value>La pagina non contiene alcun modulo.</value>
+  </data>
+  <data name="Advanced.Text" xml:space="preserve">
+    <value>Avanzate</value>
+  </data>
+  <data name="Appearance.Text" xml:space="preserve">
+    <value>Aspetto</value>
+  </data>
+  <data name="CopyAppearanceToDescendantPages.Text" xml:space="preserve">
+    <value>Trasmetti l'Aspetto della Pagina alle Sottopagine</value>
+  </data>
+  <data name="CopyPermissionsToDescendantPages.Text" xml:space="preserve">
+    <value>Copia i Permessi della Pagina alle Sottopagine</value>
+  </data>
+  <data name="Layout.Text" xml:space="preserve">
+    <value>Layout</value>
+  </data>
+  <data name="PageContainer.Text" xml:space="preserve">
+    <value>Container Pagina</value>
+  </data>
+  <data name="PageStyleSheet.Text" xml:space="preserve">
+    <value>Foglio di Stile della Pagina</value>
+  </data>
+  <data name="PageTheme.Text" xml:space="preserve">
+    <value>Tema Pagina</value>
+  </data>
+  <data name="PageThemeTooltip.Text" xml:space="preserve">
+    <value>Il tema selezionato verrà applicato a questa pagina.</value>
+  </data>
+  <data name="PageLayoutTooltip.Text" xml:space="preserve">
+    <value>Il Layout selezionato verrà applicato a questa pagina.</value>
+  </data>
+  <data name="PageContainerTooltip.Text" xml:space="preserve">
+    <value>Il container selezionato verrà applicato a tutti i moduli presenti nella pagina.</value>
+  </data>
+  <data name="PreviewThemeLayoutAndContainer.Text" xml:space="preserve">
+    <value>Anteprima del Layout e Container del Tema</value>
+  </data>
+  <data name="NotEmptyNameError.Text" xml:space="preserve">
+    <value>Il campo è obbligatorio</value>
+  </data>
+  <data name="AddPage.Text" xml:space="preserve">
+    <value>Aggiungi Pagina</value>
+  </data>
+  <data name="PageSettings.Text" xml:space="preserve">
+    <value>Impostazioni Pagina</value>
+  </data>
+  <data name="AddMultiplePages.Text" xml:space="preserve">
+    <value>Aggiungi Pagine Multiple</value>
+  </data>
+  <data name="NameTooltip.Text" xml:space="preserve">
+    <value>Quesrto è il nome della Pagina. Il testo inserito apparirà nel menu.</value>
+  </data>
+  <data name="DisplayInMenu.Text" xml:space="preserve">
+    <value>Mostra nel Menu</value>
+  </data>
+  <data name="DisplayInMenuTooltip.Text" xml:space="preserve">
+    <value>Puoi scegliere se includere o meno la pagina nel menu di navigazione principale. Se uuna pagina non è inclusa nel menu, puoi comunqe renderla accessibile con un link all'URL della pagina.</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="EnableScheduling.Text" xml:space="preserve">
+    <value>Permetti Pianificazione</value>
+  </data>
+  <data name="EnableSchedulingTooltip.Text" xml:space="preserve">
+    <value>Abilita la pianificazione per questa pagina.</value>
+  </data>
+  <data name="StartDate.Text" xml:space="preserve">
+    <value>Data di Inizio</value>
+  </data>
+  <data name="EndDate.Text" xml:space="preserve">
+    <value>Data di Fine</value>
+  </data>
+  <data name="TitleTooltip.Text" xml:space="preserve">
+    <value>Inserisci il titolo della pagina. Apparirà nella sezione del titolo della finestra del browser</value>
+  </data>
+  <data name="Keywords.Text" xml:space="preserve">
+    <value>Parole Chiave</value>
+  </data>
+  <data name="Tags.Text" xml:space="preserve">
+    <value>Tag</value>
+  </data>
+  <data name="ExistingPage.Text" xml:space="preserve">
+    <value>Pagina Esistente</value>
+  </data>
+  <data name="ExistingPageTooltip.Text" xml:space="preserve">
+    <value>Reindirizza ad una pagina esistente del tuo sito.</value>
+  </data>
+  <data name="ExternalUrl.Text" xml:space="preserve">
+    <value>URL Esterno</value>
+  </data>
+  <data name="ExternalUrlTooltip.Text" xml:space="preserve">
+    <value>Reindirizza all'URL di una Risorsa Esterna</value>
+  </data>
+  <data name="PermanentRedirect.Text" xml:space="preserve">
+    <value>Reindirizzamento Permanente</value>
+  </data>
+  <data name="PermanentRedirectTooltip.Text" xml:space="preserve">
+    <value>Seleziona questa casella se vuoi che il cliente venga avvertito che questa pagina è stata definitivamente spostata. Questo permette ai SearchEngines (motori di ricerca) di modificare l'URL e reindirizzare direttamente dove la risorsa è stata spostata. Questa opzione è ignorata se il Tipo Link è impostato su Nessuno</value>
+  </data>
+  <data name="OpenLinkInNewWindow.Text" xml:space="preserve">
+    <value>Apri il link in una nuova finestra</value>
+  </data>
+  <data name="OpenLinkInNewWindowTooltip.Text" xml:space="preserve">
+    <value>Apri il link in una nuova finestra del browser</value>
+  </data>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Salva</value>
+  </data>
+  <data name="Details.Text" xml:space="preserve">
+    <value>Dettagli</value>
+  </data>
+  <data name="Permissions.Text" xml:space="preserve">
+    <value>Permessi</value>
+  </data>
+  <data name="Modules.Text" xml:space="preserve">
+    <value>Moduli</value>
+  </data>
+  <data name="SEO.Text" xml:space="preserve">
+    <value>S.E.O.</value>
+  </data>
+  <data name="More.Text" xml:space="preserve">
+    <value>Di più</value>
+  </data>
+  <data name="Created.Text" xml:space="preserve">
+    <value>Creata</value>
+  </data>
+  <data name="CreatedValue.Text" xml:space="preserve">
+    <value>[CREATEDDATE] da [CREATEDUSER]</value>
+  </data>
+  <data name="PageParent.Text" xml:space="preserve">
+    <value>Pagina Padre</value>
+  </data>
+  <data name="Status.Text" xml:space="preserve">
+    <value>Stato</value>
+  </data>
+  <data name="PageType.Text" xml:space="preserve">
+    <value>Tipo di Pagina</value>
+  </data>
+  <data name="Standard.Text" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="Existing.Text" xml:space="preserve">
+    <value>Esistente</value>
+  </data>
+  <data name="File.Text" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="PageStyleSheetTooltip.Text" xml:space="preserve">
+    <value>Un foglio di stile caricato solo per questa pagina. Il file deve essere posizionato nella directory della Home o in una sottocartella del sito corrente.</value>
+  </data>
+  <data name="SetPageContainer.Text" xml:space="preserve">
+    <value>imposta il container della pagina</value>
+  </data>
+  <data name="SetPageLayout.Text" xml:space="preserve">
+    <value>Imposta il layout della pagina</value>
+  </data>
+  <data name="SetPageTheme.Text" xml:space="preserve">
+    <value>Imposta il tema della pagina</value>
+  </data>
+  <data name="BackToPages.Text" xml:space="preserve">
+    <value>Torna alle pagine</value>
+  </data>
+  <data name="ChangesNotSaved.Text" xml:space="preserve">
+    <value>Le modifiche non sono state salvate</value>
+  </data>
+  <data name="Pages_Seo_GeneratedByAutomatic.Text" xml:space="preserve">
+    <value>Automatico</value>
+  </data>
+  <data name="CopyAppearanceToDescendantPagesSuccess.Text" xml:space="preserve">
+    <value>L'aspetto è stato ereditato dalle sottopagine con successo.</value>
+  </data>
+  <data name="CopyPermissionsToDescendantPagesSuccess.Text" xml:space="preserve">
+    <value>I permessi sono stati ereditati dalle sottopagine con successo</value>
+  </data>
+  <data name="DeletePageModuleSuccess.Text" xml:space="preserve">
+    <value>Il modulo "[MODULETITLE]" è stato eliminato con successo.</value>
+  </data>
+  <data name="BulkPageSettings.Text" xml:space="preserve">
+    <value>Impostazioni Pagina Blocco</value>
+  </data>
+  <data name="BulkPagesToAdd.Text" xml:space="preserve">
+    <value>Pagina Blocco da aggiungere</value>
+  </data>
+  <data name="AddPages.Text" xml:space="preserve">
+    <value>Aggiungi Pagina(e)</value>
+  </data>
+  <data name="NoContainers.Text" xml:space="preserve">
+    <value>Questo Tema non ha alcun Container.</value>
+  </data>
+  <data name="NoLayouts.Text" xml:space="preserve">
+    <value>Questo Tema non ha alcun Layout.</value>
+  </data>
+  <data name="NoThemes.Text" xml:space="preserve">
+    <value>Il tuo sito non ha alcun Tema impostato</value>
+  </data>
+  <data name="NoThemeSelectedForContainers.Text" xml:space="preserve">
+    <value>Si prega di selezionare un tema per caricare i container disponibili</value>
+  </data>
+  <data name="NoThemeSelectedForLayouts.Text" xml:space="preserve">
+    <value>Si prega di selezionare un tema per caricare i layout disponibili</value>
+  </data>
+  <data name="PleaseSelectLayoutContainer.Text" xml:space="preserve">
+    <value>Devi selezionare layout e container per  effettuare questa operazione.</value>
+  </data>
+  <data name="CancelWithoutSaving.Text" xml:space="preserve">
+    <value>Sei sicuro di voler chiudere? Tutte le modifiche effettuate finora andranno perse. Vuoi continuare?</value>
+  </data>
+  <data name="PathDuplicateWithAlias.Text" xml:space="preserve">
+    <value>Esiste già una pagina con il nome {0}, nello stesso percorso URL {1}.</value>
+  </data>
+  <data name="TabExists.Text" xml:space="preserve">
+    <value>Il Nome della Pagina che hai scelto è già in uso per un'altra pagina allo stesso livello di gerarchia.</value>
+  </data>
+  <data name="TabRecycled.Text" xml:space="preserve">
+    <value>Una pagina con questo nome esiste già nel Cestino. Per ripristinare questa pagina vai nel Cestino.</value>
+  </data>
+  <data name="BulkPagesLabel.Text" xml:space="preserve">
+    <value>Una pagina per riga; aggiungi  "&gt;" per creare una gerarchia.</value>
+  </data>
+  <data name="BulkPageResponseTotalMessage.Text" xml:space="preserve">
+    <value>[PAGES_CREATED] di [PAGES_TOTAL] pagine sono state create.</value>
+  </data>
+  <data name="System.Text" xml:space="preserve">
+    <value>Sistema</value>
+  </data>
+  <data name="EmptyTabName.Text" xml:space="preserve">
+    <value>Il Nome della Pagina è Vuoto</value>
+  </data>
+  <data name="InvalidTabName.Text" xml:space="preserve">
+    <value>{0} è un Titolo di Pagina non valido.</value>
+  </data>
+  <data name="CustomUrlPathCleaned.Error" xml:space="preserve">
+    <value>L'URL della pagina contiene dei caratteri che non possono essere utilizzatio che sono considerati illegali per un URL. Questi caratteri sono stati eliminati. Clicca di nuovo il bottone Aggiorna per accettare l'URL modificato.&lt;br&gt;[NOTE: I caratteri illegali sono i seguenti: &lt;&gt;\?:&amp;=+|%# ]</value>
+  </data>
+  <data name="DuplicateUrl.Error" xml:space="preserve">
+    <value>L'URL è il duplicato di un URL già esistente.</value>
+  </data>
+  <data name="InvalidRequest.Error" xml:space="preserve">
+    <value>La richiesta non è valida</value>
+  </data>
+  <data name="Pages_Seo_QueryString.Help" xml:space="preserve">
+    <value>Aggiungi un Querystring opzionale per l'URL di reindirizzamento per abbinarlo all'URL con un percorso qualsiasi e parametri querystring compatibili. La Querystring è il segmento dell'URL a destra del primo '?'. Per es. example.com/url-to-redirect?id=123</value>
+  </data>
+  <data name="Pages_Seo_QueryString.Text" xml:space="preserve">
+    <value>Query String</value>
+  </data>
+  <data name="Pages_Seo_SelectedAliasUsage.Help" xml:space="preserve">
+    <value>Se l'alias selezionato è diverso dall'alias primario del sito, seleziona le opzioni d'uso</value>
+  </data>
+  <data name="Pages_Seo_SelectedAliasUsage.Text" xml:space="preserve">
+    <value>Uso dell'Alias del Sito Selezionato.</value>
+  </data>
+  <data name="Pages_Seo_SelectedAliasUsageOptionPageAndChildPages.Text" xml:space="preserve">
+    <value>Pagina e Sottopagine</value>
+  </data>
+  <data name="Pages_Seo_SelectedAliasUsageOptionSameAsParent.Text" xml:space="preserve">
+    <value>Come la Pagina Padre</value>
+  </data>
+  <data name="Pages_Seo_SelectedAliasUsageOptionThisPageOnly.Text" xml:space="preserve">
+    <value>Solo questa pagina</value>
+  </data>
+  <data name="Pages_Seo_SiteAlias.Help" xml:space="preserve">
+    <value>Seleziona l'alias della pagina per la quale usare un alias specifico.</value>
+  </data>
+  <data name="Pages_Seo_SiteAlias.Text" xml:space="preserve">
+    <value>Alias del Sito</value>
+  </data>
+  <data name="Pages_Seo_UrlPath.Help" xml:space="preserve">
+    <value>Specifica il percorso dell'URL. Non inserire http:// o l'alias del sito.</value>
+  </data>
+  <data name="Pages_Seo_UrlPath.Text" xml:space="preserve">
+    <value>Percorso URL</value>
+  </data>
+  <data name="Pages_Seo_UrlType.Help" xml:space="preserve">
+    <value>Seleziona 'Attivo' o 'Reindirizzamento'. Attivo significa che l'URL verrà usato come URL della pagina e restituisce un HTTP status code di 200. Redirect significa che l'URL inserito verrà reindirizzato all'URL Attivo per la pagina corrente.</value>
+  </data>
+  <data name="Pages_Seo_UrlType.Text" xml:space="preserve">
+    <value>Tipo URL</value>
+  </data>
+  <data name="UrlPathNotUnique.Error" xml:space="preserve">
+    <value>L'URL inserito non è disponibile. Se desideri accettare l'alternativa suggerita, clicca Salva.</value>
+  </data>
+  <data name="Pages_Seo_DeleteWarningMessage.Text" xml:space="preserve">
+    <value>Sei sicuro di voler rimuovere questo URL?</value>
+  </data>
+  <data name="NoneSpecified.Text" xml:space="preserve">
+    <value>&lt; Non Specificato &gt;</value>
+  </data>
+  <data name="CannotCopyPermissionsToDescendantPages.Text" xml:space="preserve">
+    <value>Non possiedi le autorizzazioni necessarie per copiare i permessi alle sottopagine.</value>
+  </data>
+  <data name="SaveAsTemplate.Text" xml:space="preserve">
+    <value>Salva come Template</value>
+  </data>
+  <data name="BackToPageSettings.Text" xml:space="preserve">
+    <value>Torna alle impostazioni di pagina</value>
+  </data>
+  <data name="DuplicatePage.Text" xml:space="preserve">
+    <value>Duplica Pagina</value>
+  </data>
+  <data name="BranchParent.Text" xml:space="preserve">
+    <value>Ramo Principale</value>
+  </data>
+  <data name="ModuleSettings.Text" xml:space="preserve">
+    <value>Impostazioni Modulo</value>
+  </data>
+  <data name="TopPage.Text" xml:space="preserve">
+    <value>Pagina Principale</value>
+  </data>
+  <data name="Folder.Text" xml:space="preserve">
+    <value>Cartella</value>
+  </data>
+  <data name="TemplateName.Text" xml:space="preserve">
+    <value>Nome Template</value>
+  </data>
+  <data name="IncludeContent.Text" xml:space="preserve">
+    <value>Includi Contenuto</value>
+  </data>
+  <data name="FolderTooltip.Text" xml:space="preserve">
+    <value>Seleziona la cartella di esportazione dove salvare il template.</value>
+  </data>
+  <data name="TemplateNameTooltip.Text" xml:space="preserve">
+    <value>Inserisci un nome per il template della pagina.</value>
+  </data>
+  <data name="TemplateDescriptionTooltip.Text" xml:space="preserve">
+    <value>Inserisci una descrizione del template.</value>
+  </data>
+  <data name="IncludeContentTooltip.Text" xml:space="preserve">
+    <value>Seleziona la casella per includere il contenuto del modulo.</value>
+  </data>
+  <data name="SearchFolders.Text" xml:space="preserve">
+    <value>Cerca Cartelle</value>
+  </data>
+  <data name="ExportedMessage.Text" xml:space="preserve">
+    <value>Il template della pagina è stato creato in {0}</value>
+  </data>
+  <data name="MakeNeutral.ErrorMessage" xml:space="preserve">
+    <value>La pagina non può essere convertita nella lingua neutra perchè possiede delle pagine figlio.</value>
+  </data>
+  <data name="Detached.Text" xml:space="preserve">
+    <value>Scollega {0}</value>
+  </data>
+  <data name="ModuleDeleted.Text" xml:space="preserve">
+    <value>Questo modulo è stato cancellato e spostato nel Cestino.</value>
+  </data>
+  <data name="ModuleInfo.Text" xml:space="preserve">
+    <value>Modulo: {0}&lt;br/&gt;Titolo del Modulo: {1}&lt;br/&gt;Pane: {2}</value>
+  </data>
+  <data name="ModuleInfoForNonAdmins.Text" xml:space="preserve">
+    <value>Non possiedi le autorizzazioni necessarie per modificare il titolo di questo modulo.</value>
+  </data>
+  <data name="NotTranslated.Text" xml:space="preserve">
+    <value>Non tradotto {0}</value>
+  </data>
+  <data name="Reference.Text" xml:space="preserve">
+    <value>Riferimento {0}</value>
+  </data>
+  <data name="ReferenceDefault.Text" xml:space="preserve">
+    <value>Linguaggio di Default di Riferimento {0}</value>
+  </data>
+  <data name="Translated.Text" xml:space="preserve">
+    <value>Tradotto {0}</value>
+  </data>
+  <data name="Default.Text" xml:space="preserve">
+    <value>[Lingua di Default]</value>
+  </data>
+  <data name="NotActive.Text" xml:space="preserve">
+    <value>[Lingua non Attiva]</value>
+  </data>
+  <data name="TranslationMessageConfirmMessage.Error" xml:space="preserve">
+    <value>Qualcosa è andato storto durante l'invio della notifica ai Traduttori.</value>
+  </data>
+  <data name="TranslationMessageConfirmMessage.Text" xml:space="preserve">
+    <value>Traduttori notificati con successo.</value>
+  </data>
+  <data name="NewContentMessage.Body" xml:space="preserve">
+    <value>La pagina seguente ha del nuovo contenuto pronto per essere tradotto&lt;br/&gt;Pagina: &lt;a href='{1}'&gt;{0}&lt;/a&gt;&lt;br/&gt;{2}</value>
+  </data>
+  <data name="NewContentMessage.Subject" xml:space="preserve">
+    <value>Nuovo contenuto pronto per essere tradotto</value>
+  </data>
+  <data name="MakePagesTranslatable.Text" xml:space="preserve">
+    <value>Rendi la Pagina Traducibile</value>
+  </data>
+  <data name="MakePageNeutral.Text" xml:space="preserve">
+    <value>Rendi Pagina Neutrale</value>
+  </data>
+  <data name="Site.Text" xml:space="preserve">
+    <value>Sito</value>
+  </data>
+  <data name="BadTemplate.Text" xml:space="preserve">
+    <value>Il template della pagina non è un documento xml valido. Seleziona un altro template e riprova</value>
+  </data>
+  <data name="AddMissingLanguages.Text" xml:space="preserve">
+    <value>Aggiungi Lingue Mancanti</value>
+  </data>
+  <data name="NotifyTranslators.Text" xml:space="preserve">
+    <value>Notifica ai Traduttori</value>
+  </data>
+  <data name="UpdateLocalization.Text" xml:space="preserve">
+    <value>Aggiornamento Localizzazione</value>
+  </data>
+  <data name="NeutralPageText.Text" xml:space="preserve">
+    <value>Questa è una pagina "Linguaggio Neutro", che significa che questa pagina sarà visibile in ogni linguaggio impostato del sito. Le pagine Linguaggio Neutro non possono essere tradotte.</value>
+  </data>
+  <data name="NeutralPageClickButton.Text" xml:space="preserve">
+    <value>Per rednere questa pagina traducibile, clicca questo bottone.</value>
+  </data>
+  <data name="NotifyModalHeader.Text" xml:space="preserve">
+    <value>Invia una notifica ai traduttori</value>
+  </data>
+  <data name="NotifyModalPlaceholder.Text" xml:space="preserve">
+    <value>Scrivi il messaggio da inviare ai traduttori</value>
+  </data>
+  <data name="CopyModule.Text" xml:space="preserve">
+    <value>Copia Modulo</value>
+  </data>
+  <data name="TranslatedCheckbox.Text" xml:space="preserve">
+    <value>Tradotto</value>
+  </data>
+  <data name="PublishedCheckbox.Text" xml:space="preserve">
+    <value>Pubblicato</value>
+  </data>
+  <data name="MakeNeutralWarning.Text" xml:space="preserve">
+    <value>Questa operazione eliminerà tutte le versioni tradotte di questa pagina. Verrà mantenuta solo la versione nella lingua di default. Sei sicuro di voler procedere?</value>
+  </data>
+  <data name="DragInvalid.Text">
+    <value>Non è possibile trascinare una pagina come figlia di se stessa.</value>
+  </data>
+  <data name="PageDeletedMessage.Text">
+    <value>La pagina è stata eliminata con successo</value>
+  </data>
+  <data name="PageUpdatedMessage.Text">
+    <value>La pagina è stata aggiornata con successo</value>
+  </data>
+  <data name="AddRole.Text">
+    <value>Aggiungi</value>
+  </data>
+  <data name="AddRolePlaceHolder.Text">
+    <value>Inizia a digitare per aggiungere un ruolo</value>
+  </data>
+  <data name="AddUser.Text">
+    <value>Aggiungi</value>
+  </data>
+  <data name="AddUserPlaceHolder.Text">
+    <value>Inizia a digitare per aggiungere un utente</value>
+  </data>
+  <data name="AllGroups.Text">
+    <value>[Tutti i Ruoli]</value>
+  </data>
+  <data name="Description.Text">
+    <value>Descrizione</value>
+  </data>
+  <data name="DisableLink.Text">
+    <value>Disabilita Pagina</value>
+  </data>
+  <data name="DisableLink_tooltip.Text">
+    <value>Se la pagina è disattivata, non sarà possibile fare clic su di essa in alcun menu di navigazione. Questa opzione viene utilizzata not be clicked in any navigation menu. This option is used to provide pper fornire un segnaposto alle voci di menu secondarie.</value>
+  </data>
+  <data name="EditTab.Text">
+    <value>Modifica</value>
+  </data>
+  <data name="EmptyRole.Text">
+    <value>Aggiungi un ruolo per impostare le autorizzazioni per ruolo</value>
+  </data>
+  <data name="EmptyUser.Text">
+    <value>Aggiungi un utente per impostare le autorizzazioni per utente</value>
+  </data>
+  <data name="FilterByGroup.Text">
+    <value>Filtra Per Gruppo:</value>
+  </data>
+  <data name="GlobalGroups.Text">
+    <value>[Ruoli Globali]</value>
+  </data>
+  <data name="PermissionsByRole.Text">
+    <value>AUTORIZZAZIONI PER RUOLO</value>
+  </data>
+  <data name="PermissionsByUser.Text">
+    <value>AUTORIZZAZIONI PER UTENTE</value>
+  </data>
+  <data name="Role.Text">
+    <value>Ruolo</value>
+  </data>
+  <data name="Status_Hidden.Text">
+    <value>Nascosta</value>
+  </data>
+  <data name="Status_Visible.Text">
+    <value>Visibile</value>
+  </data>
+  <data name="Title.Text">
+    <value>Titolo</value>
+  </data>
+  <data name="User.Text">
+    <value>Utente</value>
+  </data>
+  <data name="ViewTab.Text">
+    <value>Visualizza</value>
+  </data>
+  <data name="addTagsPlaceholder.Text">
+    <value>Aggiungi Tag</value>
+  </data>
+  <data name="AdvancedFilters.Text">
+    <value>Filtri Avanzate</value>
+  </data>
+  <data name="Apply.Text">
+    <value>Applica</value>
+  </data>
+  <data name="BrowseAction.Text">
+    <value>Premi {save|[ENTER]} per salvare, o {cancel|[ESC]} per annullare</value>
+  </data>
+  <data name="BrowseButton.Text">
+    <value>Sfoglia File System</value>
+  </data>
+  <data name="BulkPageValidateResponseTotalMessage.Text">
+    <value>[PAGES_TOTAL] pagine sono state convalidate.</value>
+  </data>
+  <data name="cacheDuration.ErrorMessage">
+    <value>La Durata della Cache deve essere un numero intero.</value>
+  </data>
+  <data name="cacheMaxVaryByCount.ErrorMessage">
+    <value>Il Vary By Limit deve essere un numero intero.</value>
+  </data>
+  <data name="CannotDeleteSpecialPage.Text">
+    <value>Non è possibile eliminare una pagina speciale.</value>
+  </data>
+  <data name="Clear.Text">
+    <value>Svuota</value>
+  </data>
+  <data name="ClearPageCache.Text">
+    <value>Svuota Cache - Della Pagina</value>
+  </data>
+  <data name="DefaultImageTitle.Text">
+    <value>Immagine</value>
+  </data>
+  <data name="DragDefault.Text">
+    <value>Trascina e Rilascia un File o Seleziona un'Opzione</value>
+  </data>
+  <data name="DragOver.Text">
+    <value>Trascina e Rilascia un File</value>
+  </data>
+  <data name="ExternalRedirectionUrlRequired.Text">
+    <value>L'URL è obbligatorio.</value>
+  </data>
+  <data name="FilterByModifiedDateText.Text">
+    <value>Filtra per Intervallo di Date di Modifica</value>
+  </data>
+  <data name="FilterbyPageTypeText.Text">
+    <value>Filtra per Tipo di Pagina</value>
+  </data>
+  <data name="FilterbyPublishStatusText.Text">
+    <value>Filtra per Stato di Pubblicazione</value>
+  </data>
+  <data name="lblAll.Text">
+    <value>Tutte</value>
+  </data>
+  <data name="lblCachedItemCount.Text">
+    <value>Conteggio Cache Corrente: {0} variaaioni per questa pagina</value>
+  </data>
+  <data name="lblCollapseAll.Text">
+    <value>CHIUDI TUTTE</value>
+  </data>
+  <data name="lblDateRange.Text">
+    <value>Intervallo Date</value>
+  </data>
+  <data name="lblDraft.Text">
+    <value>Bozza</value>
+  </data>
+  <data name="lblExpandAll.Text">
+    <value>APRI TUTTE</value>
+  </data>
+  <data name="lblFile.Text">
+    <value>File</value>
+  </data>
+  <data name="lblFromDate.Text">
+    <value>Dalla Data</value>
+  </data>
+  <data name="lblGeneralFilters.Text">
+    <value>FILTRI GENERALI</value>
+  </data>
+  <data name="lblModifiedDate.Text">
+    <value>Data di Modifica</value>
+  </data>
+  <data name="lblNone.Text">
+    <value>Nessuna</value>
+  </data>
+  <data name="lblNormal.Text">
+    <value>Standard</value>
+  </data>
+  <data name="lblPageFound.Text">
+    <value>Pagina Trovata</value>
+  </data>
+  <data name="lblPagesFound.Text">
+    <value>PAGINA TROVATA.</value>
+  </data>
+  <data name="lblPublishDate.Text">
+    <value>Data di Pubblicazione</value>
+  </data>
+  <data name="lblPublished.Text">
+    <value> Pubblicata</value>
+  </data>
+  <data name="lblPublishStatus.Text">
+    <value>Stato di Pubblicazione</value>
+  </data>
+  <data name="lblTagFilters.Text">
+    <value>FILTRI TAG</value>
+  </data>
+  <data name="lblUrl.Text">
+    <value>URL</value>
+  </data>
+  <data name="LinkButton.Text">
+    <value>Inserisci Link URL</value>
+  </data>
+  <data name="LinkInputAction.Text">
+    <value>Premi {save|[ENTER]} per salvare, o {cancel|[ESC]} per annullare</value>
+  </data>
+  <data name="LinkInputPlaceholder.Text">
+    <value>http://esempio.com/nomeimmagine.jpg</value>
+  </data>
+  <data name="LinkInputTitle.Text">
+    <value>Link URL</value>
+  </data>
+  <data name="MethodPermissionDenied.Text">
+    <value>L'utente non è autorizzato ad accedere a questo metodo.</value>
+  </data>
+  <data name="ModifiedDateRange.Text">
+    <value>Intervallo Date di Modifica</value>
+  </data>
+  <data name="ModuleCopyType.Copy">
+    <value>Copia</value>
+  </data>
+  <data name="ModuleCopyType.New">
+    <value>Nuovo</value>
+  </data>
+  <data name="ModuleCopyType.Reference">
+    <value>Referenza</value>
+  </data>
+  <data name="NoPageFound.Text">
+    <value>Nessuna pagina trovata.</value>
+  </data>
+  <data name="NoPageSelected.Text">
+    <value>Nessuna pagina è attualmente selezionata.</value>
+  </data>
+  <data name="NoPermissionAddPage.Text">
+    <value>Non possiedi i permessi necessari per aggiungere una pagina.</value>
+  </data>
+  <data name="NoPermissionCopyPage.Text">
+    <value>Non possiedi i permessi necessari per copiare questa pagina.</value>
+  </data>
+  <data name="NoPermissionDeletePage.Text">
+    <value>Non possiedi i permessi necessari per cancellare la pagina.</value>
+  </data>
+  <data name="NoPermissionEditPage.Text">
+    <value>Non possiedi i permessi necessari per modificare questa pagina.</value>
+  </data>
+  <data name="NoPermissionManagePage.Text">
+    <value>Non possiedi i permessi necessari per gestire la pagina</value>
+  </data>
+  <data name="NoPermissionViewPage.Text">
+    <value>Non possiedi i permessi necessari per visualizzare la pagina</value>
+  </data>
+  <data name="NoPermissionViewRedirectPage.Text">
+    <value>Non possiedi i permessi necessari per visualizzare la pagina di redirect.</value>
+  </data>
+  <data name="NotSpecified.Text">
+    <value>&lt;Nessuno Specificato&gt;</value>
+  </data>
+  <data name="Off.Text">
+    <value>Off</value>
+  </data>
+  <data name="On.Text">
+    <value>On</value>
+  </data>
+  <data name="PageCreatedMessage.Text">
+    <value>Pagina creata con successo</value>
+  </data>
+  <data name="PageNotFound.Text">
+    <value>La pagina non esiste.</value>
+  </data>
+  <data name="PagesSearchHeader.Text">
+    <value>Pagina Risultati di Ricerca</value>
+  </data>
+  <data name="ParentPage.Text">
+    <value>Pagina Padre</value>
+  </data>
+  <data name="PathDuplicateWithPage.Text">
+    <value>Esiste già una pagina con lo stesso percorso URL {0}.</value>
+  </data>
+  <data name="Prompt_DeletePage_Description.Text">
+    <value>Cancella una pagina all'interno del portale e la invia al Cestino. Per maggiore sicurezza, questo metodo non consentirà la cancellazione di pagine aventi sottopagine, pagine Host o pagine nel percorso //Admin.</value>
+  </data>
+  <data name="Prompt_DeletePage_FlagId.Text">
+    <value>Specifica esplicitamente l'ID della Pagina da cancellare. Non è richiesto l'utilizzo di un flag. Puoi semplicemente fornire il valore dell'ID come primo argomento. Obbligatorio se &lt;span class="mono"&gt;--parentid &lt;/span&gt; non è specificato.</value>
+  </data>
+  <data name="Prompt_DeletePage_FlagName.Text">
+    <value>Il nome (non il titolo) della pagina da cancellare.</value>
+  </data>
+  <data name="Prompt_DeletePage_FlagParentId.Text">
+    <value>L'ID di pagina/tab della pagina principale nella gerarchia della pagine. Richiesto solo se --name è specificato come parametro di delete e la pagina non è la root.</value>
+  </data>
+  <data name="Prompt_DeletePage_ResultHtml.Text">
+    <value>&lt;div&gt;
+    &lt;h4&gt;Elimina Pagina Per ID di Pagina&lt;/h4&gt;
+    &lt;code class="block"&gt;
+      delete-page 999
+    &lt;/code&gt;
+
+    &lt;h4&gt;Elimina Pagina Per nome sotto un altra pagina padre&lt;/h4&gt;
+    &lt;p&gt;NOTA: In questo caso, il Prompt non ti consentirà di eliminare alcuna pagina contenente delle sottopagine&lt;/p&gt;
+    &lt;code class="block"&gt;
+      delete-page --name "test" --parentid 999
+    &lt;/code&gt;
+  &lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_FlagMatch.Text">
+    <value>Il valore del flag --{0} non può essere uguale alla pagina che stai tentando di aggiornare</value>
+  </data>
+  <data name="Prompt_FlagRequired.Text">
+    <value>--{0} è obbligatorio.</value>
+  </data>
+  <data name="Prompt_GetPage_Description.Text">
+    <value>&lt;p class="lead"&gt;Fornisce informazioni sulla pagina specificata.&lt;/p&gt;&lt;blockquote&gt;&lt;strong&gt;Page vs. Tabs&lt;/strong&gt;: Per ragioni storiche, DNN
+         internamente si riferisce alle pagine come "tabs". Quindi, ogni volta che vedi un riferimento a &lt;em&gt;tab&lt;/em&gt;
+        o &lt;em&gt;page&lt;/em&gt;, ricorda che sono termini equivalenti. I valori restituiti dal Prompt solitamente utilizzano le convenzioni di denominazione interna di DNN (quindi &lt;em&gt;tab&lt;/em&gt;), sebbene la sintassi che userà solitamente il Prompt sia la parola &lt;em&gt;page&lt;/em&gt; invece di &lt;em&gt;tab&lt;/em&gt;.
+    &lt;/blockquote&gt;</value>
+  </data>
+  <data name="Prompt_GetPage_FlagId.Text">
+    <value>Specifica esplicitamente l'ID della pagina da recuperare. Non è richiesto l'uso di un flag. Puoi semplicemente fornire il valore dell'ID come primo argomento.</value>
+  </data>
+  <data name="Prompt_GetPage_FlagName.Text">
+    <value>Il nome (non il titolo) della pagina.</value>
+  </data>
+  <data name="Prompt_GetPage_FlagParentId.Text">
+    <value>L'ID di Pagina/Tab del padre della pagina nella gerarchia delle pagine. Obbligatorio solo se --name è specificato come parametro get e page non è la root.</value>
+  </data>
+  <data name="Prompt_GetPage_ResultHtml.Text">
+    <value>&lt;div&gt;
+        &lt;h4&gt;Ottinei una Pagina Per ID Pagina (Tab)&lt;/h4&gt;
+        &lt;code class="block"&gt;
+            get-page &lt;em&gt;pageId&lt;/em&gt;
+        &lt;/code&gt;
+
+        &lt;h4&gt;Ottieni una Pagina Per Nome Pagina&lt;/h4&gt;
+        &lt;p&gt;
+            NOTA: non è possibile recuperare le pagine Host utilizzando questo metodo poiché esso recupera solo le pagine all'interno di un portale. Le pagine Host tecnicamente risiedono al di fuori del portale. Puoi, tuttavia, recuperarle utilizzando l'ID della pagina (TabID nel linguaggio DNN).
+        &lt;/p&gt;
+        &lt;code class="block"&gt;get-page --name Home&lt;/code&gt;
+        &lt;table class="command-result-tbl"&gt;
+            &lt;tr&gt;&lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;345&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Nome&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Home&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Titolo&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;L'Home del Mio Sito&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Tema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;[G]Skins/Xcillion/Home.ascx&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Percorso&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//Home&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;InclusaNelMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Vero&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Url&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Keywords&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;DNN, KnowBetter, Prompt&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Descrizione&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Gnome, gnome on the range....&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+
+        &lt;h4&gt;Ottieni una Pagina Per Nome e Padre Pagina&lt;/h4&gt;
+
+        &lt;code class="block"&gt;get-page --name "Pagina 1a" --parentid 71&lt;/code&gt;
+        &lt;table class="command-result-tbl"&gt;
+            &lt;tr&gt;&lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;72&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Nome&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Pagina 1a&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Titolo&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Pagina 1a&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;71&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Tema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Path&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//Pagina1//Pagina1a&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;InclusaNelMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;vero&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Url&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Keywords&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;Descrizone&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;La Pagina 1 è la mia pagina principale. Io sono la Pagina 1a&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_Goto_Description.Text">
+    <value>Passa alla pagina specificata all'interno del portale DNN</value>
+  </data>
+  <data name="Prompt_Goto_FlagId.Text">
+    <value>Specifica l'ID della Pagina (Tab) a cui si desidera andare. Non p necessario l'uso esplicito del flag &lt;span class="mono"&gt;--id&lt;/span&gt;. Basta passare l'ID della Pagina come primo argomento dopo il nome del comando</value>
+  </data>
+  <data name="Prompt_Goto_FlagName.Text">
+    <value>Il nome (non il titolo) della pagina.</value>
+  </data>
+  <data name="Prompt_Goto_FlagParentId.Text">
+    <value>L'ID di pagina/tab della pagina principale nella gerarchia della pagine. Richiesto solo se --name è specificato come parametro goto e la pagina non è la root.</value>
+  </data>
+  <data name="Prompt_Goto_ResultHtml.Text">
+    <value>&lt;div&gt;
+    &lt;h4&gt;Andare ad Una Pagina all'Interno del Sito&lt;/h4&gt;
+    &lt;p&gt;Questo comando consente di navigare nel browser alla pagina con ID 74&lt;/p&gt;
+    &lt;code class="block"&gt;
+      goto 74
+    &lt;/code&gt;
+  &lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_IfSpecifiedMustHaveValue.Text">
+    <value>Se si specifica il flag --{0}, deve essere impostato su True o False.</value>
+  </data>
+  <data name="Prompt_InvalidPageId.Text">
+    <value>Devi specificare un numero valido per l'ID della Pagina</value>
+  </data>
+  <data name="Prompt_InvalidParentId.Text">
+    <value>Il valore del flag  --{0} deve essere un ID di Pagina (Tab) valido.</value>
+  </data>
+  <data name="Prompt_ListPages_Description.Text">
+    <value>&lt;p class="lead"&gt;Restituisce un elenco di pagine in base ai criteri specificati&lt;/p&gt;&lt;blockquote&gt;&lt;strong&gt;Page vs. Tabs&lt;/strong&gt;: Per ragioni storiche, DNN
+         internamente si riferisce alle pagine come "tabs". Quindi, ogni volta che vedi un riferimento a &lt;em&gt;tab&lt;/em&gt;
+        o &lt;em&gt;page&lt;/em&gt;, ricorda che sono termini equivalenti. I valori restituiti dal Prompt solitamente utilizzano le convenzioni di denominazione interna di DNN (quindi &lt;em&gt;tab&lt;/em&gt;), sebbene la sintassi che userà solitamente il Prompt sia la parola &lt;em&gt;page&lt;/em&gt; invece di &lt;em&gt;tab&lt;/em&gt;.
+    &lt;/blockquote&gt;</value>
+  </data>
+  <data name="Prompt_ListPages_FlagDeleted.Text">
+    <value>Se &lt;span class="mono"&gt;true&lt;/span&gt;,   verranno restituite solo le pagine che sono state cancellate (cioè presenti nel Cestino di DNN). Se &lt;span class="mono"&gt;false&lt;/span&gt;, verranno restituite solo le pagine chenon sono state cancellate. Se il flag è specificato ma non ha valore, allora viene considerato come  &lt;span class="mono"&gt;true&lt;/span&gt;. Se il flag non viene specificato, verranno restituite sia le pagine cancellate che quelle non cancellate.</value>
+  </data>
+  <data name="Prompt_ListPages_FlagName.Text">
+    <value>Restituisce solo le pagine il cui nome corrisponde all'espressione. Puoi usare il carattere asterisco (&lt;span class="mono"&gt;*&lt;/span&gt;) per confrontare 0 o più caratteri.</value>
+  </data>
+  <data name="Prompt_ListPages_FlagParentId.Text">
+    <value>L'ID della Pagina (Tab ID) della pagina principale per la quale si desidera recuperare le sottopagine. Se il primo argomento è un ID di Pagina valido, non è necessario utilizzare esplicitamente il flag --parentid.</value>
+  </data>
+  <data name="Prompt_ListPages_FlagPath.Text">
+    <value>Restituisce solo le pagine il cui percorso corrisponde all'espressione. Puoi usare il carattere asterisco (&lt;span class="mono"&gt;*&lt;/span&gt;) per confrontare 0 o più caratteri.</value>
+  </data>
+  <data name="Prompt_ListPages_FlagSkin.Text">
+    <value>Restituisce solo le pagine la cui skin corrisponde all'espressione. Puoi usare il carattere asterisco (&lt;span class="mono"&gt;*&lt;/span&gt;) per confrontare 0 o più caratteri.</value>
+  </data>
+  <data name="Prompt_ListPages_FlagTitle.Text">
+    <value>Restituisce solo le pagine il cui titolo corrisponde all'espressione. Puoi usare il carattere asterisco (&lt;span class="mono"&gt;*&lt;/span&gt;) per confrontare 0 o più caratteri.</value>
+  </data>
+  <data name="Prompt_ListPages_ResultHtml.Text">
+    <value>
+      <div>
+        <h4>Elenca Tutte le Pagine del Portale Corrente</h4>
+        <code class="block">
+            list-pages
+        </code>
+        <table class="command-result-tbl">
+            <thead>
+                <tr>
+                    <th>TabId</th>
+                    <th>Name</th>
+                    <th>Titolo</th>
+                    <th>ParentId</th>
+                    <th>Tema</th>
+                    <th>Percorso</th>
+                    <th>InclusaNelMenu</th>
+                    <th>IsDeleted</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>41</td>
+                    <td>Home</td>
+                    <td>Home 3</td>
+                    <td>-1</td>
+                    <td>[G]Skins/Xcillion/Home.ascx</td>
+                    <td>//Home</td>
+                    <td>true</td>
+                    <td>false</td>
+                </tr>
+                <tr>
+                    <td>71</td>
+                    <td>Page 1</td>
+                    <td></td>
+                    <td>-1</td>
+                    <td></td>
+                    <td>//Page1</td>
+                    <td>true</td>
+                    <td>true</td>
+                </tr>
+                <tr>
+                    <td>42</td>
+                    <td>Activity Feed</td>
+                    <td>Activity Feed</td>
+                    <td>-1</td>
+                    <td></td>
+                    <td>//ActivityFeed</td>
+                    <td>false</td>
+                    <td>false</td>
+                </tr>
+                <tr>
+                    <td colspan="7">...</td>
+                </tr>
+                <tr>
+                    <td colspan="7">33 pages found</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h4>Elenca le Sottopagine di una Pagina Principale</h4>
+        <code class="block">
+            list-pages 43
+        </code>
+        OR
+        <code class="block">
+            list-pages --parentid 43
+        </code>
+        <table class="command-result-tbl">
+            <thead>
+                <tr>
+                    <th>TabId</th>
+                    <th>Nome</th>
+                    <th>Titolo</th>
+                    <th class="bg-info">ParentId</th>
+                    <th>Tema</th>
+                    <th>Percorso</th>
+                    <th>InclusaNelMenu</th>
+                    <th>IsDeleted</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>49</td>
+                    <td>Site Settings</td>
+                    <td>Site Settings</td>
+                    <td class="bg-info">43</td>
+                    <td></td>
+                    <td>//Admin//SiteSettings</td>
+                    <td>true</td>
+                    <td>false</td>
+                </tr>
+                <tr>
+                    <td>50</td>
+                    <td>Extensions</td>
+                    <td>Extensions</td>
+                    <td class="bg-info">43</td>
+                    <td></td>
+                    <td>//Admin//Extensions</td>
+                    <td>true</td>
+                    <td>false</td>
+                </tr>
+                <tr>
+                    <td>51</td>
+                    <td>Security Roles</td>
+                    <td>Security Roles</td>
+                    <td class="bg-info">43</td>
+                    <td></td>
+                    <td>//Admin//SecurityRoles</td>
+                    <td>true</td>
+                    <td>false</td>
+                </tr>
+                <tr>
+                    <td colspan="7">...</td>
+                </tr>
+                <tr>
+                    <td colspan="7">18 pages found</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h4>Elenca Tutte le Pagine nel Cestino</h4>
+        <code class="block">
+            list-pages --deleted
+        </code>
+        OR
+        <code class="block">
+            list-pages --deleted true
+        </code>
+        <table class="command-result-tbl">
+            <thead>
+                <tr>
+                    <th>TabId</th>
+                    <th>Nome</th>
+                    <th>Titolo</th>
+                    <th>ParentId</th>
+                    <th>Tema</th>
+                    <th>Percorso</th>
+                    <th>InclusaNelMenu</th>
+                    <th>IsDeleted</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>71</td>
+                    <td>Page 1</td>
+                    <td></td>
+                    <td>-1</td>
+                    <td></td>
+                    <td>//Page1</td>
+                    <td>true</td>
+                    <td class="bg-info">true</td>
+                </tr>
+                <tr>
+                    <td colspan="7">1 page found</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h4>Elenca Tutte le Pagine di "Amministrazione" del Menu Admin</h4>
+        <code class="block">
+            list-pages --path //Admin//*Management*
+        </code>
+        <table class="command-result-tbl">
+            <thead>
+                <tr>
+                    <th>TabId</th>
+                    <th>Nome</th>
+                    <th>Titolo</th>
+                    <th>ParentId</th>
+                    <th>Tema</th>
+                    <th>Percorso</th>
+                    <th>InclusaNelMenu</th>
+                    <th>IsDeleted</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>53</td>
+                    <td>File Management</td>
+                    <td>File Management</td>
+                    <td>43</td>
+                    <td></td>
+                    <td><span class="bg-info">//Admin//</span>File<span class="bg-info">Management</span></td>
+                    <td>true</td>
+                    <td>false</td>
+                </tr>
+                <tr>
+                    <td>55</td>
+                    <td>Site Redirection Management</td>
+                    <td></td>
+                    <td>43</td>
+                    <td></td>
+                    <td><span class="bg-info">//Admin//</span>SiteRedirection<span class="bg-info">Management</span></td>
+                    <td>true</td>
+                    <td>false</td>
+                </tr>
+                <tr>
+                    <td>56</td>
+                    <td>Device Preview Management</td>
+                    <td></td>
+                    <td>43</td>
+                    <td></td>
+                    <td><span class="bg-info">//Admin//</span>DevicePreview<span class="bg-info">Management</span></td>
+                    <td>true</td>
+                    <td>false</td>
+                </tr>
+                <tr>
+                    <td colspan="7">3 pages found</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+    </value>
+  </data>
+  <data name="Prompt_ListRoles_FlagMax.Text">
+    <value>Dimensioni per la pagina. Il massimo è 500</value>
+  </data>
+  <data name="Prompt_ListRoles_FlagPage.Text">
+    <value>Numero di pagina per la quale mostrare i record.</value>
+  </data>
+  <data name="Prompt_ListRoles_FlagVisible.Text">
+    <value>Se &lt;span class="mono"&gt;true&lt;/span&gt;, verranno restituite solo le pagine che sono visibili nel menu di navigazione. Se &lt;span class="mono"&gt;false&lt;/span&gt; verranno restituite solo le pagine nascoste. Se il flag è specificato ma non ha valore, allora viene considerato come &lt;span class="mono"&gt;true&lt;/span&gt;. Se non viene specificato il flag, verranno restituite sia le pagine visibili che quelle nascoste.</value>
+  </data>
+  <data name="Prompt_NewPage_Description.Text">
+    <value>Crea una nuova pagina all'interno del portale</value>
+  </data>
+  <data name="Prompt_NewPage_FlagDescription.Text">
+    <value>La descrizione da utilizzare per la pagina</value>
+  </data>
+  <data name="Prompt_NewPage_FlagKeywords.Text">
+    <value>Le keywords da utilizzare per la pagina</value>
+  </data>
+  <data name="Prompt_NewPage_FlagName.Text">
+    <value>Il nome da usare per la pagina. Il flag &lt;code&gt;--name&lt;/code&gt; non deve essere esplicitamente dichiarato se il primo argomento è una stringa e non un flag.</value>
+  </data>
+  <data name="Prompt_NewPage_FlagParentId.Text">
+    <value>Se desideri che questa diventi figlio di una pagina, specifica l'ID della pagina come segue &lt;span class="mono"&gt;--parentid&lt;/span&gt;</value>
+  </data>
+  <data name="Prompt_NewPage_FlagTitle.Text">
+    <value>Il titolo visualizzato da utilizzare per la pagina</value>
+  </data>
+  <data name="Prompt_NewPage_FlagUrl.Text">
+    <value>Un URL personalizzato da utilizzare per la pagina. Se non specificato, viene utilizzato da DNN durante la creazione dell'URL il &lt;span class="mono"&gt;--name&lt;/span&gt;</value>
+  </data>
+  <data name="Prompt_NewPage_FlagVisible.Text">
+    <value>Se true, la pagina sarà visibile nel menu di navigazione del sito</value>
+  </data>
+  <data name="Prompt_NewPage_ResultHtml.Text">
+    <value>&lt;div&gt;
+    &lt;h4&gt;Crea una Nuova Pagina (Sintassi Minima)&lt;/h4&gt;
+    &lt;h5&gt;Uso Implicito del flag &lt;span class="mono"&gt;--name&lt;/span&gt;&lt;/h5&gt;
+    &lt;code class="block"&gt;
+      new-page "La Mia Nuova Pagina"
+    &lt;/code&gt;
+    &lt;h5&gt;Uso Esplicito del flag &lt;span class="mono"&gt;--name&lt;/span&gt;&lt;/h5&gt;
+    &lt;code class="block"&gt;
+      new-page --name "La Mia Nuova Pagina"
+    &lt;/code&gt;
+
+    &lt;table class="command-result-tbl"&gt;
+      &lt;tr&gt;
+        &lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;78&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Nome&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;My New Page&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Titolo&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Tema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Percorso&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//MyNewPage&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;InclusaNelMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Url&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Keywords&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Descrizione&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;h4&gt;Crea una Sottopagina con Opzioni Aggiuntive&lt;/h4&gt;
+    &lt;code class="block"&gt;
+      new-page --name "La Mia Sottopagina" --parentid 78 --title "Questo è il titolo della mia sottopagina" --keywords "esempio, sottopagina, prompt, KnowBetter"
+    &lt;/code&gt;
+
+    &lt;table class="command-result-tbl"&gt;
+      &lt;tr&gt;
+        &lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;79&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Nome&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;My Sub Page&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Titolo&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;This is the sub page title&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;78&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Tema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Percorso&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//MyNewPage//MySubPage&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;InclusaNelMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Url&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Keywords&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;sample, sub-page, prompt, KnowBetter&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Descrizione&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+
+  &lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_NoPageId.Text">
+    <value>Nessun ID Pagina specificato valido </value>
+  </data>
+  <data name="Prompt_NoPages.Text">
+    <value>Nessuna pagina trovata</value>
+  </data>
+  <data name="Prompt_NothingToUpdate.Text">
+    <value>Niente da Aggiornare! Dichiara cosa aggiornare l'utilizzo di flag come --{0} --{1} --{2} --{3}, ecc.</value>
+  </data>
+  <data name="Prompt_PageCreated.Text">
+    <value>La pagina è stata creata</value>
+  </data>
+  <data name="Prompt_PageCreateFailed.Text">
+    <value>Impossibile creare la nuova pagina</value>
+  </data>
+  <data name="Prompt_PageNotFound.Text">
+    <value>Pagina non trovata.</value>
+  </data>
+  <data name="Prompt_PagesCategory.Text">
+    <value>Comandi di Pagina</value>
+  </data>
+  <data name="Prompt_ParameterRequired.Text">
+    <value>Deve essere specificato l'Id o il Nome della Pagina con flag --name.</value>
+  </data>
+  <data name="Prompt_ParentIdNotNumeric.Text">
+    <value>Quando si specifica --{0}, è necessario fornire un valido ID di Pagina (Tab) numerico.</value>
+  </data>
+  <data name="Prompt_SetPage_Description.Text">
+    <value>Imposta o aggiorna le proprietà della pagina specificata</value>
+  </data>
+  <data name="Prompt_SetPage_FlagDescription.Text">
+    <value>La descrizione da utilizzare per la pagina</value>
+  </data>
+  <data name="Prompt_SetPage_FlagId.Text">
+    <value>L'ID della pagina che si desidera aggiornare.</value>
+  </data>
+  <data name="Prompt_SetPage_FlagKeywords.Text">
+    <value>Le keyword da utilizzare per la pagina</value>
+  </data>
+  <data name="Prompt_SetPage_FlagName.Text">
+    <value>Il nome da utilizzare per la pagina</value>
+  </data>
+  <data name="Prompt_SetPage_FlagParentId.Text">
+    <value>Se desideri che questa diventi sottopagina di una pagina, specifica l'ID della pagina come segue &lt;span class="mono"&gt;--parentid&lt;/span&gt;</value>
+  </data>
+  <data name="Prompt_SetPage_FlagTitle.Text">
+    <value>Il titolo visualizzato da utilizzare per la pagina</value>
+  </data>
+  <data name="Prompt_SetPage_FlagUrl.Text">
+    <value>Un URL personalizzato da utilizzare per la pagina. Se non specificato, viene utilizzato da DNN durante la creazione dell'URL il &lt;span class="mono"&gt;--name&lt;/span&gt;</value>
+  </data>
+  <data name="Prompt_SetPage_FlagVisible.Text">
+    <value>Se true, la pagina sarà visibile nel menu di navigazione del sito</value>
+  </data>
+  <data name="Prompt_SetPage_ResultHtml.Text">
+    <value>&lt;div&gt;
+        &lt;h4&gt;Aggiorna le Proprietà di una Pagina&lt;/h4&gt;
+        &lt;code class="block"&gt;
+            set-page 78 --title "Il Mio Nuovo Titolo di Pagina" --name Page78
+        &lt;/code&gt;
+
+        &lt;table class="command-result-tbl"&gt;
+            &lt;tr&gt;
+                &lt;td&gt;TabId&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;78&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Nome&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;Page25&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Titolo&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;Il Mio Nuovo Titolo di Pagina&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;ParentId&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;-1&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Container&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;null&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Tema&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Percorso&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;//MiaNuovaPagina&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;InclusaNelMenu&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;true&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Url&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Keywords&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Descrizione&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+
+        &lt;h4&gt;Cambia il Genitore di una Pagina&lt;/h4&gt;
+        &lt;code class="block"&gt;
+            set-page --id 72 --parentid 79
+        &lt;/code&gt;
+
+        &lt;table class="command-result-tbl"&gt;
+            &lt;tr&gt;
+                &lt;td&gt;TabId&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;72&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Nome&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;Page2&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Titolo&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;Page 2&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;ParentId&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td class="bg-info"&gt;79&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Container&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;null&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Tema&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Percorso&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td class="bg-info"&gt;//Pagina3//Pagina2&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;InclusaNelMenu&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;true&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Url&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Keywords&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;esempio, sottopagina, prompt, KnowBetter&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;Descrizione&lt;/td&gt;
+                &lt;td&gt;:&lt;/td&gt;
+                &lt;td&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+
+    &lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_TrueFalseRequired.Text">
+    <value>Devi passare il valore True o False per il flag --{0}.</value>
+  </data>
+  <data name="Prompt_UnableToFindSpecified.Text">
+    <value>Impossibile trovare la pagina specificata per --{0} '{1}'.</value>
+  </data>
+  <data name="SearchFilesPlaceHolder.Text">
+    <value>Search Files...</value>
+  </data>
+  <data name="SearchFoldersPlaceHolder.Text">
+    <value>Search Folders...</value>
+  </data>
+  <data name="SiteDefault.Text">
+    <value>Sito di Default</value>
+  </data>
+  <data name="Status_Disabled.Text">
+    <value>Disabled</value>
+  </data>
+  <data name="TabToRedirectIsRequired.Text">
+    <value>La pagina nella quale reindirizzare è obbligatoria.</value>
+  </data>
+  <data name="TagsInstructions.Text">
+    <value>Inizia a digitare per filtrare per tag.</value>
+  </data>
+  <data name="UploadButton.Text">
+    <value>Carica un File</value>
+  </data>
+  <data name="UploadComplete.Text">
+    <value>Caricamento Completato</value>
+  </data>
+  <data name="UploadDefault.Text">
+    <value>miaImagine.jpg</value>
+  </data>
+  <data name="UploadFailed.Text">
+    <value>Caricamento Fallito</value>
+  </data>
+  <data name="Uploading.Text">
+    <value>Caricamento...</value>
+  </data>
+  <data name="ValidatePages.Text">
+    <value>Convalidare Pagina(e)</value>
+  </data>
+  <data name="ValidFileIsRequired.Text">
+    <value>È richiesto un file valido.</value>
+  </data>
+  <data name="WrongFormat.Text">
+    <value>Formato Errato</value>
+  </data>
+</root>

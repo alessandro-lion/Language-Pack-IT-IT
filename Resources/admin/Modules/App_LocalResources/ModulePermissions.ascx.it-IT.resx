@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_module.Text">
+    <value xml:space="preserve">Modulo</value>
+  </data>
+  <data name="InheritPermissions.Text">
+    <value xml:space="preserve">Eredita permessi di &lt;b&gt;Visualizzazione&lt;/b&gt; dalla &lt;b&gt;Pagina&lt;/b&gt;</value>
+  </data>
+  <data name="Permissions.Text">
+    <value xml:space="preserve">Permessi</value>
+  </data>
+  <data name="plPermissions.Help">
+    <value xml:space="preserve">Imposta le autorizzazioni di visualizzazione e modifica  selezionando/deselezionando le caselle dalla griglia. Il modulo può ereditare le autorizzazioni dalla pagina.  Selezionare la casella Eredita Permessi di Visualizzazione per consentire al modulo di ereditare le autorizzazioni dalla pagina.</value>
+  </data>
+  <data name="plPermissions.Text">
+    <value xml:space="preserve">Permessi:</value>
+  </data>
+</root>

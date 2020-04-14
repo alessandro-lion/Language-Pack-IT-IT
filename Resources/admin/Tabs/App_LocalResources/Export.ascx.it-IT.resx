@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdExport.Text">
+    <value xml:space="preserve">Esporta</value>
+  </data>
+  <data name="ControlTitle_exporttab.Text">
+    <value xml:space="preserve">Esporta Pagina</value>
+  </data>
+  <data name="Error.Text">
+    <value xml:space="preserve">Si è verificato un errore durante l'esportazione.</value>
+  </data>
+  <data name="ExportedMessage.Text">
+    <value xml:space="preserve">Il template della pagina è stato creato in &lt;b&gt;{0}&lt;/b&gt;</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;h1&gt;Esporta Pagina&lt;/h1&gt;&lt;p&gt;Gli amministratori possono esportare il contenuto per la pagina specificata.&lt;/p&gt;</value>
+  </data>
+  <data name="plContent.Help">
+    <value xml:space="preserve">Seleziona questa casella per includere il contenuto del modulo.</value>
+  </data>
+  <data name="plContent.Text">
+    <value xml:space="preserve">Includi Contenuto:</value>
+  </data>
+  <data name="plDescription.Help">
+    <value xml:space="preserve">Inserisci una descrizione di questo template.</value>
+  </data>
+  <data name="plDescription.Text">
+    <value xml:space="preserve">Descrizione:</value>
+  </data>
+  <data name="plFile.Help">
+    <value xml:space="preserve">Inserisci un nome per il template della pagina.</value>
+  </data>
+  <data name="plFile.Text">
+    <value xml:space="preserve">Nome Template:</value>
+  </data>
+  <data name="plFolder.Help">
+    <value xml:space="preserve">Scegli la cartella di destinazione nella quale il template verrà salvato.</value>
+  </data>
+  <data name="plFolder.Text">
+    <value xml:space="preserve">Cartella:</value>
+  </data>
+  <data name="Root.Text">
+    <value xml:space="preserve">Root</value>
+  </data>
+  <data name="valDescription.ErrorMessage">
+    <value xml:space="preserve">È necessario fornire una descrizione del template.</value>
+  </data>
+  <data name="valFileName.ErrorMessage">
+    <value xml:space="preserve">È necessario specificare un nome per questo template.</value>
+  </data>
+  <data name="Validation.Text">
+    <value xml:space="preserve">È necessario specificare la cartella di destinazione.</value>
+  </data>
+</root>

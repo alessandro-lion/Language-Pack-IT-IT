@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccountInfo.Text">
+    <value xml:space="preserve">Info Account</value>
+  </data>
+  <data name="BestPractices.Text">
+    <value xml:space="preserve">Si sta per aggiornare il tuo Sito Web a una versione più recente dell'applicazione. Applicare gli aggiornamenti su base omogenea è il modo migliore per garantire la protezione di integrità del vostro investimento e la sicurezza degli utenti e risorse. Prima di procedere con il processo di aggiornamento automatizzato assicurarsi di:&lt;ul&gt;
+&lt;li&gt;Aver pianificato un primo test di aggiornamento in un ambiente di TEST.&lt;li&gt;Aver documentato le caratteristiche della tua attuale installazione includendo tutti i moduli di terze parti installati.&lt;li&gt;Aver creato il backup del vostro ambiente necessario per ripristinare il tuo sito web in caso di un errore imprevisto durante aggiornamento.&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;</value>
+  </data>
+  <data name="CurrentVersion.Text">
+    <value xml:space="preserve">Versione Corrente - {0}</value>
+  </data>
+  <data name="DatabaseUpgrade.Text">
+    <value xml:space="preserve">Aggiornamento Database</value>
+  </data>
+  <data name="Error.Text">
+    <value xml:space="preserve">Errore</value>
+  </data>
+  <data name="ErrorInStep.Text">
+    <value xml:space="preserve">si è verificato ERRORE  - {0}</value>
+  </data>
+  <data name="ExtensionsUpgrade.Text">
+    <value xml:space="preserve">Aggiornamento Estensioni</value>
+  </data>
+  <data name="IntroDetail.Text">
+    <value xml:space="preserve">&lt;p&gt;Benvenuti alla Pagina di Aggiornamento DotNetNuke.&lt;/p&gt;
+
+&lt;p&gt;Il primo passo è quello di scegliere la lingua che si desidera utilizzare per l'aggiornamento.&lt;/p&gt;
+
+</value>
+  </data>
+  <data name="InvalidCredentials.Text">
+    <value xml:space="preserve">Nome Utente e Password non riconosciuti.</value>
+  </data>
+  <data name="Next.Text">
+    <value xml:space="preserve">Aggiorna Ora</value>
+  </data>
+  <data name="NoInstallationLog.Text">
+    <value xml:space="preserve">Nessun Log d'Installazione</value>
+  </data>
+  <data name="Password.Help">
+    <value xml:space="preserve">La password per l'account Super User.</value>
+  </data>
+  <data name="Password.Text">
+    <value xml:space="preserve">Password:</value>
+  </data>
+  <data name="Retry.Text">
+    <value xml:space="preserve">Riprova</value>
+  </data>
+  <data name="SeeLogs.Text">
+    <value xml:space="preserve">Vedi Log</value>
+  </data>
+  <data name="TimerMinutes.Text">
+    <value xml:space="preserve">Minuti</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">Aggiornamento</value>
+  </data>
+  <data name="Upgrade.Text">
+    <value xml:space="preserve">Aggiornamento</value>
+  </data>
+  <data name="UpgradeDone.Text">
+    <value xml:space="preserve">Aggiornamento Completato</value>
+  </data>
+  <data name="UpgradingDatabase.Text">
+    <value xml:space="preserve">Aggiornamento  Database</value>
+  </data>
+  <data name="Username.Help">
+    <value xml:space="preserve">Il nome utente per l'account Super User.</value>
+  </data>
+  <data name="Username.Text">
+    <value xml:space="preserve">Nome Utene Host (SuperUser):</value>
+  </data>
+  <data name="Version.Text">
+    <value xml:space="preserve">Aggiornamento - Versione {0}</value>
+  </data>
+  <data name="ViewWebsite.Text">
+    <value xml:space="preserve">Vedi Sito Web</value>
+  </data>
+  <data name="VisitWebsite.Text">
+    <value xml:space="preserve">Visita Sito Web</value>
+  </data>
+  <data name="VersionsMatch.Text">
+    <value>Le versioni del database e della applicazione corrispondono - non vi è alcun aggiornamento da applicare.</value>
+  </data>
+  <data name="VersionsMatchButIncrementalExists.Text">
+    <value>Le versioni del database e della applicazione corrispondono - è possibile scaricare una versione successiva.</value>
+  </data>
+  <data name="UpgradeStarted.Text">
+    <value>Aggiornamento Iniziato alle </value>
+  </data>
+  <data name="ImprovementProgramExplain.Text">
+    <value>Il programma di miglioramento del prodotto ci permette di capire meglio come possiamo
+migliorare DNN per te. I dati ci aiutano ad analizzare l'uso e ciò che è importante
+per le persone che utilizzano il prodotto. Tutti i dati sono anonimi e solo per uso interno. Ulteriori informazioni sul &lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Programma di Miglioramento del Prodotto&lt;/a&gt;.</value>
+  </data>
+  <data name="ImprovementProgramLabel.Text">
+    <value>Invia le informazioni di utilizzo in maniera anonima a DNN</value>
+  </data>
+  <data name="ImprovementsProgramTitle.Text">
+    <value>Programma di Miglioramento del Prodotto</value>
+  </data>
+  <data name="AcceptTerms.Required">
+    <value>Accettare i termini del contratto di licenza per continuare.</value>
+  </data>
+  <data name="AcceptTerms.Text">
+    <value>Accetto i termini del &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;contratto di licenza&lt;/a&gt;</value>
+  </data>
+</root>

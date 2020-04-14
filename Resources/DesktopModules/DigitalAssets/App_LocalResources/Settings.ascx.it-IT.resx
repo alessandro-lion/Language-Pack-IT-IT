@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BasicSettings.Text">
+    <value xml:space="preserve">Impostazioni base</value>
+  </data>
+  <data name="DefaultFolderType.Help">
+    <value xml:space="preserve">Imposta il tipo di cartella predefinita da utilizzare quando si crea una nuova cartella nella cartella principale.</value>
+  </data>
+  <data name="DefaultFolderType.Text">
+    <value xml:space="preserve">Tipo cartella predefinita</value>
+  </data>
+  <data name="ExcludeSubfolders.Text">
+    <value xml:space="preserve">Escludi sottocartelle</value>
+  </data>
+  <data name="ExcludeSubfoldersLabel.Help">
+    <value xml:space="preserve">Seleziona la casella per mostrare solo i file e i file nelle sottocartelle, senza mostrare le sottocartelle</value>
+  </data>
+  <data name="FilterByFolder.Text">
+    <value xml:space="preserve">Filtra per Cartella</value>
+  </data>
+  <data name="FolderMustBeSelected.ErrorMessage">
+    <value xml:space="preserve">Una cartella deve essere selezionata quando la casella "Filtro per cartella" viene selezionata.</value>
+  </data>
+  <data name="Group.Text">
+    <value xml:space="preserve">Gruppo</value>
+  </data>
+  <data name="IncludeSubfoldersFilesOnly.Text">
+    <value xml:space="preserve">Includi Sottocartelle (Solo File)</value>
+  </data>
+  <data name="IncludeSubfoldersFolderStructure.Text">
+    <value xml:space="preserve">Includi Sottocartelle (Mostra struttura cartella)</value>
+  </data>
+  <data name="Mode.Help">
+    <value xml:space="preserve">La modalità con la quale il modulo dovrebbe operare.</value>
+  </data>
+  <data name="Mode.Text">
+    <value xml:space="preserve">Modalità</value>
+  </data>
+  <data name="Normal.Text">
+    <value xml:space="preserve">Normale</value>
+  </data>
+  <data name="NoSet.Text">
+    <value xml:space="preserve">Non Impostato</value>
+  </data>
+  <data name="User.Text">
+    <value xml:space="preserve">Utente</value>
+  </data>
+  <data name="ViewCondition.Help">
+    <value xml:space="preserve">Seleziona le opzioni di filtro da applicare nella griglia.</value>
+  </data>
+  <data name="ViewCondition.Text">
+    <value xml:space="preserve">Imposta Condizione Visualizzazione</value>
+  </data>
+  <data name="ExcludeSubfoldersLabel.Text">
+    <value />
+  </data>
+</root>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle.Text">
+    <value xml:space="preserve">Tipo Cartella {0} </value>
+  </data>
+  <data name="ControlTitle_editfoldermapping.Text">
+    <value xml:space="preserve">Modifica Mappatura Cartella</value>
+  </data>
+  <data name="Description.Text">
+    <value xml:space="preserve">Utilizza questa finestra per definire un nuovo tipo di cartella.</value>
+  </data>
+  <data name="DuplicateMappingName.Text">
+    <value xml:space="preserve">Esiste già una mappa con lo stesso nome.  Le modifiche non sono state salvate.</value>
+  </data>
+  <data name="FolderProviderLabel.Help">
+    <value xml:space="preserve">Seleziona il provider cartella da utilizzare.</value>
+  </data>
+  <data name="FolderProviderLabel.Text">
+    <value xml:space="preserve">Provider Cartella</value>
+  </data>
+  <data name="FolderProviderSettings.Text">
+    <value xml:space="preserve">Impostazioni Provider Cartella</value>
+  </data>
+  <data name="FolderProviderValidator.ErrorMessage">
+    <value xml:space="preserve">Il provider cartella è obbligatorio.</value>
+  </data>
+  <data name="GeneralSettings.Text">
+    <value xml:space="preserve">Impostazioni Generali</value>
+  </data>
+  <data name="NameLabel.Help">
+    <value xml:space="preserve">Inserisci il nome di questa mappatura cartella.</value>
+  </data>
+  <data name="NameLabel.Text">
+    <value xml:space="preserve">Nome</value>
+  </data>
+  <data name="NameValidator.ErrorMessage">
+    <value xml:space="preserve">Il nome è obbligatorio.</value>
+  </data>
+  <data name="RequiredFields.Text">
+    <value xml:space="preserve">Indica i campi obbligatori.</value>
+  </data>
+  <data name="SelectFolderProvider.Text">
+    <value xml:space="preserve">- Seleziona un Provider di Cartella -</value>
+  </data>
+  <data name="SyncWarning.Text">
+    <value xml:space="preserve">Dopo aver aggiornato il tipo di cartella, viene eseguita una sincronizzazione sulle cartelle che utilizzano quel tipo.  Questo potrebbe richiedere del tempo, a seconda del numero di cartelle che corrispondono ai criteri.</value>
+  </data>
+  <data name="Update.Text">
+    <value xml:space="preserve">Aggiorna</value>
+  </data>
+</root>

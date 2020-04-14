@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="nav_Licensing.Text" xml:space="preserve">
+    <value>Riguardo alle licenze</value>
+  </data>
+  <data name="NoLicense.Header" xml:space="preserve">
+    <value>Non possiedi una licenza EVOQ... per ora.</value>
+  </data>
+  <data name="NoLicense.Text" xml:space="preserve">
+    <value>Effettua l'upgrade  a EVOQ per sbloccare funzionalità professionali sui tuoi siti</value>
+  </data>
+  <data name="LicenseType.Header" xml:space="preserve">
+    <value>TIPO LICENZA</value>
+  </data>
+  <data name="InvoiceNumber.Header" xml:space="preserve">
+    <value>NUMERO FATTURA</value>
+  </data>
+  <data name="WebServer.Header" xml:space="preserve">
+    <value>WEB SERVER</value>
+  </data>
+  <data name="Activated.Header" xml:space="preserve">
+    <value>ATTIVATO</value>
+  </data>
+  <data name="Expires.Header" xml:space="preserve">
+    <value>SCADE</value>
+  </data>
+  <data name="CheckOutEvoq.Header" xml:space="preserve">
+    <value>SCOPRI EVOQ</value>
+  </data>
+  <data name="CheckOutEvoq" xml:space="preserve">
+    <value>Evoq fornisce un ampio set di funzionalità che il tuo intero team userà e adorerà. Aziende ed organizzazioni di tutto il globo si affidano a Evoq per garantire delle potenti esperienze di web. </value>
+  </data>
+  <data name="UpgradeToEvoq.Header" xml:space="preserve">
+    <value>UPGRADE</value>
+  </data>
+  <data name="UpgradeToEvoq" xml:space="preserve">
+    <value>Sei pronto a portare la tua presenza sul web ad un livello superiore? Inizia un periodo di prova gratuita o prenota una demo custom per il tuo team.</value>
+  </data>
+  <data name="DocumentCenter.Header" xml:space="preserve">
+    <value>DOCUMENTATION CENTER</value>
+  </data>
+  <data name="DocumentCenter" xml:space="preserve">
+    <value>Non importa quale sia la tua domanda, il nuovo "Doc Center" di DNN raccoglie tutte le risposte, i tutorial e gli aiuti inerenti al prodotto.</value>
+  </data>
+  <data name="LicenseType.Development" xml:space="preserve">
+    <value>Sviluppo</value>
+  </data>
+  <data name="LicenseType.Production" xml:space="preserve">
+    <value>Produzione</value>
+  </data>
+  <data name="LicenseType.Failover" xml:space="preserve">
+    <value>Failover</value>
+  </data>
+  <data name="LicenseType.Staging" xml:space="preserve">
+    <value>Staging</value>
+  </data>
+  <data name="LicenseType.Test" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="Error.Unknown.Activation" xml:space="preserve">
+    <value>Impossibile processare la richiesta. Riprova più tardi o procedi con l'attivazione manuale</value>
+  </data>
+  <data name="Error.LicenseAlreadyExists" xml:space="preserve">
+    <value>Attivazione Licenza Fallita. Il server host {0} possiede già una {1} licenza.</value>
+  </data>
+  <data name="Error.ContactServer.activate" xml:space="preserve">
+    <value>Impossibile attivare la licenza. Connessione al server delle licenze fallita. Riprova più tardi o procedi con l'attivazione manuale.Se continui a incontrare delle difficoltà, contatta il Servizio Tecnico. </value>
+  </data>
+  <data name="Error.ContactServer.canrenew" xml:space="preserve">
+    <value>Connessione al server delle licenze fallita. Non sei abilitato ad attivare automaticamente o a rinnovare le licenze. Puoi procedere con l'attivazione manuale.&lt;br /&gt;&lt;br /&gt;
+Per il rinnovo delle licenze scrivi a &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
+  </data>
+  <data name="Error.ContactServer.deactivate" xml:space="preserve">
+    <value>La tua licenza è stata eliminata.&lt;br /&gt;&lt;br /&gt;
+Non è stato possibile aggiungere nuovamente l'attivazione alla tua fattura perchè è fallita la connessione al server delle licenze. Si prega di contattare il Supporto Tecnico per l'attivazione della licenza.
+</value>
+  </data>
+  <data name="Error.ContactServer.renew" xml:space="preserve">
+    <value>Impossibile rinnovare la licenza. Connessione al server delle licenze fallita. Riprova più tardi o contatta &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;</value>
+  </data>
+  <data name="Error.ACT1.Text" xml:space="preserve">
+    <value>Attivazione Licenza fallita. I dettagli forniti non corrispondono ad una licenza valida.&lt;br /&gt;&lt;br /&gt;Verifica il codice della tua licenza sulla &lt;a href="{0}" target="_blank"&gt;pagina personale di licenza su dnnsoftware.com&lt;/a&gt; e riprova. Se continui ad incontrare delle difficoltà, contatta il nostro Supporto Tecnico.</value>
+  </data>
+  <data name="Error.ACT2.Text" xml:space="preserve">
+    <value>Attivazione Licenza Fallita. Attivazione Produzione {0} già in uso.</value>
+  </data>
+  <data name="Error.ACT3.Text" xml:space="preserve">
+    <value>Hai superato il limite di attivazioni da questo indirizzo client.</value>
+  </data>
+  <data name="Error.ACT4.Text" xml:space="preserve">
+    <value>Attivazione licenza fallita. Attivazione Produzione {0} già in uso.</value>
+  </data>
+  <data name="Error.ACT6.Text" xml:space="preserve">
+    <value>Attivazione licenza fallita. Il periodo di validità è scaduto il {0:d}. Per favore contattaci all'indirizzo &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
+  </data>
+  <data name="Error.DEA1.Text" xml:space="preserve">
+    <value>Eliminazione della licenza fallita. La licenza non è stata trovata.</value>
+  </data>
+  <data name="WebLicenseList.url" xml:space="preserve">
+    <value>http://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
+  </data>
+  <data name="Error.Unknown" xml:space="preserve">
+    <value>Impossibile processare la richiesta. Riprova più tardi.</value>
+  </data>
+  <data name="Error.ExpiredLicense" xml:space="preserve">
+    <value>Attivazione della licenza fallita. La tua licenza è scaduta il {0:d}. Controlla lo stato delle tue licenze alla &lt;a href="{1}" target="_blank"&gt;tua pagina personale delle licenze su dnnsoftware.com&lt;/a&gt;. Accedi utilizzando le credenziali d'accesso che hai ricevuto quando hai acquistato il prodotto per la prima volta.</value>
+  </data>
+  <data name="Success.DevLicenseActivated" xml:space="preserve">
+    <value>La Licenza di Sviluppo è stata attivata con successo.</value>
+  </data>
+  <data name="Success.FailoverLicenseActivated" xml:space="preserve">
+    <value>La Licenza Failover è stata attivata con successo.</value>
+  </data>
+  <data name="Success.LicenseActivated" xml:space="preserve">
+    <value>La Licenza di Produzione è stata attivata con successo.</value>
+  </data>
+  <data name="Success.LicenseDeactivated" xml:space="preserve">
+    <value>La tua licenza è stata eliminata con successo.</value>
+  </data>
+  <data name="Success.LicenseDeactivatedContactServerErr" xml:space="preserve">
+    <value>La tua licenza è stata eliminata.&lt;br /&gt;&lt;br /&gt;
+Non è stato possibile aggiungere nuovamente l'attivazione alla tua fattura perchè è fallita la connessione al server delle licenze. Contatta il Servizio Tecnico per l'attivazione della licenza di produzione.</value>
+  </data>
+  <data name="Success.LicenseDeactivatedNoActivationIncrease" xml:space="preserve">
+    <value>La tua licenza è stata eliminata.&lt;br /&gt;&lt;br /&gt;
+Non è stato possibile aggiungere nuovamente l'attivazione alla tua fattura. Contatta il Servizio Tecnico per l'attivazione della licenza di produzione.</value>
+  </data>
+  <data name="Success.LicenseRenewed" xml:space="preserve">
+    <value>La tua licenza è stata rinnovata con successo.</value>
+  </data>
+  <data name="Success.StagingLicenseActivated" xml:space="preserve">
+    <value>La Licenza di Staging è stata attivata con successo.</value>
+  </data>
+  <data name="Success.TestLicenseActivated" xml:space="preserve">
+    <value>La Licenza di Test è stata attivata con successo.</value>
+  </data>
+  <data name="Success.TrialActivation" xml:space="preserve">
+    <value>Your extended trial license has been successfully installed.</value>
+  </data>
+  <data name="Success.TrialExtensionRequest" xml:space="preserve">
+    <value>La richiesta per l'estensione della tua licenza di prova è stata inviata. Dovresti ricevere un'email contenente le istruzioni per estendere la tua licenza entro un giorno lavorativo. Per ogni domanda o informazione riguardo all'estensione di una licenza di prova, contatta il reparto vendite di DNN Corp. al numero 650-288-3150.</value>
+  </data>
+</root>

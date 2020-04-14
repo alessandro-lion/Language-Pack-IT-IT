@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllowResize.Help">
+    <value xml:space="preserve">Seleziona questa casella per consentire agli utenti di ridimensionare le icone.</value>
+  </data>
+  <data name="AllowResize.Text">
+    <value xml:space="preserve">Consenti Ridimensionamento Icone</value>
+  </data>
+  <data name="AllowViewChange.Help">
+    <value xml:space="preserve">Seleziona questa casella per consentire agli utenti di passare da una vista dettagliata ad una semplice.</value>
+  </data>
+  <data name="AllowViewChange.Text">
+    <value xml:space="preserve">Consenti Cambio Vista</value>
+  </data>
+  <data name="ConsoleWidth.Help">
+    <value xml:space="preserve">Lascia vuoto per consentire alle icone di espandersi orizzontalmente oppure inserisci un valore in pixel per ridurre la larghezza della console. Es. Imposta questo valore a 400 per 2 colonne di icone.</value>
+  </data>
+  <data name="ConsoleWidth.Text">
+    <value xml:space="preserve">Larghezza</value>
+  </data>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Impostazioni Console</value>
+  </data>
+  <data name="DefaultSize.Help">
+    <value xml:space="preserve">Determina la dimensione dell'icona.</value>
+  </data>
+  <data name="DefaultSize.Text">
+    <value xml:space="preserve">Dimensione Predefinita Icone</value>
+  </data>
+  <data name="DefaultView.Help">
+    <value xml:space="preserve">Determina la visualizzazione predefinita. La vista semplice mostra icone con descrizioni come ToolTip. La vista dettagliata mostrerà la lista con la descrizione per ciascuna voce.</value>
+  </data>
+  <data name="DefaultView.Text">
+    <value xml:space="preserve">Vista Predefinita</value>
+  </data>
+  <data name="Friends.Text">
+    <value xml:space="preserve">Amici</value>
+  </data>
+  <data name="Group.Text">
+    <value xml:space="preserve">Gruppo</value>
+  </data>
+  <data name="Hide.Text">
+    <value xml:space="preserve">Vista Semplice</value>
+  </data>
+  <data name="IconFile.Text">
+    <value xml:space="preserve">Icone Piccole (16px)</value>
+  </data>
+  <data name="IconFileLarge.Text">
+    <value xml:space="preserve">Icone Grandi (32px)</value>
+  </data>
+  <data name="IconNone.Text">
+    <value xml:space="preserve">Nessuna Icona</value>
+  </data>
+  <data name="IncludeHiddenPages.Help">
+    <value xml:space="preserve">Seleziona questa casella per includere le pagine che sono nascoste nel menu.</value>
+  </data>
+  <data name="IncludeHiddenPages.Text">
+    <value xml:space="preserve">Includi Pagine Nascoste</value>
+  </data>
+  <data name="IncludeParent.Help">
+    <value xml:space="preserve">Seleziona questa casella per includere la pagina padre.</value>
+  </data>
+  <data name="IncludeParent.Text">
+    <value xml:space="preserve">Includi il Padre</value>
+  </data>
+  <data name="Members.Text">
+    <value xml:space="preserve">Membri</value>
+  </data>
+  <data name="Mode.Help">
+    <value xml:space="preserve">Seleziona la modalità del modulo.</value>
+  </data>
+  <data name="Mode.Text">
+    <value xml:space="preserve">Modalità </value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;p&gt;Il modulo console visualizza le pagine figlio come icone e collegamenti, o categorie per facilitare la navigazione. Il modulo console ha 4 diverse modalità di visualizzazione:
+&lt;ul&gt;&lt;li&gt;icone piccole con dettagli nel tooltip (Icone Piccole, Vista Semplice)&lt;/li&gt;
+&lt;li&gt;icone grandi con dettagli nel tooltip (Icone Grandi,Vista Semplice)&lt;/li&gt;
+&lt;li&gt;elenchi icone piccole con dettagli (Icone Piccole, Vista Dettagliata) &lt;/li&gt;
+elenco icone grandi &lt;li&gt; con i dettagli (icone grandi, vista dettagliata) &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;h3&gt;Le Impostazioni di Pagina del modulo console dipendono da:&lt;/h3&gt;
+&lt;table cellpadding="4" border="1" 
+style="border:solid 1px#dcdcdc;border-collapse: collapse;"&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt;Nome Pagina&lt;/td&gt;&lt;td&gt;Il Nome della Pagina viene visualizzato come titolo link.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt;Descrizione Pagina&lt;/td&gt; &lt;td&gt;La Descrizione della Pagina è mostrata nel tooltip o nel dettaglio.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt;Disabilitato&lt;/td&gt; 
+&lt;td&gt;I titolo della categoria sono mostrati se la pagina ha il controllo 'Disabilitato'. Le pagine figlio della pagina disabilitata saranno mostrate sotto il titolo.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt;File Icona&lt;/td&gt;&lt;td&gt;Questa icona viene visualizzata nella visualizzazione a icone piccole.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt;File Icona Grande&lt;/td&gt; &lt;td&gt;Questa icona viene visualizzata nella visualizzazione a icone grandi.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;i&gt;Suggerimento: impostando 'Includi nel menu' verrà nascosta la pagine dal menu, ma non dalla console.&lt;/i&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h3&gt;Impsotazioni Modulo Console&lt;/h3&gt;
+&lt;table cellpadding="4" border="1" style="border:solid 1px #dcdcdc; border-collapse: collapse;"&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt;Mostra i figli di&lt;/td&gt;
+&lt;td&gt;Selezionando una pagina verranno mostrate tutte le pagine figlio di quella pagina. Lascia questo campo vuoto per visualizzare tutte le pagine figlio della pagina corrente.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt;Dimensione Predefintia delle icone&lt;/td&gt; 
+&lt;td&gt;Determina la dimensione dell'icona.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt;Permette di ridimensionare l'icona&lt;/td&gt;
+&lt;td&gt;Consenti all'utente di ridimensionare le icone.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt;Visualizzazione predefinita&lt;/td&gt;
+&lt;td&gt;Determina la visualizzazione predefinita. La vista semplice mostrerà le icone con le descrizioni di pagina nel tooltips. La vista dettagliata mostrerà una lista con le descrizioni per ciascun elemento.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt; Consenti modifica vista &lt;/td&gt;
+&lt;td&gt;Permetti all'utente di passare da vista semplice a dettagliata.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt; &lt;td nowrap="nowrap"&gt;Visualizza tooltip&lt;/td&gt; &lt;td&gt;Visualizza un tooltip con la descrizione dettagliata al passaggio del mouse sulle icone nella Vista Semplice.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt;Larghezza&lt;/td&gt;&lt;td&gt;Lascia questo valore vuoto per consentire alle icone di espandersi orizzontalmente oppure inserisci un valore in pixel per ridurre la larghezza della console. Ad esempio, imposta questo valore a 400 per 2 colonne di icone.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;i&gt;Suggerimento: È possibile impedire agli utenti di modificare il layout della pagina deselezionando 'Consenti Ridimensionamento Icone' e 'Consenti Cambio Vista'. &lt;/i&gt;</value>
+  </data>
+  <data name="Normal.Text">
+    <value xml:space="preserve">Normale</value>
+  </data>
+  <data name="OrderTabsByHierarchy.Help">
+    <value xml:space="preserve">Seleziona questa casella per riordinare l'elenco delle pagine per visualizzare le pagine padre e le proprie pagine figlio alla fine della lista. Questo permette di visualizzare le pagine padre e figlio nella stessa area della Console. In alternativa, deselezionare questa casella per visualizzare tutte le pagine in ordine alfabetico.</value>
+  </data>
+  <data name="OrderTabsByHierarchy.Text">
+    <value xml:space="preserve">Ordina Elementi per Gerarchia</value>
+  </data>
+  <data name="Owner.Text">
+    <value xml:space="preserve">Proprietario</value>
+  </data>
+  <data name="ParentTab.Help">
+    <value xml:space="preserve">Selezionando una pagina verranno visualizzate tutte le pagine figlio di questa pagina. Lasciare questo campo vuoto per visualizzare tutte le pagine dipendenti dalla pagina corrente.</value>
+  </data>
+  <data name="ParentTab.Text">
+    <value xml:space="preserve">Mostra i figli di</value>
+  </data>
+  <data name="Profile.Text">
+    <value xml:space="preserve">Profilo</value>
+  </data>
+  <data name="Show.Text">
+    <value xml:space="preserve">Vista Dettagliata</value>
+  </data>
+  <data name="ShowTooltip.Help">
+    <value xml:space="preserve">Seleziona questa casella per visualizzare una descrizione dettagliata al passaggio del mouse sulle icone nella Vista Semplice.</value>
+  </data>
+  <data name="ShowTooltip.Text">
+    <value xml:space="preserve">Mostra Tooltip</value>
+  </data>
+  <data name="tabsLabel.Help">
+    <value xml:space="preserve">È possibile gestire la visibilità delle pagine individuali... </value>
+  </data>
+  <data name="tabsLabel.Text">
+    <value xml:space="preserve">Impostazioni di Visibilità di Pagina:</value>
+  </data>
+  <data name="User.Text">
+    <value xml:space="preserve">Utente</value>
+  </data>
+</root>

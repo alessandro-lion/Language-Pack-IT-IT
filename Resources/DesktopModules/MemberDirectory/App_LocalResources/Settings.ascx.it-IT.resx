@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="alternateItemTemplateLabel.Help">
+    <value xml:space="preserve">Il template elemento alternativo viene utilizzato per visualizzare i dettagli di ogni memnbro (anche) alternativo.</value>
+  </data>
+  <data name="alternateItemTemplateLabel.Text">
+    <value xml:space="preserve">Template Elemento Alternativo</value>
+  </data>
+  <data name="Ascending.Text">
+    <value xml:space="preserve">Ascendente</value>
+  </data>
+  <data name="Biography.Text">
+    <value xml:space="preserve">Biografia</value>
+  </data>
+  <data name="Cell.Text">
+    <value xml:space="preserve">Cell</value>
+  </data>
+  <data name="City.Text">
+    <value xml:space="preserve">Città</value>
+  </data>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Impostazioni Member Directory</value>
+  </data>
+  <data name="Country.Text">
+    <value xml:space="preserve">Paese</value>
+  </data>
+  <data name="DateCreated.Text">
+    <value xml:space="preserve">Data Creazione</value>
+  </data>
+  <data name="Descending.Text">
+    <value xml:space="preserve">Discendente</value>
+  </data>
+  <data name="disablePagerLabel.Help">
+    <value xml:space="preserve">Seleziona questa casella per disattivare il pulsante "Mostra Altro". Verrà visualizzata solo la prima pagina dei risultati.</value>
+  </data>
+  <data name="disablePagerLabel.Text">
+    <value xml:space="preserve">Disabilita Impaginazione:</value>
+  </data>
+  <data name="DisplayName.Text">
+    <value xml:space="preserve">Nickname:</value>
+  </data>
+  <data name="DisplaySearch_Both.Text">
+    <value xml:space="preserve">Ricerca Semplice e Avanzata</value>
+  </data>
+  <data name="DisplaySearch_None.Text">
+    <value xml:space="preserve">Nessuna</value>
+  </data>
+  <data name="DisplaySearch_Simple.Text">
+    <value xml:space="preserve">Ricerca Semplice</value>
+  </data>
+  <data name="displaySearchLabel.Help">
+    <value xml:space="preserve">Scegli "Semplice" per visualizzare solo l'opzione di ricerca semplice; "Ricerca Semplice e Avanzata" per visualizzare entrambe le opzioni di ricerca; o "Nessuna" per rimuovere la ricerca.</value>
+  </data>
+  <data name="displaySearchLabel.Text">
+    <value xml:space="preserve">Mostra Ricerca:</value>
+  </data>
+  <data name="Email.Text">
+    <value xml:space="preserve">E-mail</value>
+  </data>
+  <data name="enablePopUpLabel.Help">
+    <value xml:space="preserve">Seleziona questa casella per abilitare il template popup.</value>
+  </data>
+  <data name="enablePopUpLabel.Text">
+    <value xml:space="preserve">Abilita PopUp:</value>
+  </data>
+  <data name="ExcludeHostUsersLabel.Help">
+    <value xml:space="preserve">Seleziona questa casella per escludere i Super User dai risultati di ricerca.</value>
+  </data>
+  <data name="ExcludeHostUsersLabel.Text">
+    <value xml:space="preserve">Escludi Utenti Host:</value>
+  </data>
+  <data name="Fax.Text">
+    <value xml:space="preserve">Fax</value>
+  </data>
+  <data name="filterBySelectorLabel.Help">
+    <value xml:space="preserve">È possibile filtrare l'elenco dei membri visualizzati selezionando il tipo di filtro e quindi scegliendo un ruolo, una relazione o un profilo.</value>
+  </data>
+  <data name="filterBySelectorLabel.Text">
+    <value xml:space="preserve">Filtra Per:</value>
+  </data>
+  <data name="Filters.Text">
+    <value xml:space="preserve">Filtri e Ordinamento</value>
+  </data>
+  <data name="FirstName.Text">
+    <value xml:space="preserve">Nome</value>
+  </data>
+  <data name="Group.Text">
+    <value xml:space="preserve">Gruppo</value>
+  </data>
+  <data name="IM.Text">
+    <value xml:space="preserve">IM</value>
+  </data>
+  <data name="itemTemplateLabel.Help">
+    <value xml:space="preserve">Il template elemento è utilizzato per visualizzare i dettagli di ogni membro (casuale) alternativa.</value>
+  </data>
+  <data name="itemTemplateLabel.Text">
+    <value xml:space="preserve">Template Elemento:</value>
+  </data>
+  <data name="LastName.Text">
+    <value xml:space="preserve">Cognome</value>
+  </data>
+  <data name="MiddleName.Text">
+    <value xml:space="preserve">Secondo Nome</value>
+  </data>
+  <data name="None.Text">
+    <value xml:space="preserve">Nessun Filtro</value>
+  </data>
+  <data name="pageSize.Error">
+    <value xml:space="preserve">La dimensione di pagina deve esser tra 1 e 100.</value>
+  </data>
+  <data name="pageSizeLabel.Help">
+    <value xml:space="preserve">Imposta la dimensione di ogni pagina inserendo un numero tra 1 e 100.</value>
+  </data>
+  <data name="pageSizeLabel.Text">
+    <value xml:space="preserve">Dimensione Pagina:</value>
+  </data>
+  <data name="Paging.Text">
+    <value xml:space="preserve">Opzioni Impaginazione:</value>
+  </data>
+  <data name="popUpTemplateLabel.Help">
+    <value xml:space="preserve">Il template popup viene utilizzato per mostrare i dettagli di un singolo membro all'interno di una finestra popup.</value>
+  </data>
+  <data name="popUpTemplateLabel.Text">
+    <value xml:space="preserve">Template PopUp :</value>
+  </data>
+  <data name="PostalCode.Text">
+    <value xml:space="preserve">Codice Postale</value>
+  </data>
+  <data name="PreferredLocale.Text">
+    <value xml:space="preserve">Lingua Preferita</value>
+  </data>
+  <data name="Prefix.Text">
+    <value xml:space="preserve">Prefisso</value>
+  </data>
+  <data name="ProfileProperty.Text">
+    <value xml:space="preserve">Proprietà Profilo</value>
+  </data>
+  <data name="Region.Text">
+    <value xml:space="preserve">Regione</value>
+  </data>
+  <data name="Relationship.Text">
+    <value xml:space="preserve">Relazioni</value>
+  </data>
+  <data name="Search.Text">
+    <value xml:space="preserve">Impostazioni di Ricerca</value>
+  </data>
+  <data name="searchField1Label.Help">
+    <value xml:space="preserve">Seleziona il primo campo da visualizzare nella ricerca avanzata.</value>
+  </data>
+  <data name="searchField1Label.Text">
+    <value xml:space="preserve">Campo di ricerca 1:</value>
+  </data>
+  <data name="searchField2Label.Help">
+    <value xml:space="preserve">Seleziona il secondo campo da visualizzare nella ricerca avanzata.</value>
+  </data>
+  <data name="searchField2Label.Text">
+    <value xml:space="preserve">Campo di ricerca 2:</value>
+  </data>
+  <data name="searchField3Label.Help">
+    <value xml:space="preserve">Seleziona il terzo campo da visualizzare nella ricerca avanzata.</value>
+  </data>
+  <data name="searchField3Label.Text">
+    <value xml:space="preserve">Campo di ricerca 3:</value>
+  </data>
+  <data name="searchField4Label.Help">
+    <value xml:space="preserve">Seleziona il quarto campo da visualizzare nella ricerca avanzata.</value>
+  </data>
+  <data name="searchField4Label.Text">
+    <value xml:space="preserve">Campo di ricerca 4:</value>
+  </data>
+  <data name="sortFieldListLabel.Help">
+    <value xml:space="preserve">Seleziona il campo da utilizzare per ordinare i membri.</value>
+  </data>
+  <data name="sortFieldListLabel.Text">
+    <value xml:space="preserve">Campo di Ordinamento:</value>
+  </data>
+  <data name="sortOrderListLabel.Help">
+    <value xml:space="preserve">Seleziona il tipo di ordinamento da utilizzare per ordinare i membri.</value>
+  </data>
+  <data name="sortOrderListLabel.Text">
+    <value xml:space="preserve">Ordinamento:</value>
+  </data>
+  <data name="Street.Text">
+    <value xml:space="preserve">Via</value>
+  </data>
+  <data name="Suffix.Text">
+    <value xml:space="preserve">Suffisso</value>
+  </data>
+  <data name="Telephone.Text">
+    <value xml:space="preserve">Telefono</value>
+  </data>
+  <data name="Templates.Text">
+    <value xml:space="preserve">Template</value>
+  </data>
+  <data name="TimeZone.Text">
+    <value xml:space="preserve">Fuso Orario</value>
+  </data>
+  <data name="Unit.Text">
+    <value xml:space="preserve">Interno</value>
+  </data>
+  <data name="User.Text">
+    <value xml:space="preserve">Utente</value>
+  </data>
+  <data name="UserId.Text">
+    <value xml:space="preserve">Id Utente</value>
+  </data>
+  <data name="Username.Text">
+    <value xml:space="preserve">Nome Utente</value>
+  </data>
+  <data name="Website.Text">
+    <value xml:space="preserve">Sito Web</value>
+  </data>
+</root>
