@@ -4,12 +4,12 @@
       <friendlyName>DNN Core italiano (Italia)</friendlyName>
       <description>Italian (Italy) language pack for DNN Platform.</description>
       <iconFile />
-      <owner>
-        <organization.NET Foundation</organization>
-        <url>https://www.dnncommunity.org</url>
-        <email>info@dnncommunity.org</email>
-      </owner>
-      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="CoreLanguage">
@@ -463,15 +463,14 @@
     </package>
     <package name="DDRMenu italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>DDR Menu italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for DDR Menu italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for DDR Menu italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -492,15 +491,14 @@
     </package>
     <package name="DigitalAssetsManagement italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Digital Asset Management italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for Digital Asset Management italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for Digital Asset Management italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -549,15 +547,14 @@
     </package>
     <package name="DNN_HTML italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>HTML italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for HTML italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for HTML italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -594,15 +591,14 @@
     </package>
     <package name="Journal italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Journal italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for Journal italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for Journal italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -631,15 +627,14 @@
     </package>
     <package name="DotNetNuke.Modules.MemberDirectory italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Member Directory italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for Member Directory italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for Member Directory italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -660,15 +655,14 @@
     </package>
     <package name="DotNetNuke.Modules.CoreMessaging italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Message Center italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for Message Center italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for Message Center italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -689,15 +683,14 @@
     </package>
     <package name="DNNCorp.RazorHost italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Razor Host italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for Razor Host italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for Razor Host italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -730,15 +723,14 @@
     </package>
     <package name="Social Groups italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Social Groups italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for Social Groups italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for Social Groups italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -771,15 +763,14 @@
     </package>
     <package name="DefaultAuthentication italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Default Authentication italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for Default Authentication italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for Default Authentication italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -800,15 +791,14 @@
     </package>
     <package name="Dnn.EditBar.UI italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Dnn.EditBar.UI italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for Dnn.EditBar.UI italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for Dnn.EditBar.UI italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -841,15 +831,14 @@
     </package>
     <package name="Dnn.PersonaBar.UI italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Dnn.PersonaBar.UI italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for Dnn.PersonaBar.UI italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for Dnn.PersonaBar.UI italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -958,15 +947,14 @@
     </package>
     <package name="SiteExportImport italiano (Italia)" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Site Export Import italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for Site Export Import italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for Site Export Import italiano (Italia).<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -983,15 +971,14 @@
     </package>
     <package name="Dnn.AzureConnector_it-IT" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>Dnn Azure Connector italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for Dnn Azure Connector.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for Dnn Azure Connector.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -1008,15 +995,14 @@
     </package>
     <package name="AspNetClientCapabilityProvider_it-IT" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>DotNetNuke ASP.NET Client Capability Provider italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for DotNetNuke ASP.NET Client Capability Provider.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for DotNetNuke ASP.NET Client Capability Provider.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -1033,15 +1019,14 @@
     </package>
     <package name="DotNetNuke.Providers.FolderProviders_it-IT" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>DotNetNuke Folder Providers italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for DotNetNuke Folder Providers.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for DotNetNuke Folder Providers.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -1058,15 +1043,14 @@
     </package>
     <package name="DNNConnect.CKEditorProvider_it-IT" type="ExtensionLanguagePack" version="09.02.00">
       <friendlyName>DNN Connect CKEditor Provider italiano (Italia)</friendlyName>
-      <description><![CDATA[Italian (Italy) language pack for DNN Connect CKEditor Provider.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[Italian (Italy) language pack for DNN Connect CKEditor Provider.<br />This translation of DNN into Italian (Italy) was done by <a href="http://www.opsi.it">OPSI srl</a>. ]]></description>
       <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"></license>			
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
