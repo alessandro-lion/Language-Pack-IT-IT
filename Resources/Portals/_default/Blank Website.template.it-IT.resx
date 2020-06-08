@@ -19,7 +19,7 @@
     <value xml:space="preserve">it-IT</value>
   </data>
   <data name="Setting.FooterText.Text">
-    <value xml:space="preserve">Copyright [year] by DNN Corp</value>
+    <value xml:space="preserve">Copyright [year] il mio sito web</value>
   </data>
   <data name="PortalDescription.Text">
     <value xml:space="preserve">Template Vuoto</value>

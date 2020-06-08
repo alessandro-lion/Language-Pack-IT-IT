@@ -25,7 +25,7 @@
     <value xml:space="preserve">it-IT</value>
   </data>
   <data name="Setting.FooterText.Text">
-    <value xml:space="preserve">Copyright [year] by DNN Corp</value>
+    <value xml:space="preserve">Copyright [year] il mio sito web</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Content.Text">
     <value xml:space="preserve">Spiacente, la pagina che state cercando non può essere trovata e potrebbe essere stata rimossa, aver cambiato nome, o è temporaneamente non disponibile. Si consiglia di iniziare nuovamente dalla home page. Non esitate a contattarci se il problema persiste o non doveste riuscire a trovare quello che state cercando.</value>
@@ -358,7 +358,7 @@
     <value xml:space="preserve">Rimani in contatto con DNN </value>
   </data>
   <data name="Tab.Home.SocialLinks.Twitter.Link">
-    <value xml:space="preserve">http://twitter.com/dnncorp</value>
+    <value xml:space="preserve">https://twitter.com/DNNAwareness</value>
   </data>
   <data name="Tab.Home.SocialLinks.Youtube.Link">
     <value xml:space="preserve">http://www.youtube.com/user/dotnetnuke</value>
